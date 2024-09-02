@@ -68,5 +68,33 @@
     "title": "第1章",
     "section": "习题2",
     "text": "习题2\n数据文件毕业生.xlsx\n\n数据文件下载: https://pan.baidu.com/s/1BESTgZl7whkY4HuSq6ZGgw?pwd=6789\n\n2.1 将毕业生.xlsx导入到SPSS中，查看数据有多少行？有多少个变量？\n2.2 报告月薪的均值、中位数、标准差、最小值和最大值。\n2.3 统计各个专业的毕业生的人数。哪个专业的人数最多？占比最少？\n2.4 统计各个专业的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.5 将毕业生按就业地点分为广州和非广州两个组别，报告这两个组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.6 将毕业生按性别分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.7 将毕业生按单位类型分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。"
+  },
+  {
+    "objectID": "chap2.html",
+    "href": "chap2.html",
+    "title": "第2章",
+    "section": "",
+    "text": "讲义"
+  },
+  {
+    "objectID": "chap2.html#题目1",
+    "href": "chap2.html#题目1",
+    "title": "第2章",
+    "section": "题目1",
+    "text": "题目1\n阅读以下推文\n\n微信公众号狗熊会&gt;精品案例&gt;bilibili人类云吸猫行为观察\n微信公众号狗熊会&gt;精品案例&gt;王者荣耀英雄职业数据探索性分析\n\n1.1 数据来源？\n1.2 样本容量？\n1.3 研究中使用了哪些变量？\n1.4 文中利用统计分析回答了哪些问题？"
+  },
+  {
+    "objectID": "chap2.html#教学视频",
+    "href": "chap2.html#教学视频",
+    "title": "第2章",
+    "section": "教学视频",
+    "text": "教学视频\n如何从中国知网下载统计数据？\n八爪鱼客户端抓取网页数据？\n如何用Excel整理提取的网页数据？"
+  },
+  {
+    "objectID": "chap2.html#数据资源",
+    "href": "chap2.html#数据资源",
+    "title": "第2章",
+    "section": "数据资源",
+    "text": "数据资源\nCSMAR 国泰安经济金融数据库 http://www.gtarsc.com/Home\n中国家庭追踪调查 CFPS http://www.isss.pku.edu.cn/cfps/\n中国家庭金融调查数据 CHFS https://chfs.swufe.edu.cn\n中国健康与养老数据追踪调查数据CHARLS http://charls.pku.edu.cn\n暨南大学社会调查中心 https://sdc-iesr.jnu.edu.cn\nKaggle https://www.kaggle.com/datasets"
   }
 ]
