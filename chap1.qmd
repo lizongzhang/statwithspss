@@ -4,19 +4,84 @@ title: "第1章"
 
 # 第1章 导论
 
-<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/stat/chap1.html){target="_blank"}
+<img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/statspss/chap1.html)
 
-## R语言与统计应用课前准备
+## 软件工具
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px;">[R和R Studio的下载](https://www.bilibili.com/video/BV1334y1y7U5/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px;">[如何加载Excel的“数据分析”加载项](https://www.bilibili.com/video/BV19S4y1r7E4/)
 
-<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px">[R和RStudio的安装](https://www.bilibili.com/video/BV1eR4y1V7uW/)
+<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px">[不用安装就可以免费使用的网页版Excel](https://www.bilibili.com/video/BV1w6421w7Rf/)
 
-若无法安装R和R Studio, 请观看：
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[如何将WORD文档转成图片？](https://www.bilibili.com/video/BV1GU4y1f7f9/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[不用安装就能用的RStudio------RStudio
-                Cloud](https://www.bilibili.com/video/BV1zY4y1M7HX/)
+## SPSS视频教学
 
- RStudio Cloud
 
-<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">posit cloud <https://posit.cloud/>
+<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px">[SPSS主菜单](https://www.bilibili.com/video/BV1N541177z6/)
+
+<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 如何导入Excel文件](https://www.bilibili.com/video/BV1N541177z6/)
+
+<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 提高效率的5个按钮](https://www.bilibili.com/video/BV1vN411p7ok/)
+
+
+<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px">[SPSS拆分文件 分组数据的统计量的比较](https://www.bilibili.com/video/BV1sy4y1C7FY)
+
+
+
+<img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 如何将输出结果导出为WORD文档？](https://www.bilibili.com/video/BV1o34y1N7qf/)
+
+## SPSS习题
+
+习题1: 数据文件telco.sav 
+
+- telco.sav文件在SPSS安装目录下, 在电脑搜索文件名找到该文件。
+
+- Windows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English
+
+- Mac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/
+
+- sample files简介：<https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files>
+
+1.1 在SPSS中打开telco.sav文件，查看数据有多少行？有多少个变量？
+
+1.2 telco.sav文件中的变量ed的含义是什么？ed有哪几种取值？每种取值各有多少个个案？
+
+1.3 telco.sav文件中的变量tenure的含义是什么？报告address的均值、中位数、标准差。
+
+1.4 telco.sav文件中的变量address的含义是什么？报告address的均值、中位数、标准差。
+
+1.5 报告age, income, employ, resid的均值、中位数、标准差、最小值和最大值。
+
+
+习题2: 数据文件毕业生.xlsx
+
+-   数据文件下载: <https://pan.baidu.com/s/1BESTgZl7whkY4HuSq6ZGgw?pwd=6789> 
+
+2.1 将毕业生.xlsx导入到SPSS中，查看数据有多少行？有多少个变量？
+
+2.2 报告月薪的均值、中位数、标准差、最小值和最大值。
+
+2.3 统计各个专业的毕业生的人数。哪个专业的人数最多？占比最少？
+
+2.4 统计各个专业的毕业生的月薪的均值、中位数、标准差、最小值和最大值。
+
+2.5 将毕业生按就业地点分为广州和非广州两个组别，报告这两个组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。
+
+2.6 将毕业生按性别分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。
+
+2.7 将毕业生按单位类型分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。
+
+
+
+
+## 拓展资源
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">经管之家 <https://bbs.pinggu.org/> 
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">狗熊会(微信公众号) <https://www.xiong99.com.cn/> 
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">UCLA Data Analysis Examples <https://stats.oarc.ucla.edu/other/dae/> 
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">Learn Excel with Examples <https://www.excel-easy.com/examples.html> 
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">The Data And Story Library <https://dasl.datadescription.com/> 
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> Kaggle <https://www.kaggle.com/> 

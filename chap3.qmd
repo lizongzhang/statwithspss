@@ -6,17 +6,49 @@ title: "第3章"
 
 <img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/stat/chap3.html){target="_blank"}
 
-## 教学视频
+## Excel教学视频
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel图表工具合集](https://www.bilibili.com/video/BV1uK4y1X752/)
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[EXCEL数据清洗合集](https://www.bilibili.com/video/BV1uc41177Mn/)
 
+## SPSS教学视频
+
+
+### 定量数据的图表工具
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 简单箱线图](https://www.bilibili.com/video/BV1Bt4y1v7vP/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 簇状箱线图](https://www.bilibili.com/video/BV1xK4y1h7xr/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 直方图](https://www.bilibili.com/video/BV1Up4y1r7aV/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 分组直方图](https://www.bilibili.com/video/BV1Fr4y1F7RM/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 探索工具](https://www.bilibili.com/video/BV1af4y1B7Bi/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 报告数值型数据的频数分布表](https://www.bilibili.com/video/BV1sK411G736/)
+
+### 定性数据的图表工具
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 帕累托图](https://www.bilibili.com/video/BV1HD4y1d7i6/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 简单条形图](https://www.bilibili.com/video/BV1HZ4y1L7kT/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 簇状条形图](https://www.bilibili.com/video/BV12A41177Wh/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 堆积条形图](https://www.bilibili.com/video/BV1yp4y1r7hv/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 交叉表](https://www.bilibili.com/video/BV1yi4y1j7Xi/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS
+    条形图------呈现不同组别的数据特征](https://www.bilibili.com/video/BV1G541177t7/)
+    
 ## 习题讲评
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel图表工具综合运用——基金经理](https://www.bilibili.com/video/BV1UJ4m1b7Lb/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[教材第3章习题讲评](https://www.bilibili.com/video/BV1t3411W7V9/)
-
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[教材第3章习题讲评](https://www.bilibili.com/video/BV1t3411W7V9/)    
+    
 ## 拓展资源
 
-<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> 在线词云图工具 <https://www.wordclouds.com/>
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> 在线词云图工具 <https://www.wordclouds.com/>    

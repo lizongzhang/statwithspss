@@ -15,9 +15,6 @@ title: "第2章"
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[如何用Excel整理提取的网页数据？](https://www.bilibili.com/video/BV1HL411N7BG/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[如何加载EXCEL数据分析加载项？](https://www.bilibili.com/video/BV19S4y1r7E4/)
-
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[如何将WORD文档转成图片？](https://www.bilibili.com/video/BV1GU4y1f7f9/)
 
 ## 数据资源
 
@@ -32,4 +29,7 @@ title: "第2章"
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">暨南大学社会调查中心  <https://sdc-iesr.jnu.edu.cn>
     
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">Kaggle  <https://www.kaggle.com/datasets>
+
+
+
 
