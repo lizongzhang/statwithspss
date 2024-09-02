@@ -6,7 +6,37 @@ title: "第1章"
 
 <img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/statspss/chap1.html)
 
-## 软件工具
+
+# 课堂练习
+
+## 题目1
+
+1.1 浏览下述网页，从该网页中可以提取二手房的哪些变量？
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> 五山房源1:
+<https://gz.esf.fang.com/chushou/3_263495871.htm>
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> 五山房源2:
+<https://gz.esf.fang.com/chushou/3_263497729.htm>
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> 五山房源3:
+<https://gz.esf.fang.com/chushou/3_263446238.htm>
+
+1.2 从该网页中提取的变量是分类数据(有序分类还是无序分类)还是数值数据(离散数据还是连续数据)？
+
+## 题目2
+
+2.1 开展关于毕业生薪酬的研究，你感兴趣那些问题？列出研究问题。
+
+2.2 针对你想研究的的问题，你想收集那些数据？列出变量名称，这些数据是分类数据(有序分类还是无序分类)是数值数据(离散数据还是连续数据)？
+
+
+
+
+
+
+
+# 软件工具
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px;">[如何加载Excel的“数据分析”加载项](https://www.bilibili.com/video/BV19S4y1r7E4/)
 
@@ -14,7 +44,7 @@ title: "第1章"
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[如何将WORD文档转成图片？](https://www.bilibili.com/video/BV1GU4y1f7f9/)
 
-## SPSS视频教学
+# SPSS视频教学
 
 
 <img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px">[SPSS主菜单](https://www.bilibili.com/video/BV1N541177z6/)
@@ -30,9 +60,11 @@ title: "第1章"
 
 <img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 如何将输出结果导出为WORD文档？](https://www.bilibili.com/video/BV1o34y1N7qf/)
 
-## SPSS习题
+# SPSS习题
 
-习题1: 数据文件telco.sav 
+## 习题1
+
+数据文件telco.sav 
 
 - telco.sav文件在SPSS安装目录下, 在电脑搜索文件名找到该文件。
 
@@ -53,7 +85,9 @@ title: "第1章"
 1.5 报告age, income, employ, resid的均值、中位数、标准差、最小值和最大值。
 
 
-习题2: 数据文件毕业生.xlsx
+## 习题2
+
+数据文件毕业生.xlsx
 
 -   数据文件下载: <https://pan.baidu.com/s/1BESTgZl7whkY4HuSq6ZGgw?pwd=6789> 
 
@@ -74,14 +108,16 @@ title: "第1章"
 
 
 
-## 拓展资源
+# 拓展资源
 
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">经管之家 <https://bbs.pinggu.org/> 
 
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">狗熊会(微信公众号) <https://www.xiong99.com.cn/> 
 
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">UCLA Data Analysis Examples <https://stats.oarc.ucla.edu/other/dae/> 
+
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">Learn Excel with Examples <https://www.excel-easy.com/examples.html> 
+
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">The Data And Story Library <https://dasl.datadescription.com/> 
 
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> Kaggle <https://www.kaggle.com/> 

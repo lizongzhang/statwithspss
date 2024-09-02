@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "chap1.html",
+    "href": "chap1.html",
+    "title": "第1章",
+    "section": "",
+    "text": "讲义"
+  },
+  {
+    "objectID": "chap1.html#软件工具",
+    "href": "chap1.html#软件工具",
+    "title": "第1章",
+    "section": "软件工具",
+    "text": "软件工具\n如何加载Excel的“数据分析”加载项\n不用安装就可以免费使用的网页版Excel\n如何将WORD文档转成图片？"
+  },
+  {
+    "objectID": "chap1.html#spss视频教学",
+    "href": "chap1.html#spss视频教学",
+    "title": "第1章",
+    "section": "SPSS视频教学",
+    "text": "SPSS视频教学\nSPSS主菜单\nSPSS 如何导入Excel文件\nSPSS 提高效率的5个按钮\nSPSS拆分文件 分组数据的统计量的比较\nSPSS 如何将输出结果导出为WORD文档？"
+  },
+  {
+    "objectID": "chap1.html#spss习题",
+    "href": "chap1.html#spss习题",
+    "title": "第1章",
+    "section": "SPSS习题",
+    "text": "SPSS习题\n习题1: 数据文件telco.sav\n\ntelco.sav文件在SPSS安装目录下, 在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 在SPSS中打开telco.sav文件，查看数据有多少行？有多少个变量？\n1.2 telco.sav文件中的变量ed的含义是什么？ed有哪几种取值？每种取值各有多少个个案？\n1.3 telco.sav文件中的变量tenure的含义是什么？报告address的均值、中位数、标准差。\n1.4 telco.sav文件中的变量address的含义是什么？报告address的均值、中位数、标准差。\n1.5 报告age, income, employ, resid的均值、中位数、标准差、最小值和最大值。\n习题2: 数据文件毕业生.xlsx\n\n数据文件下载: https://pan.baidu.com/s/1BESTgZl7whkY4HuSq6ZGgw?pwd=6789\n\n2.1 将毕业生.xlsx导入到SPSS中，查看数据有多少行？有多少个变量？\n2.2 报告月薪的均值、中位数、标准差、最小值和最大值。\n2.3 统计各个专业的毕业生的人数。哪个专业的人数最多？占比最少？\n2.4 统计各个专业的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.5 将毕业生按就业地点分为广州和非广州两个组别，报告这两个组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.6 将毕业生按性别分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.7 将毕业生按单位类型分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。"
+  },
+  {
+    "objectID": "chap1.html#拓展资源",
+    "href": "chap1.html#拓展资源",
+    "title": "第1章",
+    "section": "拓展资源",
+    "text": "拓展资源\n经管之家 https://bbs.pinggu.org/\n狗熊会(微信公众号) https://www.xiong99.com.cn/\nUCLA Data Analysis Examples https://stats.oarc.ucla.edu/other/dae/\nLearn Excel with Examples https://www.excel-easy.com/examples.html\nThe Data And Story Library https://dasl.datadescription.com/\n Kaggle https://www.kaggle.com/"
+  },
+  {
+    "objectID": "chap1.html#讨论题1",
+    "href": "chap1.html#讨论题1",
+    "title": "第1章",
+    "section": "讨论题1",
+    "text": "讨论题1\n1.1 开展关于毕业生薪酬的研究，你感兴趣那些问题？列出研究问题。\n1.2 针对你想研究的的问题，你想收集那些数据？列出变量名称，这些数据是分类数据(有序分类还是无序分类)是数值数据(离散数据还是连续数据)？"
+  },
+  {
+    "objectID": "chap1.html#题目1",
+    "href": "chap1.html#题目1",
+    "title": "第1章",
+    "section": "题目1",
+    "text": "题目1\n1.1 浏览下述网页，从该网页中可以提取二手房的哪些变量？\n 五山房源1: https://gz.esf.fang.com/chushou/3_263495871.htm\n 五山房源2: https://gz.esf.fang.com/chushou/3_263497729.htm\n 五山房源3: https://gz.esf.fang.com/chushou/3_263446238.htm\n1.2 从该网页中提取的变量是分类数据(有序分类还是无序分类)还是数值数据(离散数据还是连续数据)？"
+  },
+  {
+    "objectID": "chap1.html#题目2",
+    "href": "chap1.html#题目2",
+    "title": "第1章",
+    "section": "题目2",
+    "text": "题目2\n2.1 开展关于毕业生薪酬的研究，你感兴趣那些问题？列出研究问题。\n2.2 针对你想研究的的问题，你想收集那些数据？列出变量名称，这些数据是分类数据(有序分类还是无序分类)是数值数据(离散数据还是连续数据)？"
+  },
+  {
+    "objectID": "chap1.html#习题1",
+    "href": "chap1.html#习题1",
+    "title": "第1章",
+    "section": "习题1",
+    "text": "习题1\n数据文件telco.sav\n\ntelco.sav文件在SPSS安装目录下, 在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 在SPSS中打开telco.sav文件，查看数据有多少行？有多少个变量？\n1.2 telco.sav文件中的变量ed的含义是什么？ed有哪几种取值？每种取值各有多少个个案？\n1.3 telco.sav文件中的变量tenure的含义是什么？报告address的均值、中位数、标准差。\n1.4 telco.sav文件中的变量address的含义是什么？报告address的均值、中位数、标准差。\n1.5 报告age, income, employ, resid的均值、中位数、标准差、最小值和最大值。"
+  },
+  {
+    "objectID": "chap1.html#习题2",
+    "href": "chap1.html#习题2",
+    "title": "第1章",
+    "section": "习题2",
+    "text": "习题2\n数据文件毕业生.xlsx\n\n数据文件下载: https://pan.baidu.com/s/1BESTgZl7whkY4HuSq6ZGgw?pwd=6789\n\n2.1 将毕业生.xlsx导入到SPSS中，查看数据有多少行？有多少个变量？\n2.2 报告月薪的均值、中位数、标准差、最小值和最大值。\n2.3 统计各个专业的毕业生的人数。哪个专业的人数最多？占比最少？\n2.4 统计各个专业的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.5 将毕业生按就业地点分为广州和非广州两个组别，报告这两个组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.6 将毕业生按性别分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.7 将毕业生按单位类型分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。"
+  }
+]
