@@ -18,16 +18,16 @@ title: "第1章"
 
 <summary>点击浏览图片</summary>
 
-房源1：五山花园
+- 房源1：五山花园
 
-<img src="img/house1.png" alt="五山花园">
+<img src="img/house_1.png" alt="五山花园">
 
-房源2：华农嵩山
-<img src="img/house2.png" alt="华农嵩山">
+- 房源2：华农嵩山
+<img src="img/house_2.png" alt="华农嵩山">
 
 
-房源3：汇景新城
-<img src="img/house3.png" alt="汇景新城">
+- 房源3：汇景新城
+<img src="img/house_3.png" alt="汇景新城">
 
 
 
