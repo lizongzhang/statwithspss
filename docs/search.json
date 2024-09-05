@@ -102,7 +102,7 @@
     "href": "case.html",
     "title": "小组案例与实验报告",
     "section": "",
-    "text": "提交分组信息：https://www.wjx.top/vm/e3AyWsR.aspx#"
+    "text": "每组4-5人，由组长填写在线问卷，提交分组信息：https://www.wjx.top/vm/e3AyWsR.aspx#"
   },
   {
     "objectID": "case.html#小组案例分析作业",
@@ -145,5 +145,19 @@
     "title": "第2章",
     "section": "拓展资源",
     "text": "拓展资源\nCSMAR 国泰安经济金融数据库 http://www.gtarsc.com/Home\n中国家庭追踪调查 CFPS http://www.isss.pku.edu.cn/cfps/\n中国家庭金融调查数据 CHFS https://chfs.swufe.edu.cn\n中国健康与养老数据追踪调查数据CHARLS http://charls.pku.edu.cn\n暨南大学社会调查中心 https://sdc-iesr.jnu.edu.cn\nKaggle https://www.kaggle.com/datasets"
+  },
+  {
+    "objectID": "case.html#第6周讨论课安排",
+    "href": "case.html#第6周讨论课安排",
+    "title": "小组案例与实验报告",
+    "section": "第6周讨论课安排",
+    "text": "第6周讨论课安排\n\n讨论课前准备\n\n数据要求：微观截面数据，有效样本容量大于100，定量变量至少3个，定性变量至少3个。\n在Excel中整理好收集的数据，变量名称简洁含义明确，剔除有缺失值或异常值的个案，将其导入到SPSS。\n运用第3-4章绘制图表，报告描述性统计量，制作好演示文件PPT。\n遇到的问题和困难。\n请带笔记本电脑。"
+  },
+  {
+    "objectID": "case.html#第13周讨论课安排",
+    "href": "case.html#第13周讨论课安排",
+    "title": "小组案例与实验报告",
+    "section": "第13周讨论课安排",
+    "text": "第13周讨论课安排\n\n讨论课前准备\n\n在Excel中整理好收集的数据。\n运用第9章、第10章、第11章(可选做)的方法分析数据。\n小组作业、实验报告中遇到的问题、困难。\n请带笔记本电脑。\n\n\n\n发言时间表和讨论时间表(见QQ群文件)"
   }
 ]
