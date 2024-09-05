@@ -46,21 +46,21 @@
     "href": "chap1.html#题目1",
     "title": "第1章",
     "section": "题目1",
-    "text": "题目1\n1.1 浏览下述网页，从该网页中可以提取二手房的哪些变量？\n 五山房源1: https://gz.esf.fang.com/chushou/3_263495871.htm\n 五山房源2: https://gz.esf.fang.com/chushou/3_263497729.htm\n 五山房源3: https://gz.esf.fang.com/chushou/3_263446238.htm\n1.2 从该网页中提取的变量是分类数据(有序分类还是无序分类), 还是数值数据(离散数据还是连续数据)？\n1.3 根据上述二手房房源信息，你感兴趣的问题是什么？"
+    "text": "题目1\n\n1.1 浏览下述二手房信息，可以提取二手房的哪些变量？\n\n\n点击浏览图片\n\n房源1：五山花园\n\n房源2：华农嵩山 \n房源3：汇景新城 \n\n\n1.2 从该网页中提取的变量是分类数据(有序分类还是无序分类), 还是数值数据(离散数据还是连续数据)？\n\n\n1.3 根据上述二手房房源信息，你感兴趣的问题是什么？"
   },
   {
     "objectID": "chap1.html#题目2",
     "href": "chap1.html#题目2",
     "title": "第1章",
     "section": "题目2",
-    "text": "题目2\n2.1 开展关于毕业生薪酬的研究，你感兴趣那些问题？列出研究问题。\n2.2 针对你想研究的的问题，你想收集那些数据？列出变量名称，这些数据是分类数据(有序分类还是无序分类), 还是数值数据(离散数据还是连续数据)？"
+    "text": "题目2\n\n2.1 开展关于毕业生薪酬的研究，你感兴趣那些问题？列出研究问题。\n\n\n2.2 针对你想研究的的问题，你想收集那些数据？列出变量名称，这些数据是分类数据(有序分类还是无序分类), 还是数值数据(离散数据还是连续数据)？"
   },
   {
     "objectID": "chap1.html#习题1",
     "href": "chap1.html#习题1",
     "title": "第1章",
     "section": "习题1",
-    "text": "习题1\n数据文件telco.sav\n\ntelco.sav文件在SPSS安装目录下, 在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 在SPSS中打开telco.sav文件，查看数据有多少行？有多少个变量？\n1.2 telco.sav文件中的变量ed的含义是什么？ed有哪几种取值？每种取值各有多少个个案？\n1.3 telco.sav文件中的变量tenure的含义是什么？报告address的均值、中位数、标准差。\n1.4 telco.sav文件中的变量address的含义是什么？报告address的均值、中位数、标准差。\n1.5 报告age, income, employ, resid的均值、中位数、标准差、最小值和最大值。"
+    "text": "习题1\n数据文件telco.sav\n\ntelco.sav文件在SPSS安装目录下, 在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 在SPSS中打开telco.sav文件，查看数据有多少行？有多少个变量？\n1.2 telco.sav文件中的变量ed的含义是什么？ed有哪几种取值？每种取值各有多少个个案？\n1.3 telco.sav文件中的变量tenure的含义是什么？报告tenure的均值、中位数、标准差。\n1.4 telco.sav文件中的变量address的含义是什么？报告address的均值、中位数、标准差。\n1.5 报告age, income, employ, resid的均值、中位数、标准差、最小值和最大值。"
   },
   {
     "objectID": "chap1.html#习题2",
@@ -96,5 +96,47 @@
     "title": "第2章",
     "section": "数据资源",
     "text": "数据资源\nCSMAR 国泰安经济金融数据库 http://www.gtarsc.com/Home\n中国家庭追踪调查 CFPS http://www.isss.pku.edu.cn/cfps/\n中国家庭金融调查数据 CHFS https://chfs.swufe.edu.cn\n中国健康与养老数据追踪调查数据CHARLS http://charls.pku.edu.cn\n暨南大学社会调查中心 https://sdc-iesr.jnu.edu.cn\nKaggle https://www.kaggle.com/datasets"
+  },
+  {
+    "objectID": "case.html",
+    "href": "case.html",
+    "title": "小组案例与实验报告",
+    "section": "",
+    "text": "提交分组信息：https://www.wjx.top/vm/e3AyWsR.aspx#"
+  },
+  {
+    "objectID": "case.html#小组案例分析作业",
+    "href": "case.html#小组案例分析作业",
+    "title": "小组案例与实验报告",
+    "section": "小组案例分析作业",
+    "text": "小组案例分析作业\n要求\n\n示例\n\n第3-4章 广州六大奶茶品牌\n第7-8章 小组作业收获感\n第8-9章 汽车油耗\n第9-10章 奶茶品牌、区位和价格\n第11章 二手房房价、区位和房龄"
+  },
+  {
+    "objectID": "case.html#往届小组作业演示文稿",
+    "href": "case.html#往届小组作业演示文稿",
+    "title": "小组案例与实验报告",
+    "section": "往届小组作业演示文稿",
+    "text": "往届小组作业演示文稿\n\n饮料特征分析——第3-4章图表工具和描述统计R\n广东省地市领导班子特征分析——第3章图表工具SPSS\n奶茶消费调查——第3章图表工具SPSS\n证监会录用人员特征——第3章图表工具Excel\n饮料特征分析——第7-8章区间估计和假设检验R\n证券分析师——第9-10章卡方检验和方差分析R\n饮料特征分析——第9-10章卡方检验和方差分析R\n广州市住宅房租比较——第10章方差分析SPSS\n大学生择偶观调查——第10章方差分析SPSS\n饮料特征分析——第11章相关和回归分析R"
+  },
+  {
+    "objectID": "case.html#实验报告",
+    "href": "case.html#实验报告",
+    "title": "小组案例与实验报告",
+    "section": "实验报告",
+    "text": "实验报告\n\n实验报告写作要求\n往届实验报告——饮料特征分析R"
+  },
+  {
+    "objectID": "case.html#第7周讨论课安排",
+    "href": "case.html#第7周讨论课安排",
+    "title": "小组案例与实验报告",
+    "section": "第7周讨论课安排",
+    "text": "第7周讨论课安排\n\n讨论课前准备\n\n数据要求：微观截面数据，有效样本容量大于100，定量变量至少3个，定性变量至少3个。\n在Excel中整理好收集的数据，变量名称简洁含义明确，剔除有缺失值或异常值的个案，将其导入到SPSS。\n运用第3-4章绘制图表，报告描述性统计量，制作好演示文件PPT。\n遇到的问题和困难。\n请带笔记本电脑。"
+  },
+  {
+    "objectID": "case.html#第14周讨论课安排",
+    "href": "case.html#第14周讨论课安排",
+    "title": "小组案例与实验报告",
+    "section": "第14周讨论课安排",
+    "text": "第14周讨论课安排\n\n讨论课前准备\n\n在Excel中整理好收集的数据。\n运用第9章、第10章、第11章(可选做)的方法分析数据。\n小组作业、实验报告中遇到的问题、困难。\n请带笔记本电脑。\n\n\n\n讨论时间表(见QQ群)"
   }
 ]
