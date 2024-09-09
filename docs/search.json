@@ -159,5 +159,61 @@
     "title": "小组案例与实验报告",
     "section": "第13周讨论课安排",
     "text": "第13周讨论课安排\n\n讨论课前准备\n\n在Excel中整理好收集的数据。\n运用第9章、第10章、第11章(可选做)的方法分析数据。\n小组作业、实验报告中遇到的问题、困难。\n请带笔记本电脑。\n\n\n\n发言时间表和讨论时间表(见QQ群文件)"
+  },
+  {
+    "objectID": "chap3.html",
+    "href": "chap3.html",
+    "title": "第3章",
+    "section": "",
+    "text": "讲义"
+  },
+  {
+    "objectID": "chap3.html#定性数据的图表工具",
+    "href": "chap3.html#定性数据的图表工具",
+    "title": "第3章",
+    "section": "定性数据的图表工具",
+    "text": "定性数据的图表工具\nSPSS 如何美化饼图\nSPSS 帕累托图\nSPSS 简单条形图\nSPSS 簇状条形图\nSPSS 堆积条形图\nSPSS 交叉表"
+  },
+  {
+    "objectID": "chap3.html#定量数据的图表工具",
+    "href": "chap3.html#定量数据的图表工具",
+    "title": "第3章",
+    "section": "定量数据的图表工具",
+    "text": "定量数据的图表工具\nSPSS 简单箱线图\nSPSS 簇状箱线图\nSPSS 直方图\nSPSS 分组直方图\nSPSS 探索工具\nSPSS 报告数值型数据的频数分布表\nSPSS条形图——呈现不同组别的数据特征"
+  },
+  {
+    "objectID": "chap3.html#习题1",
+    "href": "chap3.html#习题1",
+    "title": "第3章",
+    "section": "习题1",
+    "text": "习题1\n数据文件telco.sav\n\ntelco.sav文件在SPSS安装目录下, 在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 在SPSS中打开telco.sav文件，查看数据有多少行？有多少个变量？\n1.2 telco.sav文件中的变量ed的含义是什么？ed有哪几种取值？每种取值各有多少个个案？\n1.3 telco.sav文件中的变量tenure的含义是什么？报告tenure的均值、中位数、标准差。\n1.4 telco.sav文件中的变量address的含义是什么？报告address的均值、中位数、标准差。\n1.5 报告age, income, employ, resid的均值、中位数、标准差、最小值和最大值。"
+  },
+  {
+    "objectID": "chap3.html#习题2",
+    "href": "chap3.html#习题2",
+    "title": "第3章",
+    "section": "习题2",
+    "text": "习题2\n数据文件毕业生.xlsx\n\n数据文件下载: https://pan.baidu.com/s/1BESTgZl7whkY4HuSq6ZGgw?pwd=6789\n\n2.1 将毕业生.xlsx导入到SPSS中，查看数据有多少行？有多少个变量？\n2.2 报告月薪的均值、中位数、标准差、最小值和最大值。\n2.3 统计各个专业的毕业生的人数。哪个专业的人数最多？占比最少？\n2.4 统计各个专业的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.5 将毕业生按就业地点分为广州和非广州两个组别，报告这两个组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.6 将毕业生按性别分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.7 将毕业生按单位类型分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。"
+  },
+  {
+    "objectID": "chap3.html#拓展资源",
+    "href": "chap3.html#拓展资源",
+    "title": "第3章",
+    "section": "拓展资源",
+    "text": "拓展资源\n 在线词云图工具 https://www.wordclouds.com/"
+  },
+  {
+    "objectID": "chap3.html#习题1-telco.sav",
+    "href": "chap3.html#习题1-telco.sav",
+    "title": "第3章",
+    "section": "习题1 telco.sav",
+    "text": "习题1 telco.sav\n数据文件telco.sav\n\ntelco.sav文件在SPSS安装目录下,在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 绘制ed的频数分布表，在表中列出各个组别的人数及占比。\n1.2 绘制客户的ed的饼图, 在各个扇区标注百分比，为各个扇区设置你喜欢的颜色。\n1.3 绘制custcat的饼图，按各组百分比降序排列扇区，并在扇区上标注类别名称和百分比。\n1.4 绘制custcat的条形图，按各组频数降序排列条形，并在条形上方标注各组人数。\n1.5 绘制客户custcat和ed的列联表，在表中列出行的百分比，列的百分比。\n1.6 将客户按ed分组，绘制各个组别客户的income的直方图\n1.7 将客户按ed分组，绘制各个组别客户的income的箱线图。\n1.8 将客户按ed分组，绘制各个组别客户的tenure的直方图。\n1.9 将客户按ed分组，绘制各个组别客户的tenure的箱线图。\n1.10 将客户按region、gender分成6个组别，绘制各个组别客户的tenure的直方图。\n1.11 将客户按region、gender分成6个组别，绘制各个组别客户的income的直方图。\n1.12 绘制retire = YES的客户的income的茎叶图。"
+  },
+  {
+    "objectID": "chap3.html#习题2-毕业生.xlsx",
+    "href": "chap3.html#习题2-毕业生.xlsx",
+    "title": "第3章",
+    "section": "习题2 毕业生.xlsx",
+    "text": "习题2 毕业生.xlsx\n数据文件:毕业生.xlsx(在QQ 群文件的“实验数据”文件中）\n\n数据文件下载: https://pan.baidu.com/s/1BESTgZl7whkY4HuSq6ZGgw?pwd=6789\n\n数据文件：毕业生.xlsx(数据文件在QQ 群文件夹中）\n要求：利用SPSS完成\n2.1 绘制毕业生的专业分布的频数分布表、条形图(按各组频数降序排列条形)。\n2.2 绘制毕业生政治面貌分布的饼图，按各组百分比降序排列扇区，并在扇区上标注类别名称和百分比。\n条形图(按各组频数降序排列条形)，为各个扇区设置你喜欢的颜色。\n2.3 绘制毕业生政治面貌和性别的列联表，在表中列出行的百分比，列的百分比。\n2.4 将毕业生按专业分组，绘制各个专业毕业生月薪的直方图。\n2.5 将毕业生按是否在广州就业分组，绘制两个组别毕业生月薪的直方图\n2.6 将毕业生按专业分组，绘制各个专业毕业生月薪的箱线图。\n2.7 将毕业生按是否在广州就业分组，绘制两个组别毕业生月薪的箱线图。\n2.8 将毕业生按生源地是否在广州，就业地是否在广州分成4个组别，绘制各个组别毕业生薪酬的直方图。\n2.9 将毕业生按生源地是否在广州，就业地是否在广州分成4个组别，绘制各个组别毕业生薪酬的箱线图。\n2.10 绘制物流管理专业毕业生月薪的茎叶图。请简要描述该专业毕业生月薪分布的特征。（SPSS主菜单：分析，图…勾选茎叶图，提示：月薪分布在哪个区间最密集？其分布是对称、左偏还是右偏？）"
   }
 ]

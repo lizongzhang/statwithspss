@@ -50,9 +50,7 @@ title: "第1章"
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[如何将WORD文档转成图片？](https://www.bilibili.com/video/BV1GU4y1f7f9/)
 
-# SPSS视频教学
-
-
+# SPSS教学视频
 <img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px">[SPSS主菜单](https://www.bilibili.com/video/BV1N541177z6/)
 
 <img src="img/video.png" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 如何导入Excel文件](https://www.bilibili.com/video/BV1N541177z6/)
