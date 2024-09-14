@@ -10,6 +10,9 @@ title: "第3章"
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel图表工具合集](https://www.bilibili.com/video/BV1uK4y1X752/)
 
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel图表工具综合运用——基金经理](https://www.bilibili.com/video/BV1UJ4m1b7Lb/)
+
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[EXCEL数据清洗合集](https://www.bilibili.com/video/BV1uc41177Mn/)
 
 # SPSS教学视频
@@ -116,13 +119,56 @@ title: "第3章"
 
 2.10 绘制物流管理专业毕业生月薪的茎叶图。请简要描述该专业毕业生月薪分布的特征。（SPSS主菜单：分析\描述统计\探索，图…勾选茎叶图，提示：月薪分布在哪个区间最密集？其分布是对称、左偏还是右偏？）
 
+# Excel习题
+
+## 习题3 毕业生.xlsx
+
+数据文件：毕业生.xlsx(数据文件在QQ 群文件夹中），用Excel完成以下任务：
+
+3.1	绘制毕业生性别分布的频数分布表，在表中列出男性和女性的人数及比重。
+
+3.2	绘制毕业生性别分布的饼图和条形图。
+
+3.3	绘制毕业生的专业人数分布的频数分布表，在表中列出各个专业的人数和百分比。
+
+3.4	绘制毕业生各专业人数分布的帕累托图。
+
+3.5	绘制毕业生的政治面貌的频数分布表。
+
+3.6	绘制毕业生的政治面貌的瀑布图。
+
+3.7	绘制毕业生的就业单位类型的频数分布表。
+
+3.8	对毕业生先按性别、再按就业单位类型进行层级分组，绘制树状图。
+
+3.9	对毕业生先按性别、再按政治面貌进行层级分组，绘制树状图。
+
+## 习题4 毕业生.xlsx
+
+数据文件：毕业生.xlsx(数据文件在QQ 群文件夹中），用Excel完成以下任务：
+
+4.1	绘制毕业生月薪的频数分布表，采用适宜的组矩，在表中列出各个组别的人数和百分比。
+
+4.2	绘制毕业生月薪的直方图。
+
+4.3	绘制毕业生月薪的频数折线图、累积百分比折线图，在图中标注出频数或累积百分比。在870位毕业生中，月薪小于等于4000、小于等于6000的各占比多少？。
+
+4.4	绘制毕业生月薪的箱线图，在箱线图中标注出第1个四分位数、中位数和第3个四分位数。
+
 
 
 # 习题讲评
-c<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel图表工具综合运用——基金经理](https://www.bilibili.com/video/BV1UJ4m1b7Lb/)
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[教材第3章习题讲评](https://www.bilibili.com/video/BV1t3411W7V9/)    
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel习题3讲评](https://www.bilibili.com/video/BV1Py411z7LB/)  
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel习题4讲评](https://www.bilibili.com/video/BV1xx4y1J7pm/)  
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[教材第3章习题讲评](https://www.bilibili.com/video/BV1t3411W7V9/)  
+
+
+
+  
     
-## 拓展资源
+# 拓展资源
 
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> 在线词云图工具 <https://www.wordclouds.com/>    
