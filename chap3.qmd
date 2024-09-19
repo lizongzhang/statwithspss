@@ -6,6 +6,229 @@ title: "第3章"
 
 <img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/stat/chap3.html){target="_blank"}
 
+# 课堂练习
+
+## 题目1 饼图
+
+<details>
+
+
+数据来源：大众点评网，广州六大品牌奶茶店
+
+样本容量：336
+
+数据来源：大众点评网，广州6大奶茶品牌
+
+```{r}
+#| code-fold: TRUE
+#| code-summary: "Show the code"
+#| message: FALSE
+#| warning: FALSE
+
+
+library(tidyverse)
+library(readxl)
+data  <- read_excel("data/top6.xlsx")
+
+par(family  = 'STKaiti')
+library(showtext)
+showtext_auto()
+
+data %>% 
+  count(brand) %>% 
+  mutate(percent = round(n/sum(n)*100, 1))
+
+table(data$brand) %>% 
+  pie()
+
+pie_table <- data %>% 
+  count(brand) %>% 
+  mutate(percent = round(n/sum(n)*100, 1),
+         per_label = paste0(brand, " ", percent, "%")) %>% 
+  arrange(desc(percent))
+  
+pie(pie_table$percent, 
+    labels = pie_table$per_label, 
+    clockwise = TRUE,
+    init.angle = 90)
+
+
+
+```
+
+## 题目2 条形图
+
+<details>
+
+
+```{r}
+#| code-fold: TRUE
+#| code-summary: "Show the code"
+#| message: FALSE
+#| warning: FALSE
+
+
+data %>% ggplot(aes(brand, fill = brand)) + 
+  geom_bar() +
+  labs(x = "品牌", fill = "品牌") +
+  theme_bw() +
+  theme(text = element_text(size = 15),
+        legend.position = "bottom",
+        legend.text = element_text(size = 10)) 
+
+
+library(forcats)
+data %>% ggplot(aes(fct_infreq(brand), fill = brand)) + 
+  geom_bar() +
+  geom_text(stat = "count", aes(label = after_stat(count)), vjust = -1)+ 
+  scale_y_continuous(limits = c(0,100))+
+  guides(x = guide_axis(angle = 45)) +
+  labs(x = "品牌", fill = "品牌") +
+  theme_bw() +
+  theme(text = element_text(size = 15),
+        legend.position = "none",
+        legend.text = element_text(size = 10)) 
+
+```
+
+
+## 题目3 直方图
+
+<details>
+
+
+```{r}
+#| code-fold: TRUE
+#| code-summary: "Show the code"
+#| message: FALSE
+#| warning: FALSE
+
+library(ggplot2)
+
+# 难看的直方图
+ggplot(mpg, aes(x = hwy)) +
+  geom_histogram(binwidth = 5, color = "black", alpha = 0.9) +
+  labs(title = "Ugly Histogram", x = "Highway Mileage", y = "Count") +
+  theme(
+    plot.title = element_text(size = 20, hjust = 0.5, color = "purple"),
+    axis.title.x = element_text(size = 15, angle = 45, vjust = 1, color = "red"),
+    axis.title.y = element_text(size = 15, angle = 90, hjust = 1, color = "green"),
+    legend.position = "top",
+    panel.background = element_rect(fill = "pink"),
+    panel.grid.major = element_line(color = "yellow", size = 1)
+  )
+
+
+
+
+# 好看的直方图
+ggplot(mpg, aes(x = hwy)) +
+  geom_histogram(breaks = seq(12, 46, 2), 
+                 fill = "#0073C2FF", 
+                 color = "white", 
+                 alpha = 0.8) +
+  scale_x_continuous(breaks = seq(12, 46, 2),
+                     labels = seq(12, 46, 2)) +
+  scale_y_continuous(limits = c(0,50))+
+  labs(title = "Highway Mileage Distribution", x = "Highway Mileage", y = "Frequency") +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(size = 20, hjust = 0.5),
+    axis.title.x = element_text(size = 18),
+    axis.title.y = element_text(size = 18),
+    panel.grid.major = element_line(color = "grey90"),
+    panel.grid.minor = element_blank()
+  )
+
+```
+
+
+## 题目4 二维变量的作图
+
+<details>
+
+
+### 分组条形图
+
+```{r}
+#| code-fold: TRUE
+#| code-summary: "Show the code"
+#| message: FALSE
+#| warning: FALSE
+
+data %>%
+  group_by(area, brand) %>%
+  summarise(count = n(), .groups = "drop") %>% 
+  mutate(brand_order = paste(brand, area, rank(-count), sep = "_"))  %>% 
+  ggplot(aes(reorder(brand_order, -count),
+             count, fill = brand)) +
+  geom_col()+
+  facet_wrap(~ area, scales = "free_x", ncol = 3) +
+  geom_text(aes(label = count), vjust = -0.5) +
+  scale_x_discrete(labels = function(x) gsub("_.+$", "", x)) + # 移除排序编号
+  scale_y_continuous(limits = c(0, 42)) +
+  labs(x = "品牌", y = "数量") +
+  theme(axis.text.x = element_text(angle = 42, hjust = 1), 
+        legend.position = "none")
+
+
+```
+
+### 分组直方图
+
+```{r}
+#| code-fold: TRUE
+#| code-summary: "Show the code"
+#| message: FALSE
+#| warning: FALSE
+
+
+#按单个定性变量分组
+data %>% 
+  ggplot(aes(retail.price, fill = brand))+
+  geom_histogram(breaks = seq(6, 38, 2))+
+  facet_wrap(~brand, ncol = 2) +
+  scale_y_continuous(limits = c(0,60))+
+  scale_fill_brewer(palette  = "Set1") +
+  labs(title = "零售价直方图",
+       x = "零售价",
+       y = "频数") +
+  scale_x_continuous(breaks = seq(6, 36, 4),
+                     labels = seq(6, 36, 4)) +
+  theme_bw() +
+  theme(text = element_text(size = 15),
+        legend.position = "bottom",
+        legend.text = element_text(size = 10))
+
+
+```
+
+### 分组直方图
+
+```{r}
+#| code-fold: TRUE
+#| code-summary: "Show the code"
+#| message: FALSE
+#| warning: FALSE
+
+
+data %>% 
+  ggplot(aes(retail.price, reorder(brand, retail.price, FUN = median),
+             col = brand))+
+  geom_boxplot()+
+  labs(title ="六大奶茶品牌零售价格",
+       x = "零售价格",
+       y = "品牌", fill = "品牌")+
+  theme_bw() +
+  theme(text = element_text(size = 15),
+        legend.position = "bottom",
+        legend.text = element_text(size = 10))
+
+
+```
+
+
+
 # Excel教学视频
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel图表工具合集](https://www.bilibili.com/video/BV1uK4y1X752/)
