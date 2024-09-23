@@ -14,6 +14,20 @@ title: "第4章"
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel 数据分析加载项中的描述统计功能](https://www.bilibili.com/video/BV1Sy4y1r78g/){target="_blank"}
 
+# SPSS教学视频
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 图表构建器绘制簇状条形图](https://www.bilibili.com/video/BV1d14y167gw/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS29 图表构建器/茎叶图/分组直方图/分组箱线图](https://www.bilibili.com/video/BV1hH4y1p7Jo/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 报告数值型数据的频数分布表](https://www.bilibili.com/video/BV1sK411G736/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS条形图------呈现不同组别的数据特征](https://www.bilibili.com/video/BV1G541177t7/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 分组数据绘制描述性统计分析表格](https://www.bilibili.com/video/BV1cr4y1F7SA/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 如何自动生成三线表？](https://www.bilibili.com/video/BV19u411w7zm/)
+
 # SPSS习题
 
 ## 习题1 Employee data.sav 
