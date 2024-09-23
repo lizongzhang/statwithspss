@@ -6,7 +6,7 @@ title: "第4章"
 
 <img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/stat/chap4.html){target="_blank"}
 
-## 教学视频
+# Excel教学视频
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel 计算描述性统计量的函数](https://www.bilibili.com/video/BV1va411A7Db/){target="_blank"}
 
