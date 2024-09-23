@@ -355,5 +355,40 @@
     "title": "第3章",
     "section": "题目3 直方图",
     "text": "题目3 直方图\n\n\n\nShow the code\nlibrary(ggplot2)\n\n# 难看的直方图\nggplot(mpg, aes(x = hwy)) +\n  geom_histogram(binwidth = 5, color = \"black\", alpha = 0.9) +\n  labs(title = \"Ugly Histogram\", x = \"Highway Mileage\", y = \"Count\") +\n  theme(\n    plot.title = element_text(size = 20, hjust = 0.5, color = \"purple\"),\n    axis.title.x = element_text(size = 15, angle = 45, vjust = 1, color = \"red\"),\n    axis.title.y = element_text(size = 15, angle = 90, hjust = 1, color = \"green\"),\n    legend.position = \"top\",\n    panel.background = element_rect(fill = \"pink\"),\n    panel.grid.major = element_line(color = \"yellow\", size = 1)\n  )\n\n\n\n\n\n\n\n\n\nShow the code\n# 好看的直方图\nggplot(mpg, aes(x = hwy)) +\n  geom_histogram(breaks = seq(12, 46, 2), \n                 fill = \"#0073C2FF\", \n                 color = \"white\", \n                 alpha = 0.8) +\n  scale_x_continuous(breaks = seq(12, 46, 2),\n                     labels = seq(12, 46, 2)) +\n  scale_y_continuous(limits = c(0,50))+\n  labs(title = \"Highway Mileage Distribution\", x = \"Highway Mileage\", y = \"Frequency\") +\n  theme_minimal() +\n  theme(\n    plot.title = element_text(size = 20, hjust = 0.5),\n    axis.title.x = element_text(size = 18),\n    axis.title.y = element_text(size = 18),\n    panel.grid.major = element_line(color = \"grey90\"),\n    panel.grid.minor = element_blank()\n  )"
+  },
+  {
+    "objectID": "chap4.html",
+    "href": "chap4.html",
+    "title": "第4章",
+    "section": "",
+    "text": "讲义\n\n\nExcel 计算描述性统计量的函数\nEXCEL数据分析加载项\nExcel 数据分析加载项中的描述统计功能"
+  },
+  {
+    "objectID": "chap4.html#教学视频",
+    "href": "chap4.html#教学视频",
+    "title": "第4章",
+    "section": "",
+    "text": "Excel 计算描述性统计量的函数\nEXCEL数据分析加载项\nExcel 数据分析加载项中的描述统计功能"
+  },
+  {
+    "objectID": "chap4.html#习题1-employee-data.sav",
+    "href": "chap4.html#习题1-employee-data.sav",
+    "title": "第4章",
+    "section": "习题1 Employee data.sav",
+    "text": "习题1 Employee data.sav\n数据文件Employee data.sav\n\nEmployee data.sav文件在SPSS安装目录下,在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 Employee data.sav文件中一共有多少个个案，多少个变量？每个变量的含义是什么？\n1.2 报告educ的均值、中位数、标准差、最小值、最大值。\n1.3 根据educ的值创建定性变量educat, 创建规则为：若educ等于8， educat等于middle school; 若educ等于12， educat等于high school; 若educ大于等于14，且小于等于16， educat等于college; 若educ大于16， educat等postgraduate。报告educat的频数分布。\n1.4 创建变量salchange, 用于衡量current salary与beginning salary的差距。\n1.5 利用Employee data.sav文件中的变量，你还可以创建哪些变量？\n1.6 绘制salary的频数分布表，采用适当的组距，概括salary的分布在哪个区间最密集？\n1.7 绘制salbegin的频数分布表，采用适当的组距，概括salbegin的分布在哪个区间最密集？。\n1.8 按照性别分组，绘制各组别的salary的频数分布表，概括两个组别salary分布的差距。\n1.9 按照minor分组，绘制各组别的salbegin的频数分布表，概括两个组别salary分布的差距。\n1.10 选取两个定性变量，绘制簇状条形图。\n1.11 选取两个定性变量，绘制堆积条形图。\n1.12 选取一个定性变量，一个定量变量，绘制分组直方图。\n1.13 选取一个定性变量，两个定量变量，绘制分组散点图。\n1.14 将1.2中报告的表格，修改为三线表。"
+  },
+  {
+    "objectID": "chap4.html#习题讲评",
+    "href": "chap4.html#习题讲评",
+    "title": "第4章",
+    "section": "习题讲评",
+    "text": "习题讲评\n教材第4章习题讲评"
+  },
+  {
+    "objectID": "chap4.html#拓展资源",
+    "href": "chap4.html#拓展资源",
+    "title": "第4章",
+    "section": "拓展资源",
+    "text": "拓展资源"
   }
 ]
