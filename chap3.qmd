@@ -386,7 +386,7 @@ data %>%
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[教材第3章习题讲评](https://www.bilibili.com/video/BV1t3411W7V9/)  
 
-
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> [教材第3章习题学生习作点评](https://lizongzhang.github.io/statwithspss/docs/chap3ex.html){target="_blank"}
 
   
     
