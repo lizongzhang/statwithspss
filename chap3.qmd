@@ -239,7 +239,7 @@ data %>%
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[EXCEL数据清洗合集](https://www.bilibili.com/video/BV1uc41177Mn/)
 
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[EXCEL如何美化箱线图？](https://www.bilibili.com/video/BV1uc41177Mn/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[EXCEL如何美化箱线图？](https://www.bilibili.com/video/BV1imxqedE8B/)
 
 
 
