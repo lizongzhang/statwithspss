@@ -1,12 +1,12 @@
 ---
-title: "小组案例与实验报告"
+title: "案例与实验报告"
 ---
 
 **每组4-5人，由组长填写在线问卷，提交分组信息：<https://www.wjx.top/vm/e3AyWsR.aspx#> **
 
-## 小组案例分析作业
+## 小组案例作业
 
-<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[要求](https://lizongzhang.github.io/stat/teamwork.html)
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[案例作业要求](https://lizongzhang.github.io/stat/teamwork.html)
 
 -   示例
 
@@ -47,7 +47,9 @@ title: "小组案例与实验报告"
 -   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[实验报告写作要求](https://lizongzhang.github.io/statwithspss/report.html)
 
 
--   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——饮料特征分析R](https://lizongzhang.github.io/stat/stu_report.html)
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——B站热门视频分析SPSS](https://lizongzhang.github.io/statwithspss/stureportspss1.html)
+
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——中国电影票房TOP100分析SPSS](https://lizongzhang.github.io/statwithspss/stureportspss1.html)
 
 -   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——饮料特征分析R](https://lizongzhang.github.io/stat/stu_report.html)
 
