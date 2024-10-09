@@ -49,7 +49,7 @@ title: "案例与实验报告"
 
 -   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——B站热门视频分析SPSS](https://lizongzhang.github.io/statwithspss/stureportspss1.html)
 
--   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——中国电影票房TOP100分析SPSS](https://lizongzhang.github.io/statwithspss/stureportspss1.html)
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——中国电影票房TOP100分析SPSS](https://lizongzhang.github.io/statwithspss/stureportspss2.html)
 
 -   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——饮料特征分析R](https://lizongzhang.github.io/stat/stu_report.html)
 
