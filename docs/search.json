@@ -116,7 +116,7 @@
     "href": "case.html#实验报告",
     "title": "小组案例与实验报告",
     "section": "实验报告",
-    "text": "实验报告\n\n实验报告写作要求\n往届实验报告——饮料特征分析R"
+    "text": "实验报告\n\n实验报告写作要求\n往届实验报告——饮料特征分析R\n往届实验报告——饮料特征分析R"
   },
   {
     "objectID": "case.html#第6周讨论课安排",
@@ -747,5 +747,152 @@
     "title": "第6章",
     "section": "拓展资源",
     "text": "拓展资源\n分位数计算器 https://gallery.shinyapps.io/dist_calc/\nCentral Limit Theorem for Means https://gallery.shinyapps.io/CLT_mean/\n中心极限定理 n=2-31 https://astools.datadesk.com/clt.html\nGalton Board https://www.mathsisfun.com/data/quincunx.html"
+  },
+  {
+    "objectID": "report.html",
+    "href": "report.html",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "",
+    "text": "运用统计方法分析现实问题。"
+  },
+  {
+    "objectID": "report.html#封面",
+    "href": "report.html#封面",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "封面",
+    "text": "封面\n\n题目\n小组成员信息（按学号顺序排列）\n\n班级 学号 成员1\n班级 学号 成员2\n班级 学号 成员3"
+  },
+  {
+    "objectID": "report.html#前言",
+    "href": "report.html#前言",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "1 前言",
+    "text": "1 前言\n研究背景、选题动机、研究意义、提出要研究的问题。"
+  },
+  {
+    "objectID": "report.html#第6周讨论课安排",
+    "href": "report.html#第6周讨论课安排",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "第6周讨论课安排",
+    "text": "第6周讨论课安排\n\n讨论课前准备\n\n数据要求：微观截面数据，有效样本容量大于100，定量变量至少3个，定性变量至少3个。\n在Excel中整理好收集的数据，变量名称简洁含义明确，剔除有缺失值或异常值的个案，将其导入到SPSS。\n运用第3-4章绘制图表，报告描述性统计量，制作好演示文件PPT。\n遇到的问题和困难。\n请带笔记本电脑。"
+  },
+  {
+    "objectID": "report.html#第13周讨论课安排",
+    "href": "report.html#第13周讨论课安排",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "第13周讨论课安排",
+    "text": "第13周讨论课安排\n\n讨论课前准备\n\n在Excel中整理好收集的数据。\n运用第9章、第10章、第11章(可选做)的方法分析数据。\n小组作业、实验报告中遇到的问题、困难。\n请带笔记本电脑。\n\n\n\n发言时间表和讨论时间表(见QQ群文件)"
+  },
+  {
+    "objectID": "report.html#数据概况",
+    "href": "report.html#数据概况",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "2 数据概况",
+    "text": "2 数据概况\n介绍数据来源、数据收集过程、解释变量的含义。"
+  },
+  {
+    "objectID": "report.html#描述性统计分析chap-3-4",
+    "href": "report.html#描述性统计分析chap-3-4",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "3 描述性统计分析：Chap 3 & 4",
+    "text": "3 描述性统计分析：Chap 3 & 4\n运用表格或图形呈现关键变量的分布特征、报告其描述性统计量。"
+  },
+  {
+    "objectID": "report.html#参数估计-chap-7",
+    "href": "report.html#参数估计-chap-7",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "4 参数估计: Chap 7",
+    "text": "4 参数估计: Chap 7\n运用参数估计方法对总体参数（关键变量）进行推断。"
+  },
+  {
+    "objectID": "report.html#假设检验chap-8",
+    "href": "report.html#假设检验chap-8",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "5 假设检验：Chap 8",
+    "text": "5 假设检验：Chap 8\n运用假设检验对总体参数（关键变量）进行推断。"
+  },
+  {
+    "objectID": "report.html#独立性检验-chap-9",
+    "href": "report.html#独立性检验-chap-9",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "6 独立性检验: Chap 9",
+    "text": "6 独立性检验: Chap 9\n运用独立性检验讨论两个定性变量之间的关系。"
+  },
+  {
+    "objectID": "report.html#方差分析-chap-10",
+    "href": "report.html#方差分析-chap-10",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "7 方差分析: Chap 10",
+    "text": "7 方差分析: Chap 10\n运用方差分析讨论定性变量和定量变量之间的关系。"
+  },
+  {
+    "objectID": "report.html#相关与回归分析-chap-11",
+    "href": "report.html#相关与回归分析-chap-11",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "8 相关与回归分析: Chap 11",
+    "text": "8 相关与回归分析: Chap 11\n运用方差分析讨论定性变量和定量变量之间的关系。"
+  },
+  {
+    "objectID": "report.html#结论和展望",
+    "href": "report.html#结论和展望",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "9 结论和展望",
+    "text": "9 结论和展望\n总结研究结论, 本研究的不足, 值得进一步研究的问题"
+  },
+  {
+    "objectID": "report.html#个人心得体会每个小组成员独立撰写",
+    "href": "report.html#个人心得体会每个小组成员独立撰写",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "10 个人心得体会（每个小组成员独立撰写）",
+    "text": "10 个人心得体会（每个小组成员独立撰写）\n班级 学号 成员1\n\n本人在完成实验报告中的具体工作\n遇到过什么困难，如何解决该困难\n课程建议\n单个成员的心得体会字数不少于500字"
+  },
+  {
+    "objectID": "report.html#电子版提交要求",
+    "href": "report.html#电子版提交要求",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "电子版提交要求",
+    "text": "电子版提交要求\n\n提交时限：第17周上课日的前一天的19:00\nPDF版实验报告和数据文件提交到QQ群中的“实验报告及其数据文件”文件夹\nPDF文件命名格式：“小组编号 组长名 组长班级 实验报告.pdf”\nExcel或SPSS数据文件命名格式：“小组编号 组长名 组长班级 实验报告.xlsx/sav”"
+  },
+  {
+    "objectID": "report.html#纸质打印版要求",
+    "href": "report.html#纸质打印版要求",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "纸质打印版要求",
+    "text": "纸质打印版要求\n\n双面或单面打印皆可，黑白打印即可，无需彩色打印，无需制作硬壳封面。\n提交时限：第17周上课日"
+  },
+  {
+    "objectID": "report.html#纸质打印版提交要求",
+    "href": "report.html#纸质打印版提交要求",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "纸质打印版提交要求",
+    "text": "纸质打印版提交要求\n\n双面或单面打印皆可，黑白打印即可，无需彩色打印，无需制作硬壳封面。\n提交时限：第17周上课日"
+  },
+  {
+    "objectID": "report.html#纸质版提交要求",
+    "href": "report.html#纸质版提交要求",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "纸质版提交要求",
+    "text": "纸质版提交要求\n\n双面或单面打印皆可，黑白打印即可，无需彩色打印，无需制作硬壳封面, 三颗订书针装订。\n提交时限：第17周上课日"
+  },
+  {
+    "objectID": "report.html#课前准备",
+    "href": "report.html#课前准备",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "课前准备",
+    "text": "课前准备\n\n讨论问题：\n\n选题方向\n数据收集方式（数据库、网站、问卷调查）\n观测单元是什么？\n定量变量、定性变量分别是什么？\n若采用问卷调查的方式收集数据？如何设计题目收集到定量数据？被访者是否容易回答，数据质量是否可靠？\n遇到的困难\n\n数据要求：微观截面数据，有效样本容量大于100，定量变量至少3个，定性变量至少3个，建议变量个数超过8个。\n在Excel中整理好收集的数据，变量名称简洁含义明确，剔除有缺失值或异常值的个案，将其导入到SPSS。\n运用第3-4章绘制图表，报告描述性统计量，制作好演示文件PPT。\n请带笔记本电脑。"
+  },
+  {
+    "objectID": "report.html#电子版",
+    "href": "report.html#电子版",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "电子版",
+    "text": "电子版\n\n提交时限：第17周上课日的前一天的19:00\nPDF版实验报告和数据文件提交到QQ群中的“实验报告及其数据文件”文件夹\nPDF文件命名格式：“小组编号 组长名 组长班级 实验报告.pdf”\nExcel或SPSS数据文件命名格式：“小组编号 组长名 组长班级 实验报告.xlsx/sav”"
+  },
+  {
+    "objectID": "report.html#纸质版",
+    "href": "report.html#纸质版",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "纸质版",
+    "text": "纸质版\n\n双面或单面打印皆可，黑白打印即可，无需彩色打印，无需制作硬壳封面, 三颗订书针装订。\n提交时限：第17周上课日"
   }
 ]

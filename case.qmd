@@ -44,37 +44,60 @@ title: "小组案例与实验报告"
     
 ## 实验报告    
 
--   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[实验报告写作要求](https://lizongzhang.github.io/stat/report.html)
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[实验报告写作要求](https://lizongzhang.github.io/statwithspss/report.html)
+
 
 -   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——饮料特征分析R](https://lizongzhang.github.io/stat/stu_report.html)
 
-## 第6周讨论课安排
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——饮料特征分析R](https://lizongzhang.github.io/stat/stu_report.html)
 
-### 讨论课前准备
+# 第1次讨论课
 
--  数据要求：微观截面数据，有效样本容量大于100，定量变量至少3个，定性变量至少3个。
+-   讨论问题：
 
--  在Excel中整理好收集的数据，变量名称简洁含义明确，剔除有缺失值或异常值的个案，将其导入到SPSS。
+    -   选题方向 
+    
+    -   数据收集方式（数据库、网站、问卷调查）
+    
+    -   观测单元是什么？样本容量是否容易超过100？
+    
+    -   定量变量、定性变量分别是什么？
+    
+    -   若采用问卷调查的方式收集数据，如何设计题目收集到定量数据？被访者是否容易回答，数据质量是否可靠？
+    
+    -   遇到的困难
 
--  运用第3-4章绘制图表，报告描述性统计量，制作好演示文件PPT。
+-   数据要求：微观截面数据，有效样本容量大于100，定量变量至少3个，定性变量至少3个，建议变量个数超过8个。
 
--  遇到的问题和困难。
+-   在Excel中整理好收集的数据，变量名称简洁含义明确，剔除有缺失值或异常值的个案，将其导入到SPSS。
 
--  请带笔记本电脑。
+-   运用第3-4章绘制图表，报告描述性统计量，制作好演示文件PPT。
 
-## 第13周讨论课安排
+-   请带笔记本电脑。
 
-### 讨论课前准备
+# 第2次讨论课
 
--  在Excel中整理好收集的数据。
+-   在Excel中整理好收集的数据。
 
--  运用第9章、第10章、第11章(可选做)的方法分析数据。
+-   运用第9章、第10章、第11章(可选做)的方法分析数据。
 
--  小组作业、实验报告中遇到的问题、困难。
+-   小组作业、实验报告中遇到的问题、困难。
 
--  请带笔记本电脑。
+-   请带笔记本电脑。
 
-### 发言时间表和讨论时间表(见QQ群文件)
+# Q&A
+
+Q：实验报告与小组案例作业需用同样的选题和数据吗？
+
+A：建议用同样的选题和数据。若想用不同的选题或数据，也可。
+
+Q：实验报告中的统计分析必须要用SPSS软件来实现吗？
+
+A：创建数据文件阶段使用Excel更为方便，统计方法的实现以SPSS为主，Excel为辅。
+
+
+
+# 发言时间表(见QQ群文件)
 
 
 
