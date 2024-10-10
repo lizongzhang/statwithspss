@@ -121,6 +121,8 @@ title: "第6章"
 
 
 
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">F分布概率密度曲线<https://www.geogebra.org/m/zxt2xuRs>{target="_blank"}
+
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">分位数计算器 <https://gallery.shinyapps.io/dist_calc/>{target="_blank"}
   
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">Central Limit Theorem for Means
