@@ -4,21 +4,23 @@ title: "案例与实验报告"
 
 **每组4-5人，由组长填写在线问卷，提交分组信息：<https://www.wjx.top/vm/e3AyWsR.aspx#> **
 
-## 小组案例作业
+# 小组案例作业
+
+## 案例作业要求
 
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[案例作业要求](https://lizongzhang.github.io/stat/teamwork.html)
 
--   示例
+## 案例示例
 
-    -   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[第3-4章 广州六大奶茶品牌](https://lizongzhang.github.io/stat24/case1pre.html)
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[第3-4章 广州六大奶茶品牌](https://lizongzhang.github.io/stat24/case1pre.html)
   
-    -   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[第7-8章 小组作业收获感](https://lizongzhang.github.io/stat/case2.html)
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[第7-8章 小组作业收获感](https://lizongzhang.github.io/stat/case2.html)
 
-    -   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[第8-9章 汽车油耗](https://lizongzhang.github.io/stat24/case2pre.html)    
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[第8-9章 汽车油耗](https://lizongzhang.github.io/stat24/case2pre.html)    
   
-    -   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[第9-10章 奶茶品牌、区位和价格](https://lizongzhang.github.io/stat/case3.html)
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[第9-10章 奶茶品牌、区位和价格](https://lizongzhang.github.io/stat/case3.html)
   
-    -   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[第11章 二手房房价、区位和房龄](https://lizongzhang.github.io/stat/case4.html)
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[第11章 二手房房价、区位和房龄](https://lizongzhang.github.io/stat/case4.html)
 
 ## 往届小组作业演示文稿
 
@@ -42,16 +44,20 @@ title: "案例与实验报告"
 
 -   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[饮料特征分析——第11章相关和回归分析R](https://lizongzhang.github.io/stat/stu10.html) 
     
-## 实验报告    
+# 实验报告
+
+## 实验报告要求
 
 -   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[实验报告写作要求](https://lizongzhang.github.io/statwithspss/report.html)
 
 
--   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——B站热门视频分析SPSS](https://lizongzhang.github.io/statwithspss/stureportspss1.html)
+## 往届实验报告
 
--   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——中国电影票房TOP100分析SPSS](https://lizongzhang.github.io/statwithspss/stureportspss2.html)
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[SPSS与统计实验报告——B站热门视频分析](https://lizongzhang.github.io/statwithspss/stureportspss1.html)
 
--   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[往届实验报告——饮料特征分析R](https://lizongzhang.github.io/stat/stu_report.html)
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[SPSS与统计实验报告——中国电影票房TOP100分析SPSS](https://lizongzhang.github.io/statwithspss/stureportspss2.html)
+
+-   <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[R语言与统计应用实验报告——饮料特征分析](https://lizongzhang.github.io/stat/stu_report.html)
 
 # 第1次讨论课
 
@@ -95,7 +101,7 @@ A：建议用同样的选题和数据。若想用不同的选题或数据，也�
 
 Q：实验报告中的统计分析必须要用SPSS软件来实现吗？
 
-A：创建数据文件阶段使用Excel更为方便，统计方法的实现以SPSS为主，Excel为辅。
+A：创建数据文件阶段使用Excel更为方便，统计方法的实现主要用SPSS，可用Excel辅助。
 
 
 

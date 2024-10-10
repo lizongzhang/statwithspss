@@ -18,7 +18,7 @@ title: "第6章"
 ## 本章习题
 
 <details>
-  <summary>第1题至第3题</summary>
+  <summary>第1题至第5题</summary>
 
 ### 第1题
 
@@ -30,7 +30,6 @@ title: "第6章"
 
 在同一个坐标系下，绘制F(2,5)、F(5,10)、F(30,50)的概率密度曲线。
 
-答题要求：将绘制的概率密度曲线的图片上传至91速课平台。
 
 
 ### 第2题 如何用Excel生成服从t分布、卡方分布、F分布的随机数？
@@ -68,6 +67,25 @@ title: "第6章"
 10. $F_{0.05}(10,30) ; F_{0.95}(10,30)$;
 
 11. $X \sim F(5,10), P(X>3)=$ ?; $P(X<1)=$ ?
+
+### 第4题 总体分布为正态分布，样本均值的分布
+
+4.1 生成500个服从正态分布N(100,10^2)的随机数。将这500个数视作总体，从中随机抽取容量为4的样本，重复抽样100次，绘制100个样本的样本均值的直方图。
+
+4.2 生成500个服从正态分布N(100,10^2)的随机数。将这500个数视作总体，从中随机抽取容量为36的样本，复抽样100次，绘制100个样本的样本均值的直方图。
+
+4.3 比较4.1和4.2中的两幅直方图，概括两幅直方图的特征。
+
+### 第5题 中心极限定理
+
+5.1 生成1000个服从泊松分布Poisson(5)的随机数。将这1000个数视作总体，从中随机抽取容量为4的样本，重复抽样100次，绘制100个样本的样本均值的直方图。
+
+5.2 生成1000个服从泊松分布Poisson(5)的随机数。将这1000个数视作总体，从中随机抽取容量为36的样本，重复抽样100次，绘制100个样本的样本均值的直方图。
+
+5.3 比较5.1和5.2中的两幅直方图，概括两幅直方图的特征。
+
+
+
 </details>
 
 
@@ -79,7 +97,18 @@ title: "第6章"
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[第3题 Excel中dist inv函数的运用](https://www.bilibili.com/video/BV19Z4y1G7qF/){target="_blank"}
 
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[第4题 总体分布为正态分布，样本均值的分布](https://www.bilibili.com/video/BV1JH4y1V7vn/){target="_blank"}
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[第5题 中心极限定理](https://www.bilibili.com/video/BV1E1421976D/){target="_blank"}
+
+
+
+
+
 ## 拓展资源
+
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">正态分布概率密度曲线动画演示 <https://www.geogebra.org/m/nrgtzj5a>{target="_blank"}
 
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">分位数计算器 <https://gallery.shinyapps.io/dist_calc/>{target="_blank"}
   
