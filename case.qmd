@@ -8,7 +8,7 @@ title: "案例与实验报告"
 
 ## 案例作业要求
 
-<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[案例作业要求](https://lizongzhang.github.io/stat/teamwork.html)
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[案例作业要求](https://lizongzhang.github.io/statwithspss/casereq.html)
 
 ## 案例示例
 
