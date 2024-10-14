@@ -28,6 +28,10 @@ title: "第4章"
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 如何自动生成三线表？](https://www.bilibili.com/video/BV19u411w7zm/)
 
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 如何将定量变量转换为定性变量？](https://www.bilibili.com/video/BV1ZB2hY3Ev9/)
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 如何基于现有数据创建新变量？](https://www.bilibili.com/video/BV1wy2zYgEHE/)
+
 # SPSS习题
 
 ## 习题1 Employee data.sav 
