@@ -6,7 +6,6 @@ title: "第6章Excel习题讲评"
 
 ![卡方分布概率密度曲线](img/stu6.1.3.png){.lightbox}
 
-![卡方分布和t分布直方图](img/stu6.2a.png){.lightbox}
 
 
 
@@ -16,9 +15,15 @@ title: "第6章Excel习题讲评"
 
 # 第2题 直方图
 
+![卡方分布和t分布直方图学生习作](img/stu6.2a.png){.lightbox}
+
+
 
 
 ![卡方分布、F分布直方图学生习作](img/stu6.2b.png){.lightbox}
+
+![第2题 调整组距](img/key6.2a.png){.lightbox}
+
 
 
 ![第2题 调整组距](img/key6.2b.png){.lightbox}
