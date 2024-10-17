@@ -108,7 +108,7 @@ title: "第6章"
 </details>
 
 
-## 习题讲评
+## 习题讲评视频
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[第1题：如何用Excel绘制三大分布概率密度曲线？](https://www.bilibili.com/video/BV1xh4y1q7Ck/){target="_blank"}
 
@@ -120,8 +120,22 @@ title: "第6章"
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[第5题 中心极限定理](https://www.bilibili.com/video/BV1E1421976D/){target="_blank"}
 
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[第5题 中心极限定理](https://www.bilibili.com/video/BV1E1421976D/){target="_blank"}
+
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[第6题 如何用Excel创建标准正态分布函数表？](https://www.bilibili.com/video/BV1Uv4y1p71t/){target="_blank"}
+
+
+## 学生习作讲评
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> [第6章Excel习题学生习作点评](https://lizongzhang.github.io/statwithspss/chap6ex.html){target="_blank"}
+
 
 ## SPSS小测验
+
+
+<details>
+  <summary>题目</summary>
 
 数据文件：house.xlsx (QQ群文件)
 
@@ -152,7 +166,7 @@ title: "第6章"
 12. 选取一个定性变量，将样本数据分组，报告各个组别的所有的定量变量的均值、中位数、标准差、最小值和最大值。
 
 
-
+<details>
 
 
 
