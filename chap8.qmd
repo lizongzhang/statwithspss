@@ -8,9 +8,6 @@ title: "第8章"
 
 # 教学视频
 
-## 重点难点视频
-
-
 <details>
   <summary>小调查</summary>
 
@@ -18,8 +15,10 @@ title: "第8章"
 ![](img/chap7cloud2.png){.lightbox} 
 
 
+</details>
 
-<details>
+## 重点难点视频
+
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[什么是P值？](https://www.bilibili.com/video/BV1F64y1C7nq/?p=1) 
 
