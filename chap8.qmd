@@ -2,23 +2,34 @@
 title: "第8章"
 ---
 
-<h1 style="color: #044875;"> 第8章 假设检验 </h1>
+# 第8章 假设检验
 
 <img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[讲义](https://lizongzhang.github.io/stat/chap8.html)
 
-<h3 style="color: #044875;"> 教学视频 </h3>
+# 教学视频
 
-<h4 style="color: #044875; font-size: 20px;"> 理论知识难点 </h4>
+## 重点难点视频
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[什么是P值](https://www.bilibili.com/video/BV1F64y1C7nq/?p=1) 
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[显著性水平和P值的区别](https://www.bilibili.com/video/BV1F64y1C7nq/?p=2) 
+<details>
+  <summary>小调查</summary>
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[总体均值的检验：Z检验还是T检验](https://www.bilibili.com/video/BV1F64y1C7nq/?p=3) 
+![](img/chap7cloud1.png){.lightbox} 
+![](img/chap7cloud2.png){.lightbox} 
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[单侧检验还是双侧检验](https://www.bilibili.com/video/BV1F64y1C7nq/?p=4) 
 
-<h4 style="color: #044875; font-size: 20px;"> Excel操作 </h4>
+
+<details>
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[什么是P值？](https://www.bilibili.com/video/BV1F64y1C7nq/?p=1) 
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[显著性水平和P值的区别？](https://www.bilibili.com/video/BV1F64y1C7nq/?p=2) 
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[总体均值的检验：Z检验还是T检验？](https://www.bilibili.com/video/BV1F64y1C7nq/?p=3) 
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[单侧检验还是双侧检验？](https://www.bilibili.com/video/BV1F64y1C7nq/?p=4) 
+
+## Excel操作
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel 总体均值的Z检验：Z.test函数](https://www.bilibili.com/video/BV1L54y1r73w/)
 
@@ -30,21 +41,46 @@ title: "第8章"
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel 两个总体均值是否相等的T检验](https://www.bilibili.com/video/BV16Z4y137HV/) 
         
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[EXCEL 匹配样本的T检验](https://www.bilibili.com/video/BV1mD4y1Q77U/) 
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[EXCEL 配对样本的T检验](https://www.bilibili.com/video/BV1mD4y1Q77U/) 
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[Excel图表工具合集](https://www.bilibili.com/video/BV1uK4y1X752/)
+## SPSS操作
 
-<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[EXCEL数据清洗合集](https://www.bilibili.com/video/BV1uc41177Mn/)
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[单个总体参数的T检验](https://www.bilibili.com/video/BV1jZ4y1L7ne/)
 
-<h3 style="color: #044875;"> 习题讲评 </h3>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[两个独立样本t检验](https://www.bilibili.com/video/BV1bi4y1j7Gc/)
+
+
+
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[配对样本的t检验](https://www.bilibili.com/video/BV1Fy4y167rs)
+
+# 教材习题
+
+教材P163，练习题8.1和8.2任选一题, 8.3
+
+教材P163, 练习题8.4, 8.6, 8.7任选两题
+
+教材P163，练习题8.5
+
+教材P163，练习题8.8
+
+教材P164，练习题8.10
+
+教材P157，例题8.15在Excel和SPSS中的实现
+
+# 习题讲评
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[第8章教材习题8.1-8.8](https://www.bilibili.com/video/BV1dM4y1t7Xw/)  
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[第8章教材习题8.9-8.15](https://www.bilibili.com/video/BV12h411L74S/) 
 
-<h3 style="color: #044875;"> 拓展资源 </h3>
+
+# 拓展资源
+
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">P值和临界值示意图 <https://www.geogebra.org/m/YRh9H3t5>{target="_blank"}
 
 
 
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">总体比例的Z检验计算器 <https://www.geogebra.org/m/HyN7CxAc>{target="_blank"}
     
  

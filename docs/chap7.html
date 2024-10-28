@@ -172,6 +172,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#spss习题" id="toc-spss习题" class="nav-link" data-scroll-target="#spss习题">SPSS习题</a></li>
   <li><a href="#教材习题" id="toc-教材习题" class="nav-link" data-scroll-target="#教材习题">教材习题</a></li>
   <li><a href="#习题讲评" id="toc-习题讲评" class="nav-link" data-scroll-target="#习题讲评">习题讲评</a></li>
+  <li><a href="#学生习作讲评" id="toc-学生习作讲评" class="nav-link" data-scroll-target="#学生习作讲评">学生习作讲评</a></li>
   <li><a href="#拓展资源" id="toc-拓展资源" class="nav-link" data-scroll-target="#拓展资源">拓展资源</a></li>
   </ul>
 </nav>
@@ -233,6 +234,20 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV1Fo4y1P7b5/">第7章教材习题7.5-7.10</a></p>
 <p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV1eM411D7Va/">Excel数值模拟： 什么是置信水平？你的理解正确吗？</a></p>
 </section>
+<section id="学生习作讲评" class="level1">
+<h1>学生习作讲评</h1>
+<p>思考1：如何选择置信水平？99%，95%，90%该选哪一个？</p>
+<ul>
+<li><p>选择较高的置信水平可以增加对估计结果的信心，但会增加区间的宽度，从而降低估计的精确性。</p></li>
+<li><p>较低的置信水平会使置信区间更窄，但可能会增加真实参数不在该区间内的风险。</p></li>
+</ul>
+<p>思考2：本题中，能用=confidence.norm()来模拟吗？</p>
+<details>
+<summary>
+三种置信水平的理解
+</summary>
+<p><a href="img/chap7exstu1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="img/chap7exstu1.png" class="img-fluid"></a></p>
+</details></section>
 <section id="拓展资源" class="level1">
 <h1>拓展资源</h1>
 <p><img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">总体均值的区间估计动画演示 <a href="https://www.geogebra.org/m/k83q9QDx" target="_blank">https://www.geogebra.org/m/k83q9QDx</a></p>
@@ -243,7 +258,7 @@ ul.task-list li input[type="checkbox"] {
 <summary>
 表格
 </summary>
-<p><a href="img/symmetric.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="img/symmetric.png" class="img-fluid"></a></p>
+<p><a href="img/symmetric.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="img/symmetric.png" class="img-fluid"></a></p>
 <details>
 
 
@@ -673,7 +688,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":false,"descPosition":"bottom","selector":".lightbox","openEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","loop":false,"closeEffect":"zoom","openEffect":"zoom","selector":".lightbox"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

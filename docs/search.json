@@ -1,157 +1,269 @@
 [
   {
-    "objectID": "chap4.html",
-    "href": "chap4.html",
-    "title": "第4章",
+    "objectID": "chap6ex.html",
+    "href": "chap6ex.html",
+    "title": "第6章Excel习题讲评",
+    "section": "",
+    "text": "第1题 概率密度曲线\n\n\n\n卡方分布概率密度曲线\n\n\n \n\n\n第2题 直方图\n\n\n\n卡方分布和t分布直方图学生习作\n\n\n\n\n\n卡方分布、F分布直方图学生习作\n\n\n\n\n\n第2题 调整组距\n\n\n\n\n\n第2题 调整组距\n\n\n\n\n\n第4题学生习作\n\n\n\n\n\n第5题学生习作\n\n\n\n\n\n卡方分布概率密度曲线\n卡方分布和t分布直方图学生习作\n卡方分布、F分布直方图学生习作\n第2题 调整组距\n第2题 调整组距\n第4题学生习作\n第5题学生习作"
+  },
+  {
+    "objectID": "chap6.html",
+    "href": "chap6.html",
+    "title": "第6章",
+    "section": "",
+    "text": "讲义\n\n\nEXCEL利用norm.dist函数绘制正态分布概率密度曲线\nEXCEL利用t.dist函数绘制t分布概率密度曲线\nEXCEL利用f.dist函数绘制F分布概率密度曲线\n\n\n\n\n\n第1题至第6题\n\n\n\n在同一个坐标系下，绘制N(0,1)、N(1, 4)、N(-2, 0.25)的概率密度曲线。\n在同一个坐标系下，绘制N(0,1)、t(5)、t(10)、t(30)的概率密度曲线。\n在同一个坐标系下，绘制\\(\\chi^2(5)\\)、\\(\\chi^2(10)\\)、\\(\\chi^2(30)\\)的概率密度曲线。\n在同一个坐标系下，绘制F(2,5)、F(5,10)、F(30,50)的概率密度曲线。\n\n\n\n利用Excel生成如下分布的随机数，并绘制直方图。提交直方图的图片。\n2.1 生成服从自由度为5的卡方分布的500个随机数，绘制其直方图。\n2.2 生成服从自由度为5的t分布的500个随机数，绘制其直方图。\n2.3 生成服从自由度为30的卡方分布的500个随机数，绘制其直方图。\n2.4 生成服从F(5, 30)的500个随机数，绘制其直方图。\n\n\n\n\n\\(Z_{0.05} ; Z_{0.15} ; Z_{0.90}\\)\n\\(Z_{\\frac{0.01}{2}} ; Z_{\\frac{0.05}{2}} ; Z_{\\frac{0.10}{2}}\\)\n\\(X \\sim N(0,1), P(X&gt;2.5)=\\) ? \\(P(X&lt;-2)=\\) ? \\(P(|X|&gt;1.8)=\\) ?\n\\(t_{0.05}(8) ; t_{\\frac{0.05}{2}}(8) ; t_{0.95}(8)\\)\n\\(t_{0.05}(50) ; t_{\\frac{0.05}{2}}(50) ; t_{0.95}(50)\\)\n\\(X \\sim t(8), P(X&gt;2)=\\) ? \\(P(X&lt;-1.8)=\\) ? \\(P(|X|&gt;2)=\\) ?\n\\(\\chi_{0.05}^2(5) ; \\chi_{0.95}^2(5) ; \\chi_{0.05}^2(15) ; \\quad \\chi_{0.95}^2(15)\\)\n\\(X \\sim \\chi^2(5), P(X&gt;9)=\\) ? ; \\(P(X&lt;1)=\\) ?\n\\(F_{0.05}(5,10) ; F_{0.95}(5,10)\\);\n\\(F_{0.05}(10,30) ; F_{0.95}(10,30)\\);\n\\(X \\sim F(5,10), P(X&gt;3)=\\) ?; \\(P(X&lt;1)=\\) ?\n\n\n\n\n4.1 生成500个服从正态分布N(100,10^2)的随机数。将这500个数视作总体，从中随机抽取容量为4的样本，重复抽样100次，绘制100个样本的样本均值的直方图。\n4.2 生成500个服从正态分布N(100,10^2)的随机数。将这500个数视作总体，从中随机抽取容量为36的样本，复抽样100次，绘制100个样本的样本均值的直方图。\n4.3 比较4.1和4.2中的两幅直方图，概括两幅直方图的特征。\n\n\n\n5.1 生成1000个服从泊松分布Poisson(5)的随机数。将这1000个数视作总体，从中随机抽取容量为4的样本，重复抽样100次，绘制100个样本的样本均值的直方图。\n5.2 生成1000个服从泊松分布Poisson(5)的随机数。将这1000个数视作总体，从中随机抽取容量为36的样本，重复抽样100次，绘制100个样本的样本均值的直方图。\n5.3 比较5.1和5.2中的两幅直方图，概括两幅直方图的特征。\n\n\n\n6.1 利用Excel绘制标准正态分布表。\n\n\n\n标准正态分布表\n\n\n6.2 利用Excel绘制t分布表。\n\n\n\nt分布表\n\n\n6.3 利用Excel绘制卡方分布表。\n\n\n\n卡方分布表\n\n\n6.4 利用Excel绘制F分布表。\n\n\n\nF分布表"
+  },
+  {
+    "objectID": "chap6.html#教学视频",
+    "href": "chap6.html#教学视频",
+    "title": "第6章",
+    "section": "",
+    "text": "EXCEL利用norm.dist函数绘制正态分布概率密度曲线\nEXCEL利用t.dist函数绘制t分布概率密度曲线\nEXCEL利用f.dist函数绘制F分布概率密度曲线"
+  },
+  {
+    "objectID": "chap6.html#本章习题",
+    "href": "chap6.html#本章习题",
+    "title": "第6章",
+    "section": "",
+    "text": "第1题至第6题\n\n\n\n在同一个坐标系下，绘制N(0,1)、N(1, 4)、N(-2, 0.25)的概率密度曲线。\n在同一个坐标系下，绘制N(0,1)、t(5)、t(10)、t(30)的概率密度曲线。\n在同一个坐标系下，绘制\\(\\chi^2(5)\\)、\\(\\chi^2(10)\\)、\\(\\chi^2(30)\\)的概率密度曲线。\n在同一个坐标系下，绘制F(2,5)、F(5,10)、F(30,50)的概率密度曲线。\n\n\n\n利用Excel生成如下分布的随机数，并绘制直方图。提交直方图的图片。\n2.1 生成服从自由度为5的卡方分布的500个随机数，绘制其直方图。\n2.2 生成服从自由度为5的t分布的500个随机数，绘制其直方图。\n2.3 生成服从自由度为30的卡方分布的500个随机数，绘制其直方图。\n2.4 生成服从F(5, 30)的500个随机数，绘制其直方图。\n\n\n\n\n\\(Z_{0.05} ; Z_{0.15} ; Z_{0.90}\\)\n\\(Z_{\\frac{0.01}{2}} ; Z_{\\frac{0.05}{2}} ; Z_{\\frac{0.10}{2}}\\)\n\\(X \\sim N(0,1), P(X&gt;2.5)=\\) ? \\(P(X&lt;-2)=\\) ? \\(P(|X|&gt;1.8)=\\) ?\n\\(t_{0.05}(8) ; t_{\\frac{0.05}{2}}(8) ; t_{0.95}(8)\\)\n\\(t_{0.05}(50) ; t_{\\frac{0.05}{2}}(50) ; t_{0.95}(50)\\)\n\\(X \\sim t(8), P(X&gt;2)=\\) ? \\(P(X&lt;-1.8)=\\) ? \\(P(|X|&gt;2)=\\) ?\n\\(\\chi_{0.05}^2(5) ; \\chi_{0.95}^2(5) ; \\chi_{0.05}^2(15) ; \\quad \\chi_{0.95}^2(15)\\)\n\\(X \\sim \\chi^2(5), P(X&gt;9)=\\) ? ; \\(P(X&lt;1)=\\) ?\n\\(F_{0.05}(5,10) ; F_{0.95}(5,10)\\);\n\\(F_{0.05}(10,30) ; F_{0.95}(10,30)\\);\n\\(X \\sim F(5,10), P(X&gt;3)=\\) ?; \\(P(X&lt;1)=\\) ?\n\n\n\n\n4.1 生成500个服从正态分布N(100,10^2)的随机数。将这500个数视作总体，从中随机抽取容量为4的样本，重复抽样100次，绘制100个样本的样本均值的直方图。\n4.2 生成500个服从正态分布N(100,10^2)的随机数。将这500个数视作总体，从中随机抽取容量为36的样本，复抽样100次，绘制100个样本的样本均值的直方图。\n4.3 比较4.1和4.2中的两幅直方图，概括两幅直方图的特征。\n\n\n\n5.1 生成1000个服从泊松分布Poisson(5)的随机数。将这1000个数视作总体，从中随机抽取容量为4的样本，重复抽样100次，绘制100个样本的样本均值的直方图。\n5.2 生成1000个服从泊松分布Poisson(5)的随机数。将这1000个数视作总体，从中随机抽取容量为36的样本，重复抽样100次，绘制100个样本的样本均值的直方图。\n5.3 比较5.1和5.2中的两幅直方图，概括两幅直方图的特征。\n\n\n\n6.1 利用Excel绘制标准正态分布表。\n\n\n\n标准正态分布表\n\n\n6.2 利用Excel绘制t分布表。\n\n\n\nt分布表\n\n\n6.3 利用Excel绘制卡方分布表。\n\n\n\n卡方分布表\n\n\n6.4 利用Excel绘制F分布表。\n\n\n\nF分布表"
+  },
+  {
+    "objectID": "chap6.html#习题讲评视频",
+    "href": "chap6.html#习题讲评视频",
+    "title": "第6章",
+    "section": "习题讲评视频",
+    "text": "习题讲评视频\n第1题：如何用Excel绘制三大分布概率密度曲线？\n第2题 如何用Excel生成服从t分布、卡方分布、F分布的随机数？\n第3题 Excel中dist inv函数的运用\n第4题 总体分布为正态分布，样本均值的分布\n第5题 中心极限定理\n第5题 中心极限定理\n第6题 如何用Excel创建标准正态分布函数表？"
+  },
+  {
+    "objectID": "chap6.html#学生习作讲评",
+    "href": "chap6.html#学生习作讲评",
+    "title": "第6章",
+    "section": "学生习作讲评",
+    "text": "学生习作讲评\n 第6章Excel习题学生习作点评"
+  },
+  {
+    "objectID": "chap6.html#spss小测验",
+    "href": "chap6.html#spss小测验",
+    "title": "第6章",
+    "section": "SPSS小测验",
+    "text": "SPSS小测验\n\n\n题目\n\n数据文件：house.xlsx (QQ群文件)\nhouse.xlsx文件下载\n\n将数据文件中的变量总价万、面积平方米的观测值四舍五入取整。\n创建新变量每平方米单价(万/平方米)，保留1位小数。\n根据变量区域，将“广州番禺区”记录为“番禺”，将“广州天河区”记录为“天河”，保存到新变量行政区域。\n绘制变量“朝向”的频数分布表，将朝向分为东、南、西、北四类，保存到新变量“主朝向”。\n根据变量建筑年份，创建新变量“楼龄”。\n根据变量“总楼层”， 创建新变量“住宅高度”。将楼层为1-6层的，记为“低层”；将楼层为7-11层的记录为小高层；将楼层为12-29层的，记为“高层”；将楼层为30层以上的，记为“超高层”。\n选取两个定性变量，绘制簇状条形图。\n选取两个定性变量，绘制堆积条形图。\n选取两个定性变量，一个定量变量，用条形图反映各个组别的定量变量的均值的大小。\n选取一个定性变量，一个定量变量，绘制分组直方图。\n选取一个定性变量，两个定量变量，绘制分组散点图。\n选取一个定性变量，将样本数据分组，报告各个组别的所有的定量变量的均值、中位数、标准差、最小值和最大值。"
+  },
+  {
+    "objectID": "chap6.html#拓展资源",
+    "href": "chap6.html#拓展资源",
+    "title": "第6章",
+    "section": "拓展资源",
+    "text": "拓展资源\n正态分布概率密度曲线动画演示 https://www.geogebra.org/m/nrgtzj5a\nt分布与标准正态分布概率密度曲线对比 https://www.geogebra.org/m/zxUzwgkH\nt分布与标准正态分布特定区间取值概率对比 https://www.geogebra.org/m/zxUzwgkH\n卡方分布计算器https://www.geogebra.org/m/AQX6fB2e\nF分布概率密度曲线https://www.geogebra.org/m/zxt2xuRs\n分位数计算器 https://gallery.shinyapps.io/dist_calc/\nCentral Limit Theorem for Means https://gallery.shinyapps.io/CLT_mean/\n中心极限定理 n=2-31 https://astools.datadesk.com/clt.html\nGalton Board https://www.mathsisfun.com/data/quincunx.html\n3Blue1Brown: 为什么正态分布里会有一个π？\n3Blue1Brown: 到底为什么“中心极限”是正态分布啊\n\n\n\n标准正态分布表\nt分布表\n卡方分布表\nF分布表"
+  },
+  {
+    "objectID": "chap3.html",
+    "href": "chap3.html",
+    "title": "第3章",
     "section": "",
     "text": "讲义"
   },
   {
-    "objectID": "chap4.html#习题1-employee-data.sav",
-    "href": "chap4.html#习题1-employee-data.sav",
-    "title": "第4章",
-    "section": "习题1 Employee data.sav",
-    "text": "习题1 Employee data.sav\n数据文件Employee data.sav\n\nEmployee data.sav文件在SPSS安装目录下,在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 Employee data.sav文件中一共有多少个个案，多少个变量？每个变量的含义是什么？\n1.2 报告educ的均值、中位数、标准差、最小值、最大值。\n1.3 根据educ的值创建定性变量educat, 创建规则为：若educ等于8， educat等于middle school; 若educ等于12， educat等于high school; 若educ大于等于14，且小于等于16， educat等于college; 若educ大于16， educat等postgraduate。报告educat的频数分布。\n1.4 创建变量salchange, 用于衡量current salary与beginning salary的差距。\n1.5 利用Employee data.sav文件中的变量，你还可以创建哪些变量？\n1.6 绘制salary的频数分布表，采用适当的组距，概括salary的分布在哪个区间最密集？\n1.7 绘制salbegin的频数分布表，采用适当的组距，概括salbegin的分布在哪个区间最密集？。\n1.8 按照性别分组，绘制各组别的salary的频数分布表，概括两个组别salary分布的差距。\n1.9 按照minor分组，绘制各组别的salbegin的频数分布表，概括两个组别salary分布的差距。\n1.10 选取两个定性变量，绘制簇状条形图。\n1.11 选取两个定性变量，绘制堆积条形图。\n1.12 选取两个定性变量，一个定量变量，用条形图反映各个组别的定量变量的均值的大小。\n1.13 选取一个定性变量，一个定量变量，绘制分组直方图。\n1.14 选取一个定性变量，两个定量变量，绘制分组散点图。\n1.15 将1.2中报告的表格，修改为三线表。"
+    "objectID": "chap3.html#题目1-饼图",
+    "href": "chap3.html#题目1-饼图",
+    "title": "第3章",
+    "section": "题目1 饼图",
+    "text": "题目1 饼图\n\n数据来源：大众点评网，广州六大品牌奶茶店\n样本容量：336\n数据来源：大众点评网，广州6大奶茶品牌\n\n\nShow the code\nlibrary(tidyverse)\nlibrary(readxl)\ndata  &lt;- read_excel(\"data/top6.xlsx\")\n\npar(family  = 'STKaiti')\nlibrary(showtext)\nshowtext_auto()\n\ndata %&gt;% \n  count(brand) %&gt;% \n  mutate(percent = round(n/sum(n)*100, 1))\n\n\n# A tibble: 6 × 3\n  brand                n percent\n  &lt;chr&gt;            &lt;int&gt;   &lt;dbl&gt;\n1 CoCo都可            64    19  \n2 TANING手挞柠檬茶    44    13.1\n3 书亦烧仙草          82    24.4\n4 喜茶                43    12.8\n5 益禾堂              45    13.4\n6 茶百道              58    17.3\n\n\nShow the code\ntable(data$brand) %&gt;% \n  pie()\n\n\n\n\n\n\n\n\n\nShow the code\npie_table &lt;- data %&gt;% \n  count(brand) %&gt;% \n  mutate(percent = round(n/sum(n)*100, 1),\n         per_label = paste0(brand, \" \", percent, \"%\")) %&gt;% \n  arrange(desc(percent))\n  \npie(pie_table$percent, \n    labels = pie_table$per_label, \n    clockwise = TRUE,\n    init.angle = 90)"
   },
   {
-    "objectID": "chap7.html",
-    "href": "chap7.html",
-    "title": "第7章",
+    "objectID": "chap3.html#题目2-条形图",
+    "href": "chap3.html#题目2-条形图",
+    "title": "第3章",
+    "section": "题目2 条形图",
+    "text": "题目2 条形图\n\n\n\nShow the code\ndata %&gt;% ggplot(aes(brand, fill = brand)) + \n  geom_bar() +\n  labs(x = \"品牌\", fill = \"品牌\") +\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10)) \n\n\n\n\n\n\n\n\n\nShow the code\nlibrary(forcats)\ndata %&gt;% ggplot(aes(fct_infreq(brand), fill = brand)) + \n  geom_bar() +\n  geom_text(stat = \"count\", aes(label = after_stat(count)), vjust = -1)+ \n  scale_y_continuous(limits = c(0,100))+\n  guides(x = guide_axis(angle = 45)) +\n  labs(x = \"品牌\", fill = \"品牌\") +\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"none\",\n        legend.text = element_text(size = 10))"
+  },
+  {
+    "objectID": "chap3.html#题目3-直方图",
+    "href": "chap3.html#题目3-直方图",
+    "title": "第3章",
+    "section": "题目3 直方图",
+    "text": "题目3 直方图\n\n\n\nShow the code\nlibrary(ggplot2)\n\n# 难看的直方图\nggplot(mpg, aes(x = hwy)) +\n  geom_histogram(binwidth = 5, color = \"black\", alpha = 0.9) +\n  labs(title = \"Ugly Histogram\", x = \"Highway Mileage\", y = \"Count\") +\n  theme(\n    plot.title = element_text(size = 20, hjust = 0.5, color = \"purple\"),\n    axis.title.x = element_text(size = 15, angle = 45, vjust = 1, color = \"red\"),\n    axis.title.y = element_text(size = 15, angle = 90, hjust = 1, color = \"green\"),\n    legend.position = \"top\",\n    panel.background = element_rect(fill = \"pink\"),\n    panel.grid.major = element_line(color = \"yellow\", size = 1)\n  )\n\n\n\n\n\n\n\n\n\nShow the code\n# 好看的直方图\nggplot(mpg, aes(x = hwy)) +\n  geom_histogram(breaks = seq(12, 46, 2), \n                 fill = \"#0073C2FF\", \n                 color = \"white\", \n                 alpha = 0.8) +\n  scale_x_continuous(breaks = seq(12, 46, 2),\n                     labels = seq(12, 46, 2)) +\n  scale_y_continuous(limits = c(0,50))+\n  labs(title = \"Highway Mileage Distribution\", x = \"Highway Mileage\", y = \"Frequency\") +\n  theme_minimal() +\n  theme(\n    plot.title = element_text(size = 20, hjust = 0.5),\n    axis.title.x = element_text(size = 18),\n    axis.title.y = element_text(size = 18),\n    panel.grid.major = element_line(color = \"grey90\"),\n    panel.grid.minor = element_blank()\n  )"
+  },
+  {
+    "objectID": "chap3.html#题目4-二维变量的作图",
+    "href": "chap3.html#题目4-二维变量的作图",
+    "title": "第3章",
+    "section": "题目4 二维变量的作图",
+    "text": "题目4 二维变量的作图\n\n\n分组条形图\n\n\nShow the code\ndata %&gt;%\n  group_by(area, brand) %&gt;%\n  summarise(count = n(), .groups = \"drop\") %&gt;% \n  mutate(brand_order = paste(brand, area, rank(-count), sep = \"_\"))  %&gt;% \n  ggplot(aes(reorder(brand_order, -count),\n             count, fill = brand)) +\n  geom_col()+\n  facet_wrap(~ area, scales = \"free_x\", ncol = 3) +\n  geom_text(aes(label = count), vjust = -0.5) +\n  scale_x_discrete(labels = function(x) gsub(\"_.+$\", \"\", x)) + # 移除排序编号\n  scale_y_continuous(limits = c(0, 42)) +\n  labs(x = \"品牌\", y = \"数量\") +\n  theme(axis.text.x = element_text(angle = 42, hjust = 1), \n        legend.position = \"none\")\n\n\n\n\n\n\n\n\n\n\n\n分组直方图\n\n\nShow the code\n#按单个定性变量分组\ndata %&gt;% \n  ggplot(aes(retail.price, fill = brand))+\n  geom_histogram(breaks = seq(6, 38, 2))+\n  facet_wrap(~brand, ncol = 2) +\n  scale_y_continuous(limits = c(0,60))+\n  scale_fill_brewer(palette  = \"Set1\") +\n  labs(title = \"零售价直方图\",\n       x = \"零售价\",\n       y = \"频数\") +\n  scale_x_continuous(breaks = seq(6, 36, 4),\n                     labels = seq(6, 36, 4)) +\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10))\n\n\n\n\n\n\n\n\n\n\n\n分组直方图\n\n\nShow the code\ndata %&gt;% \n  ggplot(aes(retail.price, reorder(brand, retail.price, FUN = median),\n             col = brand))+\n  geom_boxplot()+\n  labs(title =\"六大奶茶品牌零售价格\",\n       x = \"零售价格\",\n       y = \"品牌\", fill = \"品牌\")+\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10))"
+  },
+  {
+    "objectID": "chap3.html#定性数据的图表工具",
+    "href": "chap3.html#定性数据的图表工具",
+    "title": "第3章",
+    "section": "定性数据的图表工具",
+    "text": "定性数据的图表工具\nSPSS 如何美化饼图\nSPSS 帕累托图\nSPSS 简单条形图\nSPSS 簇状条形图\nSPSS 堆积条形图\nSPSS 交叉表"
+  },
+  {
+    "objectID": "chap3.html#定量数据的图表工具",
+    "href": "chap3.html#定量数据的图表工具",
+    "title": "第3章",
+    "section": "定量数据的图表工具",
+    "text": "定量数据的图表工具\nSPSS 简单箱线图\nSPSS 簇状箱线图\nSPSS 直方图\nSPSS 分组直方图\nSPSS 探索工具"
+  },
+  {
+    "objectID": "chap3.html#习题1-telco.sav",
+    "href": "chap3.html#习题1-telco.sav",
+    "title": "第3章",
+    "section": "习题1 telco.sav",
+    "text": "习题1 telco.sav\n数据文件telco.sav\n\ntelco.sav文件在SPSS安装目录下,在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 绘制ed的频数分布表，在表中列出各个组别的人数及占比。\n1.2 绘制客户的ed的饼图, 在各个扇区标注百分比，为各个扇区设置你喜欢的颜色。\n1.3 绘制custcat的饼图，按各组百分比降序排列扇区，并在扇区上标注类别名称和百分比。\n1.4 绘制custcat的条形图，按各组频数降序排列条形，并在条形上方标注各组人数。\n1.5 绘制客户custcat和ed的列联表，在表中列出行的百分比，列的百分比。\n1.6 将客户按ed分组，绘制各个组别客户的income的直方图\n1.7 将客户按ed分组，绘制各个组别客户的income的箱线图。\n1.8 将客户按ed分组，绘制各个组别客户的tenure的直方图。\n1.9 将客户按ed分组，绘制各个组别客户的tenure的箱线图。\n1.10 将客户按region、gender分成6个组别，绘制各个组别客户的tenure的直方图。\n1.11 将客户按region、gender分成6个组别，绘制各个组别客户的income的直方图。\n1.12 绘制retire = YES的客户的income的茎叶图。"
+  },
+  {
+    "objectID": "chap3.html#习题2-毕业生.xlsx",
+    "href": "chap3.html#习题2-毕业生.xlsx",
+    "title": "第3章",
+    "section": "习题2 毕业生.xlsx",
+    "text": "习题2 毕业生.xlsx\n数据文件:毕业生.xlsx(在QQ 群文件的“实验数据”文件中）\n\n数据文件下载: https://pan.baidu.com/s/1BESTgZl7whkY4HuSq6ZGgw?pwd=6789\n\n数据文件：毕业生.xlsx(数据文件在QQ 群文件夹中）\n要求：利用SPSS完成\n2.1 绘制毕业生的专业分布的频数分布表、条形图(按各组频数降序排列条形)。\n2.2 绘制毕业生政治面貌分布的饼图，按各组百分比降序排列扇区，并在扇区上标注类别名称和百分比。\n条形图(按各组频数降序排列条形)，为各个扇区设置你喜欢的颜色。\n2.3 绘制毕业生政治面貌和性别的列联表，在表中列出行的百分比，列的百分比。\n2.4 将毕业生按专业分组，绘制各个专业毕业生月薪的直方图。\n2.5 将毕业生按是否在广州就业分组，绘制两个组别毕业生月薪的直方图\n2.6 将毕业生按专业分组，绘制各个专业毕业生月薪的箱线图。\n2.7 将毕业生按是否在广州就业分组，绘制两个组别毕业生月薪的箱线图。\n2.8 将毕业生按生源地是否在广州，就业地是否在广州分成4个组别，绘制各个组别毕业生薪酬的直方图。\n2.9 将毕业生按生源地是否在广州，就业地是否在广州分成4个组别，绘制各个组别毕业生薪酬的箱线图。\n2.10 绘制物流管理专业毕业生月薪的茎叶图。请简要描述该专业毕业生月薪分布的特征。（SPSS主菜单：分析，图…勾选茎叶图，提示：月薪分布在哪个区间最密集？其分布是对称、左偏还是右偏？）"
+  },
+  {
+    "objectID": "chap3.html#习题3-毕业生.xlsx",
+    "href": "chap3.html#习题3-毕业生.xlsx",
+    "title": "第3章",
+    "section": "习题3 毕业生.xlsx",
+    "text": "习题3 毕业生.xlsx\n数据文件：毕业生.xlsx(数据文件在QQ 群文件夹中），用Excel完成以下任务：\n3.1 绘制毕业生性别分布的频数分布表，在表中列出男性和女性的人数及比重。\n3.2 绘制毕业生性别分布的饼图和条形图。\n3.3 绘制毕业生的专业人数分布的频数分布表，在表中列出各个专业的人数和百分比。\n3.4 绘制毕业生各专业人数分布的帕累托图。\n3.5 绘制毕业生的政治面貌的频数分布表。\n3.6 绘制毕业生的政治面貌的瀑布图。\n3.7 绘制毕业生的就业单位类型的频数分布表。\n3.8 对毕业生先按性别、再按就业单位类型进行层级分组，绘制树状图。\n3.9 对毕业生先按性别、再按政治面貌进行层级分组，绘制树状图。"
+  },
+  {
+    "objectID": "chap3.html#习题4-毕业生.xlsx",
+    "href": "chap3.html#习题4-毕业生.xlsx",
+    "title": "第3章",
+    "section": "习题4 毕业生.xlsx",
+    "text": "习题4 毕业生.xlsx\n数据文件：毕业生.xlsx(数据文件在QQ 群文件夹中），用Excel完成以下任务：\n4.1 绘制毕业生月薪的频数分布表，采用适宜的组矩，在表中列出各个组别的人数和百分比。\n4.2 绘制毕业生月薪的直方图。\n4.3 绘制毕业生月薪的频数折线图、累积百分比折线图，在图中标注出频数或累积百分比。在870位毕业生中，月薪小于等于4000、小于等于6000的各占比多少？。\n4.4 绘制毕业生月薪的箱线图，在箱线图中标注出第1个四分位数、中位数和第3个四分位数。"
+  },
+  {
+    "objectID": "chap2.html",
+    "href": "chap2.html",
+    "title": "第2章",
     "section": "",
     "text": "讲义"
   },
   {
-    "objectID": "case2code.html",
-    "href": "case2code.html",
-    "title": "case2 code based on Chap 7 and Chap 8",
-    "section": "",
-    "text": "library(tidyverse) data(mpg)\nlibrary(ggstatsplot)\ngghistostats(mpg, cty, test.value = 16, ggtheme = theme_bw)"
-  },
-  {
-    "objectID": "chap1.html",
-    "href": "chap1.html",
-    "title": "第1章",
-    "section": "",
-    "text": "讲义"
-  },
-  {
-    "objectID": "chap1.html#题目1",
-    "href": "chap1.html#题目1",
-    "title": "第1章",
+    "objectID": "chap2.html#题目1",
+    "href": "chap2.html#题目1",
+    "title": "第2章",
     "section": "题目1",
-    "text": "题目1\n\n1.1 浏览下述二手房信息，可以提取二手房的哪些变量？\n\n\n点击浏览图片\n\n\n房源1：五山花园\n\n\n\n房源2：华农嵩山 \n房源3：汇景新城 \n\n\n\n1.2 从该网页中提取的变量是分类数据(有序分类还是无序分类), 还是数值数据(离散数据还是连续数据)？\n\n\n1.3 根据上述二手房房源信息，你感兴趣的问题是什么？"
+    "text": "题目1\n阅读以下推文\n微信公众号狗熊会&gt;案例图书&gt;精品案例&gt;中国女排国际竞争力现况及国内选材建队思路分析\n微信公众号狗熊会&gt;案例图书&gt;精品案例&gt;公共自行车损坏识别\n微信公众号狗熊会&gt;案例图书&gt;精品案例&gt;bilibili人类云吸猫行为观察\n微信公众号狗熊会&gt;案例图书&gt;精品案例&gt;王者荣耀英雄职业数据探索性分析\n1.1 数据来源？\n1.2 研究中的观测单元（观测个体）是什么？\n1.3 样本容量？\n1.3 研究中使用了哪些变量？\n1.4 文中利用统计分析回答了哪些问题？\n1.5 该推文对我们开展统计案例分析有何启发？\n\n\n点击浏览图片"
   },
   {
-    "objectID": "chap1.html#题目2",
-    "href": "chap1.html#题目2",
-    "title": "第1章",
-    "section": "题目2",
-    "text": "题目2\n\n2.1 开展关于毕业生薪酬的研究，你感兴趣那些问题？列出研究问题。\n\n\n2.2 针对你想研究的的问题，你想收集那些数据？列出变量名称，这些数据是分类数据(有序分类还是无序分类), 还是数值数据(离散数据还是连续数据)？"
+    "objectID": "chap2.html#教学视频",
+    "href": "chap2.html#教学视频",
+    "title": "第2章",
+    "section": "教学视频",
+    "text": "教学视频\n如何从中国知网下载统计数据？\n八爪鱼客户端抓取网页数据？\n如何用Excel整理提取的网页数据？"
   },
   {
-    "objectID": "chap1.html#习题1",
-    "href": "chap1.html#习题1",
-    "title": "第1章",
-    "section": "习题1",
-    "text": "习题1\n数据文件telco.sav\n\ntelco.sav文件在SPSS安装目录下, 在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 在SPSS中打开telco.sav文件，查看数据有多少行？有多少个变量？\n1.2 telco.sav文件中的变量ed的含义是什么？ed有哪几种取值？每种取值各有多少个个案？\n1.3 telco.sav文件中的变量tenure的含义是什么？报告tenure的均值、中位数、标准差。\n1.4 telco.sav文件中的变量address的含义是什么？报告address的均值、中位数、标准差。\n1.5 报告age, income, employ, resid的均值、中位数、标准差、最小值和最大值。"
+    "objectID": "chap2.html#拓展资源",
+    "href": "chap2.html#拓展资源",
+    "title": "第2章",
+    "section": "拓展资源",
+    "text": "拓展资源\nCSMAR 国泰安经济金融数据库 http://www.gtarsc.com/Home\n中国家庭追踪调查 CFPS http://www.isss.pku.edu.cn/cfps/\n中国家庭金融调查数据 CHFS https://chfs.swufe.edu.cn\n中国健康与养老数据追踪调查数据CHARLS http://charls.pku.edu.cn\n暨南大学社会调查中心 https://sdc-iesr.jnu.edu.cn\nKaggle https://www.kaggle.com/datasets"
   },
   {
-    "objectID": "chap1.html#习题2",
-    "href": "chap1.html#习题2",
-    "title": "第1章",
-    "section": "习题2",
-    "text": "习题2\n数据文件毕业生.xlsx\n\n数据文件下载: https://pan.baidu.com/s/1BESTgZl7whkY4HuSq6ZGgw?pwd=6789\n\n2.1 将毕业生.xlsx导入到SPSS中，查看数据有多少行？有多少个变量？\n2.2 报告月薪的均值、中位数、标准差、最小值和最大值。\n2.3 统计各个专业的毕业生的人数。哪个专业的人数最多？占比最少？\n2.4 统计各个专业的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.5 将毕业生按就业地点分为广州和非广州两个组别，报告这两个组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.6 将毕业生按性别分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.7 将毕业生按单位类型分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。"
-  },
-  {
-    "objectID": "case1pre.html#数据和变量",
-    "href": "case1pre.html#数据和变量",
-    "title": "广州6大品牌奶茶店消费价格分析",
-    "section": "1 数据和变量",
-    "text": "1 数据和变量\n数据来源：大众点评网，广州六大品牌奶茶店\n样本容量：336\n数据来源：大众点评网，广州6大奶茶品牌\n零售价格: retail.price\n团购价格：group.price\n品牌： brand\n区位：area\n市区：荔湾，越秀，天河，海珠\n近郊：白云，番禺，黄埔\n远郊：花都，从化，南沙，增城"
-  },
-  {
-    "objectID": "case1pre.html#图形工具",
-    "href": "case1pre.html#图形工具",
-    "title": "广州6大品牌奶茶店消费价格分析",
-    "section": "2 图形工具",
-    "text": "2 图形工具\n2.1 帕累托图\n2.2 分组条形图\n2.3 分组直方图\n2.4 分组箱线图\n2.5 散点图"
-  },
-  {
-    "objectID": "case1pre.html#帕累托图",
-    "href": "case1pre.html#帕累托图",
-    "title": "广州6大品牌奶茶店消费价格分析",
-    "section": "2.1 帕累托图",
-    "text": "2.1 帕累托图\n\nlibrary(tidyverse)\nlibrary(readxl)\ndata  &lt;- read_excel(\"data/top6.xlsx\")\n\nlibrary(forcats)\ndata %&gt;% ggplot(aes(fct_infreq(brand), fill = brand)) + \n  geom_bar() +\n  geom_text(stat = \"count\", aes(label = after_stat(count)), vjust = -0.5)+ \n  scale_y_continuous(limits = c(0,100))+\n  guides(x = guide_axis(angle = 45)) +\n  labs(x = \"品牌\", fill = \"品牌\") +\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10))"
-  },
-  {
-    "objectID": "case1pre.html#分组条形图",
-    "href": "case1pre.html#分组条形图",
-    "title": "广州6大品牌奶茶店消费价格分析",
-    "section": "2.2 分组条形图",
-    "text": "2.2 分组条形图\n\ndata %&gt;%\n  group_by(area, brand) %&gt;%\n  summarise(count = n(), .groups = \"drop\") %&gt;% \n  mutate(brand_order = paste(brand, area, rank(-count), sep = \"_\"))  %&gt;% \n  ggplot(aes(reorder(brand_order, -count),\n             count, fill = brand)) +\n  geom_col()+\n  facet_wrap(~ area, scales = \"free_x\", ncol = 3) +\n  geom_text(aes(label = count), vjust = -0.5) +\n  scale_x_discrete(labels = function(x) gsub(\"_.+$\", \"\", x)) + # 移除排序编号\n  scale_y_continuous(limits = c(0, 42)) +\n  labs(x = \"品牌\", y = \"数量\") +\n  theme(axis.text.x = element_text(angle = 42, hjust = 1), \n        legend.position = \"none\")"
-  },
-  {
-    "objectID": "case1pre.html#分组直方图",
-    "href": "case1pre.html#分组直方图",
-    "title": "广州6大品牌奶茶店消费价格分析",
-    "section": "2.3 分组直方图",
-    "text": "2.3 分组直方图\n\n#按单个定性变量分组\ndata %&gt;% \n  ggplot(aes(retail.price, fill = brand))+\n  geom_histogram(breaks = seq(6, 38, 2))+\n  facet_wrap(~brand, ncol = 2) +\n  scale_y_continuous(limits = c(0,60))+\n  scale_fill_brewer(palette  = \"Set1\") +\n  labs(title = \"零售价直方图\",\n       x = \"零售价\",\n       y = \"频数\") +\n  scale_x_continuous(breaks = seq(6, 36, 4),\n                     labels = seq(6, 36, 4)) +\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10))\n\n\n零售价格：喜茶&gt;茶百道&gt;TANNING&gt;CoCo都可&gt;书亦烧仙草&gt;益禾堂"
-  },
-  {
-    "objectID": "case1pre.html#分组箱线图",
-    "href": "case1pre.html#分组箱线图",
-    "title": "广州6大品牌奶茶店消费价格分析",
-    "section": "2.4 分组箱线图",
-    "text": "2.4 分组箱线图\n\ndata %&gt;% \n  ggplot(aes(retail.price, reorder(brand, retail.price, FUN = median),\n             col = brand))+\n  geom_boxplot()+\n  labs(title =\"六大奶茶品牌零售价格\",\n       x = \"零售价格\",\n       y = \"品牌\", fill = \"品牌\")+\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10))\n\n\n零售价格：喜茶&gt;茶百道&gt;TANNING&gt;CoCo都可&gt;书亦烧仙草&gt;益禾堂"
-  },
-  {
-    "objectID": "case1pre.html#散点图",
-    "href": "case1pre.html#散点图",
-    "title": "广州6大品牌奶茶店消费价格分析",
-    "section": "2.5 散点图",
-    "text": "2.5 散点图\n\ndata %&gt;% \n  ggplot(aes(retail.price, groupbuy.price,col = brand))+\n  geom_point()+\n  geom_jitter()+\n  geom_smooth(method = lm, se = F) +\n  labs(title = \"零售价格与团购价散点图\",\n       x = \"零售价\",\n       y = \"团购价\") +\n  theme_bw() +\n    theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10))\n\n\n无论在市区、近郊、远郊，同一品牌的团购价格相同。"
-  },
-  {
-    "objectID": "case1pre.html#全样本",
-    "href": "case1pre.html#全样本",
-    "title": "广州6大品牌奶茶店消费价格分析",
-    "section": "3.1 全样本",
-    "text": "3.1 全样本\n\nlibrary(psych)\n\ndata %&gt;% \n  select(retail.price, groupbuy.price, comment.num) %&gt;%\n  describe() %&gt;% \n  select(n, mean, sd, median, min, max, skew, kurtosis)\n\n                 n   mean      sd median min   max skew kurtosis\nretail.price   336  15.60    5.26   15.0   7    35 1.53     1.72\ngroupbuy.price 301  10.85    4.00   10.5   6    18 0.22    -1.15\ncomment.num    336 564.28 1027.57  281.0  13 10598 5.24    36.47"
-  },
-  {
-    "objectID": "case1pre.html#表格中添加分布图像",
-    "href": "case1pre.html#表格中添加分布图像",
-    "title": "广州6大品牌奶茶店消费价格分析",
-    "section": "表格中添加分布图像",
-    "text": "表格中添加分布图像\n{gtExtras}\n\nlibrary(gtExtras)\n\ndata %&gt;% \n  select(retail.price, groupbuy.price) %&gt;%\n  gt_plt_summary()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.\n\n\n336 rows x 2 cols\n\n\n\nColumn\nPlot Overview\nMissing\nMean\nMedian\nSD\n\n\n\n\n\n\n\nretail.price\n\n\n\n      \n\n0.0%\n15.6\n15.0\n5.3\n\n\n\n\n\ngroupbuy.price\n\n\n\n      \n\n10.4%\n10.9\n10.5\n4.0"
-  },
-  {
-    "objectID": "case1pre.html#表格中添加分布图像-1",
-    "href": "case1pre.html#表格中添加分布图像-1",
-    "title": "广州6大品牌奶茶店消费价格分析",
-    "section": "表格中添加分布图像",
-    "text": "表格中添加分布图像\n{gtExtras}\n\nretail_group &lt;- data %&gt;% \n  select(brand, retail.price) %&gt;%\n  group_by(brand) %&gt;%\n  summarize(mean = mean(retail.price) %&gt;% round(3),\n            median = median(retail.price)%&gt;% round(3),\n            sd = sd(retail.price)%&gt;% round(3),\n            retail_t = list(retail.price))\n\n\nretail_group %&gt;%\n  arrange(desc(mean)) %&gt;% \n  gt() %&gt;% \n  gt_plt_dist(retail_t,\n              type = \"histogram\",\n              line_color = \"purple\",\n              fill_color = \"green\",\n              bw = 1)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrand\nmean\nmedian\nsd\nretail_t\n\n\n\n\n喜茶\n27.930\n28\n1.818\n\n\n\n   \n\n\n\n茶百道\n15.603\n16\n1.154\n\n\n\n   \n\n\n\nTANING手挞柠檬茶\n15.023\n15\n1.067\n\n\n\n   \n\n\n\nCoCo都可\n14.391\n14\n2.013\n\n\n\n   \n\n\n\n书亦烧仙草\n13.415\n13\n1.770\n\n\n\n   \n\n\n\n益禾堂\n10.067\n10\n1.286"
-  },
-  {
-    "objectID": "case1pre.html#分品牌零售价格比较",
-    "href": "case1pre.html#分品牌零售价格比较",
-    "title": "广州6大品牌奶茶店消费价格分析",
-    "section": "3.2 分品牌零售价格比较",
-    "text": "3.2 分品牌零售价格比较\n\ndata %&gt;%\n  group_by(brand) %&gt;%\n  summarize(n(),\n            min = min(retail.price),\n            q1 = quantile(retail.price, 0.25),\n            median = median(retail.price),\n            mean = mean(retail.price),\n            q3 = quantile(retail.price, 0.75),\n            max = max(retail.price),\n            sd = sd(retail.price)) %&gt;% \n  arrange(desc(median))\n\n# A tibble: 6 × 9\n  brand            `n()`   min    q1 median  mean    q3   max    sd\n  &lt;chr&gt;            &lt;int&gt; &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n1 喜茶                43    24  27       28  27.9  29      35  1.82\n2 茶百道              58    13  15       16  15.6  16      19  1.15\n3 TANING手挞柠檬茶    44    13  14.8     15  15.0  16      18  1.07\n4 CoCo都可            64    11  13       14  14.4  15      23  2.01\n5 书亦烧仙草          82    10  12       13  13.4  14.8    21  1.77\n6 益禾堂              45     7   9       10  10.1  11      13  1.29\n\n\n零售价格：喜茶&gt;茶百道&gt;TANNING&gt;CoCo都可&gt;书亦烧仙草&gt;益禾堂"
-  },
-  {
-    "objectID": "case1pre.html#分区域零售价格比较",
-    "href": "case1pre.html#分区域零售价格比较",
-    "title": "广州6大品牌奶茶店消费价格分析",
-    "section": "3.3 分区域零售价格比较",
-    "text": "3.3 分区域零售价格比较\n\nlibrary(psych)\n\ndata %&gt;%\n  group_by(area) %&gt;%\n  summarize(n(),\n            min = min(retail.price),\n            q1 = quantile(retail.price, 0.25),\n            median = median(retail.price),\n            mean = mean(retail.price),\n            q3 = quantile(retail.price, 0.75),\n            max = max(retail.price),\n            sd = sd(retail.price))%&gt;% \n  arrange(desc(median))\n\n# A tibble: 3 × 9\n  area  `n()`   min    q1 median  mean    q3   max    sd\n  &lt;chr&gt; &lt;int&gt; &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n1 市区    168     8    13     15  16.5  16.2    35  5.90\n2 近郊    138     7    13     14  14.7  16      30  4.20\n3 远郊     30     8    11     14  14.5  16      28  5.06\n\n\n零售价格：市区&gt;近郊&gt;远郊"
-  },
-  {
-    "objectID": "case1pre.html#section",
-    "href": "case1pre.html#section",
-    "title": "广州6大品牌奶茶店消费价格分析",
+    "objectID": "report.html",
+    "href": "report.html",
+    "title": "《SPSS与统计实验》课程实验报告",
     "section": "",
-    "text": "Thanks for your attention！\n\n\n\n\nhttps://lizongzhang.github.io/stat24"
+    "text": "运用统计方法分析现实问题。"
+  },
+  {
+    "objectID": "report.html#封面",
+    "href": "report.html#封面",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "封面",
+    "text": "封面\n\n题目\n小组成员信息（按学号顺序排列）\n\n班级 学号 成员1\n班级 学号 成员2\n班级 学号 成员3"
+  },
+  {
+    "objectID": "report.html#前言",
+    "href": "report.html#前言",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "1 前言",
+    "text": "1 前言\n介绍研究背景、选题动机、研究目标。"
+  },
+  {
+    "objectID": "report.html#数据概况",
+    "href": "report.html#数据概况",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "2 数据概况",
+    "text": "2 数据概况\n介绍数据来源、数据收集过程、解释变量的含义。"
+  },
+  {
+    "objectID": "report.html#描述性统计分析chap-3-4",
+    "href": "report.html#描述性统计分析chap-3-4",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "3 描述性统计分析：Chap 3 & 4",
+    "text": "3 描述性统计分析：Chap 3 & 4\n运用表格或图形呈现关键变量的分布特征、报告其描述性统计量。"
+  },
+  {
+    "objectID": "report.html#参数估计-chap-7",
+    "href": "report.html#参数估计-chap-7",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "4 参数估计: Chap 7",
+    "text": "4 参数估计: Chap 7\n运用参数估计方法对总体参数（关键变量）进行推断。"
+  },
+  {
+    "objectID": "report.html#假设检验chap-8",
+    "href": "report.html#假设检验chap-8",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "5 假设检验：Chap 8",
+    "text": "5 假设检验：Chap 8\n运用假设检验对总体参数（关键变量）进行推断。"
+  },
+  {
+    "objectID": "report.html#独立性检验-chap-9",
+    "href": "report.html#独立性检验-chap-9",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "6 独立性检验: Chap 9",
+    "text": "6 独立性检验: Chap 9\n运用独立性检验讨论两个定性变量之间的关系。"
+  },
+  {
+    "objectID": "report.html#方差分析-chap-10",
+    "href": "report.html#方差分析-chap-10",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "7 方差分析: Chap 10",
+    "text": "7 方差分析: Chap 10\n运用方差分析讨论定性变量和定量变量之间的关系。"
+  },
+  {
+    "objectID": "report.html#相关与回归分析-chap-11",
+    "href": "report.html#相关与回归分析-chap-11",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "8 相关与回归分析: Chap 11",
+    "text": "8 相关与回归分析: Chap 11\n运用方差分析讨论定性变量和定量变量之间的关系。"
+  },
+  {
+    "objectID": "report.html#结论和展望",
+    "href": "report.html#结论和展望",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "9 结论和展望",
+    "text": "9 结论和展望\n总结研究结论, 本研究的不足, 值得进一步研究的问题"
+  },
+  {
+    "objectID": "report.html#个人心得体会每个小组成员独立撰写",
+    "href": "report.html#个人心得体会每个小组成员独立撰写",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "10 个人心得体会（每个小组成员独立撰写）",
+    "text": "10 个人心得体会（每个小组成员独立撰写）\n班级 学号 成员1\n\n本人在完成实验报告中的具体工作\n遇到过什么困难，如何解决该困难\n课程建议\n单个成员的心得体会字数不少于500字"
+  },
+  {
+    "objectID": "report.html#电子版",
+    "href": "report.html#电子版",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "电子版",
+    "text": "电子版\n\n提交时限：第17周上课日的前一天的19:00\nPDF版实验报告和数据文件提交到QQ群中的“实验报告及其数据文件”文件夹\nPDF文件命名格式：“小组编号 组长名 组长班级 实验报告.pdf”\nExcel或SPSS数据文件命名格式：“小组编号 组长名 组长班级 实验报告.xlsx/sav”"
+  },
+  {
+    "objectID": "report.html#纸质版",
+    "href": "report.html#纸质版",
+    "title": "《SPSS与统计实验》课程实验报告",
+    "section": "纸质版",
+    "text": "纸质版\n\n双面或单面打印皆可，黑白打印即可，无需彩色打印，无需制作硬壳封面, 三颗订书针装订。\n提交时限：第17周上课日"
+  },
+  {
+    "objectID": "casereq.html",
+    "href": "casereq.html",
+    "title": "小组案例作业",
+    "section": "",
+    "text": "选题要求\n运用统计方法分析现实问题。\n\n\n数据要求\n\n微观层面的截面数据\n样本容量大于100\n至少3个定量变量，至少3个定性变量，建议变量个数超过8个\n不要使用其他教材中的例题或习题数据，不要使用虚拟数据\n\n\n\n四次作业\n每个小组完成4次作业，提交4个演示文稿，按发言时间表上指定的主题的汇报一次。\n\n第1次：第3-4章 图表和描述性统计量\n第2次：第7-8章 参数估计和假设检验\n第3次：第9-10章 独立性检验、卡方检验、方差分析\n第4次：第11章 相关和回归分析\n\n\n\n演示文稿大纲\n\n研究目标\n数据概况\n\n数据来源、样本范围、样本容量\n变量含义\n描述性统计分析\n\n分析过程\n\n呈现统计分析表格、计算结果、检验结果\n\n研究结论\n心得体会\n\n收集数据、软件操作小技巧\n遇到的困难及解决方案\n收获\n\n\n\n\n演示文稿\n\n15-20页左右\n浅色底色, 深色字体, 字号&gt;28\n图表美观，清晰可读性强\n\n\n\n提交要求\n\n将演示文稿转成PDF格式，在发言日的前一天的19:00点将PDF文件提交到QQ群“第#章小组案例”文件夹中\nPDF文件命名格式：小组编号+组长名字+组长班级+章编号.pdf\n\n例如：5黄捷欣19国贸1第3-4章.pdf\n小组编号请查看QQ群中的小组发言时间表\n\n\n\n\n发言时长\n\n5-6分钟, 请演练课堂汇报的时长, 突出重点 。\n发言时有倒计时软件计时, 时间到请结束发言。"
   },
   {
     "objectID": "case1code.html",
@@ -364,18 +476,11 @@
     "text": "第11章 回归分析\n\n讲义\n\n教学视频\n\nEXCEL相关回归分析的函数工具\nEXCEL数据分析工具库中的回归分析\n\n习题讲评\n\n教材第11章习题讲评\n\n拓展资源\n\n在线词云图工具 https://www.wordclouds.com/"
   },
   {
-    "objectID": "chap9.html",
-    "href": "chap9.html",
-    "title": "第9章",
+    "objectID": "chap10.html",
+    "href": "chap10.html",
+    "title": "第10章",
     "section": "",
-    "text": "第9章 分类数据\n\n讲义\n\n教学视频\n\nEXCEL 拟合优度检验 CHISQ.TEST函数的使用\nEXCEL 独立性检验 CHISQ.TEST函数的使用\n\n习题讲评\n\n教材第9章习题讲评\n\n拓展资源"
-  },
-  {
-    "objectID": "chap8.html",
-    "href": "chap8.html",
-    "title": "第8章",
-    "section": "",
-    "text": "第8章 假设检验\n\n讲义\n\n教学视频\n\n\n理论知识难点\n\n什么是P值\n显著性水平和P值的区别\n总体均值的检验：Z检验还是T检验\n单侧检验还是双侧检验\n\nExcel操作\n\nExcel 总体均值的Z检验：Z.test函数\nExcel 总体均值的T检验\nExcel 总体均值的T检验：P值法和临界值法\nExcel 两个总体方差比的F检验\nExcel 两个总体均值是否相等的T检验\nEXCEL 匹配样本的T检验\nExcel图表工具合集\nEXCEL数据清洗合集\n\n习题讲评\n\n第8章教材习题8.1-8.8\n第8章教材习题8.9-8.15\n\n拓展资源"
+    "text": "第10章 方差分析\n\n讲义\n\n教学视频\n\nEXCEL 单因素方差分析\nEXCEL 双因素方差分析\n\n习题讲评\n\n教材第10章习题讲评\n\n拓展资源"
   },
   {
     "objectID": "case2pre.html#数据和变量",
@@ -532,11 +637,46 @@
     "text": "Thanks for your attention！\n\n\n\n\nhttps://lizongzhang.github.io/stat24"
   },
   {
-    "objectID": "chap10.html",
-    "href": "chap10.html",
-    "title": "第10章",
+    "objectID": "chap8.html",
+    "href": "chap8.html",
+    "title": "第8章",
     "section": "",
-    "text": "第10章 方差分析\n\n讲义\n\n教学视频\n\nEXCEL 单因素方差分析\nEXCEL 双因素方差分析\n\n习题讲评\n\n教材第10章习题讲评\n\n拓展资源"
+    "text": "讲义"
+  },
+  {
+    "objectID": "chap8.html#重点难点视频",
+    "href": "chap8.html#重点难点视频",
+    "title": "第8章",
+    "section": "重点难点视频",
+    "text": "重点难点视频\n\n\n小调查\n\n \n\n什么是P值？\n显著性水平和P值的区别？\n总体均值的检验：Z检验还是T检验？\n单侧检验还是双侧检验？"
+  },
+  {
+    "objectID": "chap8.html#excel操作",
+    "href": "chap8.html#excel操作",
+    "title": "第8章",
+    "section": "Excel操作",
+    "text": "Excel操作\nExcel 总体均值的Z检验：Z.test函数\nExcel 总体均值的T检验\nExcel 总体均值的T检验：P值法和临界值法\nExcel 两个总体方差比的F检验\nExcel 两个总体均值是否相等的T检验\nEXCEL 配对样本的T检验"
+  },
+  {
+    "objectID": "chap8.html#spss操作",
+    "href": "chap8.html#spss操作",
+    "title": "第8章",
+    "section": "SPSS操作",
+    "text": "SPSS操作\n单个总体参数的T检验\n两个独立样本t检验\n配对样本的t检验"
+  },
+  {
+    "objectID": "chap9.html",
+    "href": "chap9.html",
+    "title": "第9章",
+    "section": "",
+    "text": "第9章 分类数据\n\n讲义\n\n教学视频\n\nEXCEL 拟合优度检验 CHISQ.TEST函数的使用\nEXCEL 独立性检验 CHISQ.TEST函数的使用\n\n习题讲评\n\n教材第9章习题讲评\n\n拓展资源"
+  },
+  {
+    "objectID": "case1comment.html",
+    "href": "case1comment.html",
+    "title": "第3-4章小组作业讲评",
+    "section": "",
+    "text": "数据来源的说明\n\n\n\n数据采集的时点\n\n\n\n\n合并小类\n\n\n\n将小类合并为“其他”\n\n\n\n\n\n将小类合并为“其他”\n\n\n\n\n\n注意大小写\n\n\n\n\n组距的易读性\n\n\n\n简洁易读\n\n\n\n\n\n组距的可读性\n\n\n\n\n\n开口组\n\n\n\n\n表格还是图形？\n\n\n\n\n图形中的标签\n\n\n\n\n\n表格与文字\n\n\n\n\n图形标题\n\n\n\n堆栈百分比条形图\n\n\n#图形美化\n\n\n\n饼图的美化\n\n\n\n\n\n箱线图美化\n\n\n\n\n\n小数位数\n\n\n\n\n如何提出要研究的问题？\n\n\n\n\n文字堆砌\n\n\n\n\n研究结论的提炼\n\n\n\n“多”的量化\n\n\n \n\n\n\n文字与表格的对应\n\n\n\n\n\n\n数据采集的时点\n将小类合并为“其他”\n将小类合并为“其他”\n注意大小写\n简洁易读\n组距的可读性\n开口组\n表格与文字\n堆栈百分比条形图\n饼图的美化\n箱线图美化\n小数位数\n“多”的量化\n文字与表格的对应"
   },
   {
     "objectID": "chap13.html",
@@ -553,11 +693,18 @@
     "text": "每组4-5人，由组长填写在线问卷，提交分组信息：https://www.wjx.top/vm/e3AyWsR.aspx#"
   },
   {
-    "objectID": "case.html#小组案例作业",
-    "href": "case.html#小组案例作业",
+    "objectID": "case.html#案例作业要求",
+    "href": "case.html#案例作业要求",
     "title": "案例与实验报告",
-    "section": "小组案例作业",
-    "text": "小组案例作业\n案例作业要求\n\n示例\n\n第3-4章 广州六大奶茶品牌\n第7-8章 小组作业收获感\n第8-9章 汽车油耗\n第9-10章 奶茶品牌、区位和价格\n第11章 二手房房价、区位和房龄"
+    "section": "案例作业要求",
+    "text": "案例作业要求\n案例作业要求"
+  },
+  {
+    "objectID": "case.html#案例示例",
+    "href": "case.html#案例示例",
+    "title": "案例与实验报告",
+    "section": "案例示例",
+    "text": "案例示例\n\n第3-4章 广州六大奶茶品牌\n第7-8章 小组作业收获感\n第8-9章 汽车油耗\n第9-10章 奶茶品牌、区位和价格\n第11章 二手房房价、区位和房龄"
   },
   {
     "objectID": "case.html#往届小组作业演示文稿",
@@ -567,11 +714,18 @@
     "text": "往届小组作业演示文稿\n\n饮料特征分析——第3-4章图表工具和描述统计R\n广东省地市领导班子特征分析——第3章图表工具SPSS\n奶茶消费调查——第3章图表工具SPSS\n证监会录用人员特征——第3章图表工具Excel\n饮料特征分析——第7-8章区间估计和假设检验R\n证券分析师——第9-10章卡方检验和方差分析R\n饮料特征分析——第9-10章卡方检验和方差分析R\n广州市住宅房租比较——第10章方差分析SPSS\n大学生择偶观调查——第10章方差分析SPSS\n饮料特征分析——第11章相关和回归分析R"
   },
   {
-    "objectID": "case.html#实验报告",
-    "href": "case.html#实验报告",
+    "objectID": "case.html#实验报告要求",
+    "href": "case.html#实验报告要求",
     "title": "案例与实验报告",
-    "section": "实验报告",
-    "text": "实验报告\n\n实验报告写作要求\n往届实验报告——B站热门视频分析SPSS\n往届实验报告——中国电影票房TOP100分析SPSS\n往届实验报告——饮料特征分析R"
+    "section": "实验报告要求",
+    "text": "实验报告要求\n\n实验报告写作要求"
+  },
+  {
+    "objectID": "case.html#往届实验报告",
+    "href": "case.html#往届实验报告",
+    "title": "案例与实验报告",
+    "section": "往届实验报告",
+    "text": "往届实验报告\n\nSPSS与统计实验报告——B站热门视频分析\nSPSS与统计实验报告——中国电影票房TOP100分析SPSS\nR语言与统计应用实验报告——饮料特征分析"
   },
   {
     "objectID": "projects.html#project-2",
@@ -602,312 +756,144 @@
     "text": "3.1 定性变量的图表工具\n\n\n\n习题3.1学生习作之一\n\n\n\n\n\n习题3.1学生习作之二\n\n\n\n\n\n习题3.1条形图\n\n\n\n\n\n习题3.1帕累托图\n\n\n\n\n3.2或3.3 定量变量的图表工具\n\n\n\n习题3.2学生习作之一\n\n\n\n\n\n习题3.2学生习作之二\n\n\n\n\n\n习题3.2 直方图\n\n\n\n说明数据分布特点\n\n集中区域，稀疏区域\n数据范围，最大/小值\n对称/右偏/左偏\n\n\n\n\n3.5 对比条形图/环形图\n\n\n\n习题3.5学生习作之一\n\n\n\n\n\n习题3.5对比条形图\n\n\n\n\n\n习题3.5对比条形图\n\n\n\n\n\n习题3.5堆栈条形图\n\n\n\n\n\n习题3.5学生习作之二\n\n\n\n\n\n习题3.5对比环形图\n\n\n\n\n3.6 箱线图\n\n\n\n习题3.6学生习作之一\n\n\n\n\n\n习题3.6学生习作之二\n\n\n\n\n\n习题3.6数据整理——按中位数排序\n\n\n\n\n\n习题3.6箱线图\n\n\n\n\n\n习题3.1学生习作之一\n习题3.1学生习作之二\n习题3.1条形图\n习题3.1帕累托图\n习题3.2学生习作之一\n习题3.2学生习作之二\n习题3.2 直方图\n习题3.5学生习作之一\n习题3.5对比条形图\n习题3.5对比条形图\n习题3.5堆栈条形图\n习题3.5学生习作之二\n习题3.5对比环形图\n习题3.6学生习作之一\n习题3.6学生习作之二\n习题3.6数据整理——按中位数排序\n习题3.6箱线图"
   },
   {
-    "objectID": "report.html",
-    "href": "report.html",
-    "title": "《SPSS与统计实验》课程实验报告",
+    "objectID": "case1pre.html#数据和变量",
+    "href": "case1pre.html#数据和变量",
+    "title": "广州6大品牌奶茶店消费价格分析",
+    "section": "1 数据和变量",
+    "text": "1 数据和变量\n数据来源：大众点评网，广州六大品牌奶茶店\n样本容量：336\n数据来源：大众点评网，广州6大奶茶品牌\n零售价格: retail.price\n团购价格：group.price\n品牌： brand\n区位：area\n市区：荔湾，越秀，天河，海珠\n近郊：白云，番禺，黄埔\n远郊：花都，从化，南沙，增城"
+  },
+  {
+    "objectID": "case1pre.html#图形工具",
+    "href": "case1pre.html#图形工具",
+    "title": "广州6大品牌奶茶店消费价格分析",
+    "section": "2 图形工具",
+    "text": "2 图形工具\n2.1 帕累托图\n2.2 分组条形图\n2.3 分组直方图\n2.4 分组箱线图\n2.5 散点图"
+  },
+  {
+    "objectID": "case1pre.html#帕累托图",
+    "href": "case1pre.html#帕累托图",
+    "title": "广州6大品牌奶茶店消费价格分析",
+    "section": "2.1 帕累托图",
+    "text": "2.1 帕累托图\n\nlibrary(tidyverse)\nlibrary(readxl)\ndata  &lt;- read_excel(\"data/top6.xlsx\")\n\nlibrary(forcats)\ndata %&gt;% ggplot(aes(fct_infreq(brand), fill = brand)) + \n  geom_bar() +\n  geom_text(stat = \"count\", aes(label = after_stat(count)), vjust = -0.5)+ \n  scale_y_continuous(limits = c(0,100))+\n  guides(x = guide_axis(angle = 45)) +\n  labs(x = \"品牌\", fill = \"品牌\") +\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10))"
+  },
+  {
+    "objectID": "case1pre.html#分组条形图",
+    "href": "case1pre.html#分组条形图",
+    "title": "广州6大品牌奶茶店消费价格分析",
+    "section": "2.2 分组条形图",
+    "text": "2.2 分组条形图\n\ndata %&gt;%\n  group_by(area, brand) %&gt;%\n  summarise(count = n(), .groups = \"drop\") %&gt;% \n  mutate(brand_order = paste(brand, area, rank(-count), sep = \"_\"))  %&gt;% \n  ggplot(aes(reorder(brand_order, -count),\n             count, fill = brand)) +\n  geom_col()+\n  facet_wrap(~ area, scales = \"free_x\", ncol = 3) +\n  geom_text(aes(label = count), vjust = -0.5) +\n  scale_x_discrete(labels = function(x) gsub(\"_.+$\", \"\", x)) + # 移除排序编号\n  scale_y_continuous(limits = c(0, 42)) +\n  labs(x = \"品牌\", y = \"数量\") +\n  theme(axis.text.x = element_text(angle = 42, hjust = 1), \n        legend.position = \"none\")"
+  },
+  {
+    "objectID": "case1pre.html#分组直方图",
+    "href": "case1pre.html#分组直方图",
+    "title": "广州6大品牌奶茶店消费价格分析",
+    "section": "2.3 分组直方图",
+    "text": "2.3 分组直方图\n\n#按单个定性变量分组\ndata %&gt;% \n  ggplot(aes(retail.price, fill = brand))+\n  geom_histogram(breaks = seq(6, 38, 2))+\n  facet_wrap(~brand, ncol = 2) +\n  scale_y_continuous(limits = c(0,60))+\n  scale_fill_brewer(palette  = \"Set1\") +\n  labs(title = \"零售价直方图\",\n       x = \"零售价\",\n       y = \"频数\") +\n  scale_x_continuous(breaks = seq(6, 36, 4),\n                     labels = seq(6, 36, 4)) +\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10))\n\n\n零售价格：喜茶&gt;茶百道&gt;TANNING&gt;CoCo都可&gt;书亦烧仙草&gt;益禾堂"
+  },
+  {
+    "objectID": "case1pre.html#分组箱线图",
+    "href": "case1pre.html#分组箱线图",
+    "title": "广州6大品牌奶茶店消费价格分析",
+    "section": "2.4 分组箱线图",
+    "text": "2.4 分组箱线图\n\ndata %&gt;% \n  ggplot(aes(retail.price, reorder(brand, retail.price, FUN = median),\n             col = brand))+\n  geom_boxplot()+\n  labs(title =\"六大奶茶品牌零售价格\",\n       x = \"零售价格\",\n       y = \"品牌\", fill = \"品牌\")+\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10))\n\n\n零售价格：喜茶&gt;茶百道&gt;TANNING&gt;CoCo都可&gt;书亦烧仙草&gt;益禾堂"
+  },
+  {
+    "objectID": "case1pre.html#散点图",
+    "href": "case1pre.html#散点图",
+    "title": "广州6大品牌奶茶店消费价格分析",
+    "section": "2.5 散点图",
+    "text": "2.5 散点图\n\ndata %&gt;% \n  ggplot(aes(retail.price, groupbuy.price,col = brand))+\n  geom_point()+\n  geom_jitter()+\n  geom_smooth(method = lm, se = F) +\n  labs(title = \"零售价格与团购价散点图\",\n       x = \"零售价\",\n       y = \"团购价\") +\n  theme_bw() +\n    theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10))\n\n\n无论在市区、近郊、远郊，同一品牌的团购价格相同。"
+  },
+  {
+    "objectID": "case1pre.html#全样本",
+    "href": "case1pre.html#全样本",
+    "title": "广州6大品牌奶茶店消费价格分析",
+    "section": "3.1 全样本",
+    "text": "3.1 全样本\n\nlibrary(psych)\n\ndata %&gt;% \n  select(retail.price, groupbuy.price, comment.num) %&gt;%\n  describe() %&gt;% \n  select(n, mean, sd, median, min, max, skew, kurtosis)\n\n                 n   mean      sd median min   max skew kurtosis\nretail.price   336  15.60    5.26   15.0   7    35 1.53     1.72\ngroupbuy.price 301  10.85    4.00   10.5   6    18 0.22    -1.15\ncomment.num    336 564.28 1027.57  281.0  13 10598 5.24    36.47"
+  },
+  {
+    "objectID": "case1pre.html#表格中添加分布图像",
+    "href": "case1pre.html#表格中添加分布图像",
+    "title": "广州6大品牌奶茶店消费价格分析",
+    "section": "表格中添加分布图像",
+    "text": "表格中添加分布图像\n{gtExtras}\n\nlibrary(gtExtras)\n\ndata %&gt;% \n  select(retail.price, groupbuy.price) %&gt;%\n  gt_plt_summary()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.\n\n\n336 rows x 2 cols\n\n\n\nColumn\nPlot Overview\nMissing\nMean\nMedian\nSD\n\n\n\n\n\n\n\nretail.price\n\n\n\n      \n\n0.0%\n15.6\n15.0\n5.3\n\n\n\n\n\ngroupbuy.price\n\n\n\n      \n\n10.4%\n10.9\n10.5\n4.0"
+  },
+  {
+    "objectID": "case1pre.html#表格中添加分布图像-1",
+    "href": "case1pre.html#表格中添加分布图像-1",
+    "title": "广州6大品牌奶茶店消费价格分析",
+    "section": "表格中添加分布图像",
+    "text": "表格中添加分布图像\n{gtExtras}\n\nretail_group &lt;- data %&gt;% \n  select(brand, retail.price) %&gt;%\n  group_by(brand) %&gt;%\n  summarize(mean = mean(retail.price) %&gt;% round(3),\n            median = median(retail.price)%&gt;% round(3),\n            sd = sd(retail.price)%&gt;% round(3),\n            retail_t = list(retail.price))\n\n\nretail_group %&gt;%\n  arrange(desc(mean)) %&gt;% \n  gt() %&gt;% \n  gt_plt_dist(retail_t,\n              type = \"histogram\",\n              line_color = \"purple\",\n              fill_color = \"green\",\n              bw = 1)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbrand\nmean\nmedian\nsd\nretail_t\n\n\n\n\n喜茶\n27.930\n28\n1.818\n\n\n\n   \n\n\n\n茶百道\n15.603\n16\n1.154\n\n\n\n   \n\n\n\nTANING手挞柠檬茶\n15.023\n15\n1.067\n\n\n\n   \n\n\n\nCoCo都可\n14.391\n14\n2.013\n\n\n\n   \n\n\n\n书亦烧仙草\n13.415\n13\n1.770\n\n\n\n   \n\n\n\n益禾堂\n10.067\n10\n1.286"
+  },
+  {
+    "objectID": "case1pre.html#分品牌零售价格比较",
+    "href": "case1pre.html#分品牌零售价格比较",
+    "title": "广州6大品牌奶茶店消费价格分析",
+    "section": "3.2 分品牌零售价格比较",
+    "text": "3.2 分品牌零售价格比较\n\ndata %&gt;%\n  group_by(brand) %&gt;%\n  summarize(n(),\n            min = min(retail.price),\n            q1 = quantile(retail.price, 0.25),\n            median = median(retail.price),\n            mean = mean(retail.price),\n            q3 = quantile(retail.price, 0.75),\n            max = max(retail.price),\n            sd = sd(retail.price)) %&gt;% \n  arrange(desc(median))\n\n# A tibble: 6 × 9\n  brand            `n()`   min    q1 median  mean    q3   max    sd\n  &lt;chr&gt;            &lt;int&gt; &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n1 喜茶                43    24  27       28  27.9  29      35  1.82\n2 茶百道              58    13  15       16  15.6  16      19  1.15\n3 TANING手挞柠檬茶    44    13  14.8     15  15.0  16      18  1.07\n4 CoCo都可            64    11  13       14  14.4  15      23  2.01\n5 书亦烧仙草          82    10  12       13  13.4  14.8    21  1.77\n6 益禾堂              45     7   9       10  10.1  11      13  1.29\n\n\n零售价格：喜茶&gt;茶百道&gt;TANNING&gt;CoCo都可&gt;书亦烧仙草&gt;益禾堂"
+  },
+  {
+    "objectID": "case1pre.html#分区域零售价格比较",
+    "href": "case1pre.html#分区域零售价格比较",
+    "title": "广州6大品牌奶茶店消费价格分析",
+    "section": "3.3 分区域零售价格比较",
+    "text": "3.3 分区域零售价格比较\n\nlibrary(psych)\n\ndata %&gt;%\n  group_by(area) %&gt;%\n  summarize(n(),\n            min = min(retail.price),\n            q1 = quantile(retail.price, 0.25),\n            median = median(retail.price),\n            mean = mean(retail.price),\n            q3 = quantile(retail.price, 0.75),\n            max = max(retail.price),\n            sd = sd(retail.price))%&gt;% \n  arrange(desc(median))\n\n# A tibble: 3 × 9\n  area  `n()`   min    q1 median  mean    q3   max    sd\n  &lt;chr&gt; &lt;int&gt; &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;\n1 市区    168     8    13     15  16.5  16.2    35  5.90\n2 近郊    138     7    13     14  14.7  16      30  4.20\n3 远郊     30     8    11     14  14.5  16      28  5.06\n\n\n零售价格：市区&gt;近郊&gt;远郊"
+  },
+  {
+    "objectID": "case1pre.html#section",
+    "href": "case1pre.html#section",
+    "title": "广州6大品牌奶茶店消费价格分析",
     "section": "",
-    "text": "运用统计方法分析现实问题。"
+    "text": "Thanks for your attention！\n\n\n\n\nhttps://lizongzhang.github.io/stat24"
   },
   {
-    "objectID": "report.html#封面",
-    "href": "report.html#封面",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "封面",
-    "text": "封面\n\n题目\n小组成员信息（按学号顺序排列）\n\n班级 学号 成员1\n班级 学号 成员2\n班级 学号 成员3"
-  },
-  {
-    "objectID": "report.html#前言",
-    "href": "report.html#前言",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "1 前言",
-    "text": "1 前言\n介绍研究背景、选题动机、研究目标。"
-  },
-  {
-    "objectID": "report.html#数据概况",
-    "href": "report.html#数据概况",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "2 数据概况",
-    "text": "2 数据概况\n介绍数据来源、数据收集过程、解释变量的含义。"
-  },
-  {
-    "objectID": "report.html#描述性统计分析chap-3-4",
-    "href": "report.html#描述性统计分析chap-3-4",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "3 描述性统计分析：Chap 3 & 4",
-    "text": "3 描述性统计分析：Chap 3 & 4\n运用表格或图形呈现关键变量的分布特征、报告其描述性统计量。"
-  },
-  {
-    "objectID": "report.html#参数估计-chap-7",
-    "href": "report.html#参数估计-chap-7",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "4 参数估计: Chap 7",
-    "text": "4 参数估计: Chap 7\n运用参数估计方法对总体参数（关键变量）进行推断。"
-  },
-  {
-    "objectID": "report.html#假设检验chap-8",
-    "href": "report.html#假设检验chap-8",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "5 假设检验：Chap 8",
-    "text": "5 假设检验：Chap 8\n运用假设检验对总体参数（关键变量）进行推断。"
-  },
-  {
-    "objectID": "report.html#独立性检验-chap-9",
-    "href": "report.html#独立性检验-chap-9",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "6 独立性检验: Chap 9",
-    "text": "6 独立性检验: Chap 9\n运用独立性检验讨论两个定性变量之间的关系。"
-  },
-  {
-    "objectID": "report.html#方差分析-chap-10",
-    "href": "report.html#方差分析-chap-10",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "7 方差分析: Chap 10",
-    "text": "7 方差分析: Chap 10\n运用方差分析讨论定性变量和定量变量之间的关系。"
-  },
-  {
-    "objectID": "report.html#相关与回归分析-chap-11",
-    "href": "report.html#相关与回归分析-chap-11",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "8 相关与回归分析: Chap 11",
-    "text": "8 相关与回归分析: Chap 11\n运用方差分析讨论定性变量和定量变量之间的关系。"
-  },
-  {
-    "objectID": "report.html#结论和展望",
-    "href": "report.html#结论和展望",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "9 结论和展望",
-    "text": "9 结论和展望\n总结研究结论, 本研究的不足, 值得进一步研究的问题"
-  },
-  {
-    "objectID": "report.html#个人心得体会每个小组成员独立撰写",
-    "href": "report.html#个人心得体会每个小组成员独立撰写",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "10 个人心得体会（每个小组成员独立撰写）",
-    "text": "10 个人心得体会（每个小组成员独立撰写）\n班级 学号 成员1\n\n本人在完成实验报告中的具体工作\n遇到过什么困难，如何解决该困难\n课程建议\n单个成员的心得体会字数不少于500字"
-  },
-  {
-    "objectID": "report.html#电子版",
-    "href": "report.html#电子版",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "电子版",
-    "text": "电子版\n\n提交时限：第17周上课日的前一天的19:00\nPDF版实验报告和数据文件提交到QQ群中的“实验报告及其数据文件”文件夹\nPDF文件命名格式：“小组编号 组长名 组长班级 实验报告.pdf”\nExcel或SPSS数据文件命名格式：“小组编号 组长名 组长班级 实验报告.xlsx/sav”"
-  },
-  {
-    "objectID": "report.html#纸质版",
-    "href": "report.html#纸质版",
-    "title": "《SPSS与统计实验》课程实验报告",
-    "section": "纸质版",
-    "text": "纸质版\n\n双面或单面打印皆可，黑白打印即可，无需彩色打印，无需制作硬壳封面, 三颗订书针装订。\n提交时限：第17周上课日"
-  },
-  {
-    "objectID": "chap2.html",
-    "href": "chap2.html",
-    "title": "第2章",
+    "objectID": "chap1.html",
+    "href": "chap1.html",
+    "title": "第1章",
     "section": "",
     "text": "讲义"
   },
   {
-    "objectID": "chap2.html#题目1",
-    "href": "chap2.html#题目1",
-    "title": "第2章",
+    "objectID": "chap1.html#题目1",
+    "href": "chap1.html#题目1",
+    "title": "第1章",
     "section": "题目1",
-    "text": "题目1\n阅读以下推文\n微信公众号狗熊会&gt;案例图书&gt;精品案例&gt;中国女排国际竞争力现况及国内选材建队思路分析\n微信公众号狗熊会&gt;案例图书&gt;精品案例&gt;公共自行车损坏识别\n微信公众号狗熊会&gt;案例图书&gt;精品案例&gt;bilibili人类云吸猫行为观察\n微信公众号狗熊会&gt;案例图书&gt;精品案例&gt;王者荣耀英雄职业数据探索性分析\n1.1 数据来源？\n1.2 研究中的观测单元（观测个体）是什么？\n1.3 样本容量？\n1.3 研究中使用了哪些变量？\n1.4 文中利用统计分析回答了哪些问题？\n1.5 该推文对我们开展统计案例分析有何启发？\n\n\n点击浏览图片"
+    "text": "题目1\n\n1.1 浏览下述二手房信息，可以提取二手房的哪些变量？\n\n\n点击浏览图片\n\n\n房源1：五山花园\n\n\n\n房源2：华农嵩山 \n房源3：汇景新城 \n\n\n\n1.2 从该网页中提取的变量是分类数据(有序分类还是无序分类), 还是数值数据(离散数据还是连续数据)？\n\n\n1.3 根据上述二手房房源信息，你感兴趣的问题是什么？"
   },
   {
-    "objectID": "chap2.html#教学视频",
-    "href": "chap2.html#教学视频",
-    "title": "第2章",
-    "section": "教学视频",
-    "text": "教学视频\n如何从中国知网下载统计数据？\n八爪鱼客户端抓取网页数据？\n如何用Excel整理提取的网页数据？"
+    "objectID": "chap1.html#题目2",
+    "href": "chap1.html#题目2",
+    "title": "第1章",
+    "section": "题目2",
+    "text": "题目2\n\n2.1 开展关于毕业生薪酬的研究，你感兴趣那些问题？列出研究问题。\n\n\n2.2 针对你想研究的的问题，你想收集那些数据？列出变量名称，这些数据是分类数据(有序分类还是无序分类), 还是数值数据(离散数据还是连续数据)？"
   },
   {
-    "objectID": "chap2.html#拓展资源",
-    "href": "chap2.html#拓展资源",
-    "title": "第2章",
-    "section": "拓展资源",
-    "text": "拓展资源\nCSMAR 国泰安经济金融数据库 http://www.gtarsc.com/Home\n中国家庭追踪调查 CFPS http://www.isss.pku.edu.cn/cfps/\n中国家庭金融调查数据 CHFS https://chfs.swufe.edu.cn\n中国健康与养老数据追踪调查数据CHARLS http://charls.pku.edu.cn\n暨南大学社会调查中心 https://sdc-iesr.jnu.edu.cn\nKaggle https://www.kaggle.com/datasets"
+    "objectID": "chap1.html#习题1",
+    "href": "chap1.html#习题1",
+    "title": "第1章",
+    "section": "习题1",
+    "text": "习题1\n数据文件telco.sav\n\ntelco.sav文件在SPSS安装目录下, 在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 在SPSS中打开telco.sav文件，查看数据有多少行？有多少个变量？\n1.2 telco.sav文件中的变量ed的含义是什么？ed有哪几种取值？每种取值各有多少个个案？\n1.3 telco.sav文件中的变量tenure的含义是什么？报告tenure的均值、中位数、标准差。\n1.4 telco.sav文件中的变量address的含义是什么？报告address的均值、中位数、标准差。\n1.5 报告age, income, employ, resid的均值、中位数、标准差、最小值和最大值。"
   },
   {
-    "objectID": "chap3.html",
-    "href": "chap3.html",
-    "title": "第3章",
+    "objectID": "chap1.html#习题2",
+    "href": "chap1.html#习题2",
+    "title": "第1章",
+    "section": "习题2",
+    "text": "习题2\n数据文件毕业生.xlsx\n\n数据文件下载: https://pan.baidu.com/s/1BESTgZl7whkY4HuSq6ZGgw?pwd=6789\n\n2.1 将毕业生.xlsx导入到SPSS中，查看数据有多少行？有多少个变量？\n2.2 报告月薪的均值、中位数、标准差、最小值和最大值。\n2.3 统计各个专业的毕业生的人数。哪个专业的人数最多？占比最少？\n2.4 统计各个专业的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.5 将毕业生按就业地点分为广州和非广州两个组别，报告这两个组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.6 将毕业生按性别分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。\n2.7 将毕业生按单位类型分组，报个各组别的毕业生的月薪的均值、中位数、标准差、最小值和最大值。"
+  },
+  {
+    "objectID": "case2code.html",
+    "href": "case2code.html",
+    "title": "case2 code based on Chap 7 and Chap 8",
+    "section": "",
+    "text": "library(tidyverse) data(mpg)\nlibrary(ggstatsplot)\ngghistostats(mpg, cty, test.value = 16, ggtheme = theme_bw)"
+  },
+  {
+    "objectID": "chap7.html",
+    "href": "chap7.html",
+    "title": "第7章",
     "section": "",
     "text": "讲义"
-  },
-  {
-    "objectID": "chap3.html#题目1-饼图",
-    "href": "chap3.html#题目1-饼图",
-    "title": "第3章",
-    "section": "题目1 饼图",
-    "text": "题目1 饼图\n\n数据来源：大众点评网，广州六大品牌奶茶店\n样本容量：336\n数据来源：大众点评网，广州6大奶茶品牌\n\n\nShow the code\nlibrary(tidyverse)\nlibrary(readxl)\ndata  &lt;- read_excel(\"data/top6.xlsx\")\n\npar(family  = 'STKaiti')\nlibrary(showtext)\nshowtext_auto()\n\ndata %&gt;% \n  count(brand) %&gt;% \n  mutate(percent = round(n/sum(n)*100, 1))\n\n\n# A tibble: 6 × 3\n  brand                n percent\n  &lt;chr&gt;            &lt;int&gt;   &lt;dbl&gt;\n1 CoCo都可            64    19  \n2 TANING手挞柠檬茶    44    13.1\n3 书亦烧仙草          82    24.4\n4 喜茶                43    12.8\n5 益禾堂              45    13.4\n6 茶百道              58    17.3\n\n\nShow the code\ntable(data$brand) %&gt;% \n  pie()\n\n\n\n\n\n\n\n\n\nShow the code\npie_table &lt;- data %&gt;% \n  count(brand) %&gt;% \n  mutate(percent = round(n/sum(n)*100, 1),\n         per_label = paste0(brand, \" \", percent, \"%\")) %&gt;% \n  arrange(desc(percent))\n  \npie(pie_table$percent, \n    labels = pie_table$per_label, \n    clockwise = TRUE,\n    init.angle = 90)"
-  },
-  {
-    "objectID": "chap3.html#题目2-条形图",
-    "href": "chap3.html#题目2-条形图",
-    "title": "第3章",
-    "section": "题目2 条形图",
-    "text": "题目2 条形图\n\n\n\nShow the code\ndata %&gt;% ggplot(aes(brand, fill = brand)) + \n  geom_bar() +\n  labs(x = \"品牌\", fill = \"品牌\") +\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10)) \n\n\n\n\n\n\n\n\n\nShow the code\nlibrary(forcats)\ndata %&gt;% ggplot(aes(fct_infreq(brand), fill = brand)) + \n  geom_bar() +\n  geom_text(stat = \"count\", aes(label = after_stat(count)), vjust = -1)+ \n  scale_y_continuous(limits = c(0,100))+\n  guides(x = guide_axis(angle = 45)) +\n  labs(x = \"品牌\", fill = \"品牌\") +\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"none\",\n        legend.text = element_text(size = 10))"
-  },
-  {
-    "objectID": "chap3.html#题目3-直方图",
-    "href": "chap3.html#题目3-直方图",
-    "title": "第3章",
-    "section": "题目3 直方图",
-    "text": "题目3 直方图\n\n\n\nShow the code\nlibrary(ggplot2)\n\n# 难看的直方图\nggplot(mpg, aes(x = hwy)) +\n  geom_histogram(binwidth = 5, color = \"black\", alpha = 0.9) +\n  labs(title = \"Ugly Histogram\", x = \"Highway Mileage\", y = \"Count\") +\n  theme(\n    plot.title = element_text(size = 20, hjust = 0.5, color = \"purple\"),\n    axis.title.x = element_text(size = 15, angle = 45, vjust = 1, color = \"red\"),\n    axis.title.y = element_text(size = 15, angle = 90, hjust = 1, color = \"green\"),\n    legend.position = \"top\",\n    panel.background = element_rect(fill = \"pink\"),\n    panel.grid.major = element_line(color = \"yellow\", size = 1)\n  )\n\n\n\n\n\n\n\n\n\nShow the code\n# 好看的直方图\nggplot(mpg, aes(x = hwy)) +\n  geom_histogram(breaks = seq(12, 46, 2), \n                 fill = \"#0073C2FF\", \n                 color = \"white\", \n                 alpha = 0.8) +\n  scale_x_continuous(breaks = seq(12, 46, 2),\n                     labels = seq(12, 46, 2)) +\n  scale_y_continuous(limits = c(0,50))+\n  labs(title = \"Highway Mileage Distribution\", x = \"Highway Mileage\", y = \"Frequency\") +\n  theme_minimal() +\n  theme(\n    plot.title = element_text(size = 20, hjust = 0.5),\n    axis.title.x = element_text(size = 18),\n    axis.title.y = element_text(size = 18),\n    panel.grid.major = element_line(color = \"grey90\"),\n    panel.grid.minor = element_blank()\n  )"
-  },
-  {
-    "objectID": "chap3.html#题目4-二维变量的作图",
-    "href": "chap3.html#题目4-二维变量的作图",
-    "title": "第3章",
-    "section": "题目4 二维变量的作图",
-    "text": "题目4 二维变量的作图\n\n\n分组条形图\n\n\nShow the code\ndata %&gt;%\n  group_by(area, brand) %&gt;%\n  summarise(count = n(), .groups = \"drop\") %&gt;% \n  mutate(brand_order = paste(brand, area, rank(-count), sep = \"_\"))  %&gt;% \n  ggplot(aes(reorder(brand_order, -count),\n             count, fill = brand)) +\n  geom_col()+\n  facet_wrap(~ area, scales = \"free_x\", ncol = 3) +\n  geom_text(aes(label = count), vjust = -0.5) +\n  scale_x_discrete(labels = function(x) gsub(\"_.+$\", \"\", x)) + # 移除排序编号\n  scale_y_continuous(limits = c(0, 42)) +\n  labs(x = \"品牌\", y = \"数量\") +\n  theme(axis.text.x = element_text(angle = 42, hjust = 1), \n        legend.position = \"none\")\n\n\n\n\n\n\n\n\n\n\n\n分组直方图\n\n\nShow the code\n#按单个定性变量分组\ndata %&gt;% \n  ggplot(aes(retail.price, fill = brand))+\n  geom_histogram(breaks = seq(6, 38, 2))+\n  facet_wrap(~brand, ncol = 2) +\n  scale_y_continuous(limits = c(0,60))+\n  scale_fill_brewer(palette  = \"Set1\") +\n  labs(title = \"零售价直方图\",\n       x = \"零售价\",\n       y = \"频数\") +\n  scale_x_continuous(breaks = seq(6, 36, 4),\n                     labels = seq(6, 36, 4)) +\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10))\n\n\n\n\n\n\n\n\n\n\n\n分组直方图\n\n\nShow the code\ndata %&gt;% \n  ggplot(aes(retail.price, reorder(brand, retail.price, FUN = median),\n             col = brand))+\n  geom_boxplot()+\n  labs(title =\"六大奶茶品牌零售价格\",\n       x = \"零售价格\",\n       y = \"品牌\", fill = \"品牌\")+\n  theme_bw() +\n  theme(text = element_text(size = 15),\n        legend.position = \"bottom\",\n        legend.text = element_text(size = 10))"
-  },
-  {
-    "objectID": "chap3.html#定性数据的图表工具",
-    "href": "chap3.html#定性数据的图表工具",
-    "title": "第3章",
-    "section": "定性数据的图表工具",
-    "text": "定性数据的图表工具\nSPSS 如何美化饼图\nSPSS 帕累托图\nSPSS 简单条形图\nSPSS 簇状条形图\nSPSS 堆积条形图\nSPSS 交叉表"
-  },
-  {
-    "objectID": "chap3.html#定量数据的图表工具",
-    "href": "chap3.html#定量数据的图表工具",
-    "title": "第3章",
-    "section": "定量数据的图表工具",
-    "text": "定量数据的图表工具\nSPSS 简单箱线图\nSPSS 簇状箱线图\nSPSS 直方图\nSPSS 分组直方图\nSPSS 探索工具"
-  },
-  {
-    "objectID": "chap3.html#习题1-telco.sav",
-    "href": "chap3.html#习题1-telco.sav",
-    "title": "第3章",
-    "section": "习题1 telco.sav",
-    "text": "习题1 telco.sav\n数据文件telco.sav\n\ntelco.sav文件在SPSS安装目录下,在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 绘制ed的频数分布表，在表中列出各个组别的人数及占比。\n1.2 绘制客户的ed的饼图, 在各个扇区标注百分比，为各个扇区设置你喜欢的颜色。\n1.3 绘制custcat的饼图，按各组百分比降序排列扇区，并在扇区上标注类别名称和百分比。\n1.4 绘制custcat的条形图，按各组频数降序排列条形，并在条形上方标注各组人数。\n1.5 绘制客户custcat和ed的列联表，在表中列出行的百分比，列的百分比。\n1.6 将客户按ed分组，绘制各个组别客户的income的直方图\n1.7 将客户按ed分组，绘制各个组别客户的income的箱线图。\n1.8 将客户按ed分组，绘制各个组别客户的tenure的直方图。\n1.9 将客户按ed分组，绘制各个组别客户的tenure的箱线图。\n1.10 将客户按region、gender分成6个组别，绘制各个组别客户的tenure的直方图。\n1.11 将客户按region、gender分成6个组别，绘制各个组别客户的income的直方图。\n1.12 绘制retire = YES的客户的income的茎叶图。"
-  },
-  {
-    "objectID": "chap3.html#习题2-毕业生.xlsx",
-    "href": "chap3.html#习题2-毕业生.xlsx",
-    "title": "第3章",
-    "section": "习题2 毕业生.xlsx",
-    "text": "习题2 毕业生.xlsx\n数据文件:毕业生.xlsx(在QQ 群文件的“实验数据”文件中）\n\n数据文件下载: https://pan.baidu.com/s/1BESTgZl7whkY4HuSq6ZGgw?pwd=6789\n\n数据文件：毕业生.xlsx(数据文件在QQ 群文件夹中）\n要求：利用SPSS完成\n2.1 绘制毕业生的专业分布的频数分布表、条形图(按各组频数降序排列条形)。\n2.2 绘制毕业生政治面貌分布的饼图，按各组百分比降序排列扇区，并在扇区上标注类别名称和百分比。\n条形图(按各组频数降序排列条形)，为各个扇区设置你喜欢的颜色。\n2.3 绘制毕业生政治面貌和性别的列联表，在表中列出行的百分比，列的百分比。\n2.4 将毕业生按专业分组，绘制各个专业毕业生月薪的直方图。\n2.5 将毕业生按是否在广州就业分组，绘制两个组别毕业生月薪的直方图\n2.6 将毕业生按专业分组，绘制各个专业毕业生月薪的箱线图。\n2.7 将毕业生按是否在广州就业分组，绘制两个组别毕业生月薪的箱线图。\n2.8 将毕业生按生源地是否在广州，就业地是否在广州分成4个组别，绘制各个组别毕业生薪酬的直方图。\n2.9 将毕业生按生源地是否在广州，就业地是否在广州分成4个组别，绘制各个组别毕业生薪酬的箱线图。\n2.10 绘制物流管理专业毕业生月薪的茎叶图。请简要描述该专业毕业生月薪分布的特征。（SPSS主菜单：分析，图…勾选茎叶图，提示：月薪分布在哪个区间最密集？其分布是对称、左偏还是右偏？）"
-  },
-  {
-    "objectID": "chap3.html#习题3-毕业生.xlsx",
-    "href": "chap3.html#习题3-毕业生.xlsx",
-    "title": "第3章",
-    "section": "习题3 毕业生.xlsx",
-    "text": "习题3 毕业生.xlsx\n数据文件：毕业生.xlsx(数据文件在QQ 群文件夹中），用Excel完成以下任务：\n3.1 绘制毕业生性别分布的频数分布表，在表中列出男性和女性的人数及比重。\n3.2 绘制毕业生性别分布的饼图和条形图。\n3.3 绘制毕业生的专业人数分布的频数分布表，在表中列出各个专业的人数和百分比。\n3.4 绘制毕业生各专业人数分布的帕累托图。\n3.5 绘制毕业生的政治面貌的频数分布表。\n3.6 绘制毕业生的政治面貌的瀑布图。\n3.7 绘制毕业生的就业单位类型的频数分布表。\n3.8 对毕业生先按性别、再按就业单位类型进行层级分组，绘制树状图。\n3.9 对毕业生先按性别、再按政治面貌进行层级分组，绘制树状图。"
-  },
-  {
-    "objectID": "chap3.html#习题4-毕业生.xlsx",
-    "href": "chap3.html#习题4-毕业生.xlsx",
-    "title": "第3章",
-    "section": "习题4 毕业生.xlsx",
-    "text": "习题4 毕业生.xlsx\n数据文件：毕业生.xlsx(数据文件在QQ 群文件夹中），用Excel完成以下任务：\n4.1 绘制毕业生月薪的频数分布表，采用适宜的组矩，在表中列出各个组别的人数和百分比。\n4.2 绘制毕业生月薪的直方图。\n4.3 绘制毕业生月薪的频数折线图、累积百分比折线图，在图中标注出频数或累积百分比。在870位毕业生中，月薪小于等于4000、小于等于6000的各占比多少？。\n4.4 绘制毕业生月薪的箱线图，在箱线图中标注出第1个四分位数、中位数和第3个四分位数。"
-  },
-  {
-    "objectID": "chap6.html",
-    "href": "chap6.html",
-    "title": "第6章",
-    "section": "",
-    "text": "讲义\n\n\nEXCEL利用norm.dist函数绘制正态分布概率密度曲线\nEXCEL利用t.dist函数绘制t分布概率密度曲线\nEXCEL利用f.dist函数绘制F分布概率密度曲线\n\n\n\n\n\n第1题至第6题\n\n\n\n在同一个坐标系下，绘制N(0,1)、N(1, 4)、N(-2, 0.25)的概率密度曲线。\n在同一个坐标系下，绘制N(0,1)、t(5)、t(10)、t(30)的概率密度曲线。\n在同一个坐标系下，绘制\\(\\chi^2(5)\\)、\\(\\chi^2(10)\\)、\\(\\chi^2(30)\\)的概率密度曲线。\n在同一个坐标系下，绘制F(2,5)、F(5,10)、F(30,50)的概率密度曲线。\n\n\n\n利用Excel生成如下分布的随机数，并绘制直方图。提交直方图的图片。\n2.1 生成服从自由度为5的卡方分布的500个随机数，绘制其直方图。\n2.2 生成服从自由度为5的t分布的500个随机数，绘制其直方图。\n2.3 生成服从自由度为30的卡方分布的500个随机数，绘制其直方图。\n2.4 生成服从F(5, 30)的500个随机数，绘制其直方图。\n\n\n\n\n\\(Z_{0.05} ; Z_{0.15} ; Z_{0.90}\\)\n\\(Z_{\\frac{0.01}{2}} ; Z_{\\frac{0.05}{2}} ; Z_{\\frac{0.10}{2}}\\)\n\\(X \\sim N(0,1), P(X&gt;2.5)=\\) ? \\(P(X&lt;-2)=\\) ? \\(P(|X|&gt;1.8)=\\) ?\n\\(t_{0.05}(8) ; t_{\\frac{0.05}{2}}(8) ; t_{0.95}(8)\\)\n\\(t_{0.05}(50) ; t_{\\frac{0.05}{2}}(50) ; t_{0.95}(50)\\)\n\\(X \\sim t(8), P(X&gt;2)=\\) ? \\(P(X&lt;-1.8)=\\) ? \\(P(|X|&gt;2)=\\) ?\n\\(\\chi_{0.05}^2(5) ; \\chi_{0.95}^2(5) ; \\chi_{0.05}^2(15) ; \\quad \\chi_{0.95}^2(15)\\)\n\\(X \\sim \\chi^2(5), P(X&gt;9)=\\) ? ; \\(P(X&lt;1)=\\) ?\n\\(F_{0.05}(5,10) ; F_{0.95}(5,10)\\);\n\\(F_{0.05}(10,30) ; F_{0.95}(10,30)\\);\n\\(X \\sim F(5,10), P(X&gt;3)=\\) ?; \\(P(X&lt;1)=\\) ?\n\n\n\n\n4.1 生成500个服从正态分布N(100,10^2)的随机数。将这500个数视作总体，从中随机抽取容量为4的样本，重复抽样100次，绘制100个样本的样本均值的直方图。\n4.2 生成500个服从正态分布N(100,10^2)的随机数。将这500个数视作总体，从中随机抽取容量为36的样本，复抽样100次，绘制100个样本的样本均值的直方图。\n4.3 比较4.1和4.2中的两幅直方图，概括两幅直方图的特征。\n\n\n\n5.1 生成1000个服从泊松分布Poisson(5)的随机数。将这1000个数视作总体，从中随机抽取容量为4的样本，重复抽样100次，绘制100个样本的样本均值的直方图。\n5.2 生成1000个服从泊松分布Poisson(5)的随机数。将这1000个数视作总体，从中随机抽取容量为36的样本，重复抽样100次，绘制100个样本的样本均值的直方图。\n5.3 比较5.1和5.2中的两幅直方图，概括两幅直方图的特征。\n\n\n\n6.1 利用Excel绘制标准正态分布表。\n\n\n\n标准正态分布表\n\n\n6.2 利用Excel绘制t分布表。\n\n\n\nt分布表\n\n\n6.3 利用Excel绘制卡方分布表。\n\n\n\n卡方分布表\n\n\n6.4 利用Excel绘制F分布表。\n\n\n\nF分布表"
-  },
-  {
-    "objectID": "chap6.html#教学视频",
-    "href": "chap6.html#教学视频",
-    "title": "第6章",
-    "section": "",
-    "text": "EXCEL利用norm.dist函数绘制正态分布概率密度曲线\nEXCEL利用t.dist函数绘制t分布概率密度曲线\nEXCEL利用f.dist函数绘制F分布概率密度曲线"
-  },
-  {
-    "objectID": "chap6.html#本章习题",
-    "href": "chap6.html#本章习题",
-    "title": "第6章",
-    "section": "",
-    "text": "第1题至第6题\n\n\n\n在同一个坐标系下，绘制N(0,1)、N(1, 4)、N(-2, 0.25)的概率密度曲线。\n在同一个坐标系下，绘制N(0,1)、t(5)、t(10)、t(30)的概率密度曲线。\n在同一个坐标系下，绘制\\(\\chi^2(5)\\)、\\(\\chi^2(10)\\)、\\(\\chi^2(30)\\)的概率密度曲线。\n在同一个坐标系下，绘制F(2,5)、F(5,10)、F(30,50)的概率密度曲线。\n\n\n\n利用Excel生成如下分布的随机数，并绘制直方图。提交直方图的图片。\n2.1 生成服从自由度为5的卡方分布的500个随机数，绘制其直方图。\n2.2 生成服从自由度为5的t分布的500个随机数，绘制其直方图。\n2.3 生成服从自由度为30的卡方分布的500个随机数，绘制其直方图。\n2.4 生成服从F(5, 30)的500个随机数，绘制其直方图。\n\n\n\n\n\\(Z_{0.05} ; Z_{0.15} ; Z_{0.90}\\)\n\\(Z_{\\frac{0.01}{2}} ; Z_{\\frac{0.05}{2}} ; Z_{\\frac{0.10}{2}}\\)\n\\(X \\sim N(0,1), P(X&gt;2.5)=\\) ? \\(P(X&lt;-2)=\\) ? \\(P(|X|&gt;1.8)=\\) ?\n\\(t_{0.05}(8) ; t_{\\frac{0.05}{2}}(8) ; t_{0.95}(8)\\)\n\\(t_{0.05}(50) ; t_{\\frac{0.05}{2}}(50) ; t_{0.95}(50)\\)\n\\(X \\sim t(8), P(X&gt;2)=\\) ? \\(P(X&lt;-1.8)=\\) ? \\(P(|X|&gt;2)=\\) ?\n\\(\\chi_{0.05}^2(5) ; \\chi_{0.95}^2(5) ; \\chi_{0.05}^2(15) ; \\quad \\chi_{0.95}^2(15)\\)\n\\(X \\sim \\chi^2(5), P(X&gt;9)=\\) ? ; \\(P(X&lt;1)=\\) ?\n\\(F_{0.05}(5,10) ; F_{0.95}(5,10)\\);\n\\(F_{0.05}(10,30) ; F_{0.95}(10,30)\\);\n\\(X \\sim F(5,10), P(X&gt;3)=\\) ?; \\(P(X&lt;1)=\\) ?\n\n\n\n\n4.1 生成500个服从正态分布N(100,10^2)的随机数。将这500个数视作总体，从中随机抽取容量为4的样本，重复抽样100次，绘制100个样本的样本均值的直方图。\n4.2 生成500个服从正态分布N(100,10^2)的随机数。将这500个数视作总体，从中随机抽取容量为36的样本，复抽样100次，绘制100个样本的样本均值的直方图。\n4.3 比较4.1和4.2中的两幅直方图，概括两幅直方图的特征。\n\n\n\n5.1 生成1000个服从泊松分布Poisson(5)的随机数。将这1000个数视作总体，从中随机抽取容量为4的样本，重复抽样100次，绘制100个样本的样本均值的直方图。\n5.2 生成1000个服从泊松分布Poisson(5)的随机数。将这1000个数视作总体，从中随机抽取容量为36的样本，重复抽样100次，绘制100个样本的样本均值的直方图。\n5.3 比较5.1和5.2中的两幅直方图，概括两幅直方图的特征。\n\n\n\n6.1 利用Excel绘制标准正态分布表。\n\n\n\n标准正态分布表\n\n\n6.2 利用Excel绘制t分布表。\n\n\n\nt分布表\n\n\n6.3 利用Excel绘制卡方分布表。\n\n\n\n卡方分布表\n\n\n6.4 利用Excel绘制F分布表。\n\n\n\nF分布表"
-  },
-  {
-    "objectID": "chap6.html#习题讲评",
-    "href": "chap6.html#习题讲评",
-    "title": "第6章",
-    "section": "习题讲评",
-    "text": "习题讲评\n第1题：如何用Excel绘制三大分布概率密度曲线？\n第2题 如何用Excel生成服从t分布、卡方分布、F分布的随机数？\n第3题 Excel中dist inv函数的运用\n第4题 总体分布为正态分布，样本均值的分布\n第5题 中心极限定理\n第5题 中心极限定理\n第6题 如何用Excel创建标准正态分布函数表？\n 第6章Excel习题学生习作点评"
-  },
-  {
-    "objectID": "chap6.html#拓展资源",
-    "href": "chap6.html#拓展资源",
-    "title": "第6章",
-    "section": "拓展资源",
-    "text": "拓展资源\n正态分布概率密度曲线动画演示 https://www.geogebra.org/m/nrgtzj5a\nt分布与标准正态分布概率密度曲线对比 https://www.geogebra.org/m/zxUzwgkH\nt分布与标准正态分布特定区间取值概率对比 https://www.geogebra.org/m/zxUzwgkH\n卡方分布计算器https://www.geogebra.org/m/AQX6fB2e\nF分布概率密度曲线https://www.geogebra.org/m/zxt2xuRs\n分位数计算器 https://gallery.shinyapps.io/dist_calc/\nCentral Limit Theorem for Means https://gallery.shinyapps.io/CLT_mean/\n中心极限定理 n=2-31 https://astools.datadesk.com/clt.html\nGalton Board https://www.mathsisfun.com/data/quincunx.html\n3Blue1Brown: 为什么正态分布里会有一个π？\n3Blue1Brown: 到底为什么“中心极限”是正态分布啊\n\n\n\n标准正态分布表\nt分布表\n卡方分布表\nF分布表"
-  },
-  {
-    "objectID": "case.html#案例作业要求",
-    "href": "case.html#案例作业要求",
-    "title": "案例与实验报告",
-    "section": "案例作业要求",
-    "text": "案例作业要求\n案例作业要求"
-  },
-  {
-    "objectID": "case.html#案例示例",
-    "href": "case.html#案例示例",
-    "title": "案例与实验报告",
-    "section": "案例示例",
-    "text": "案例示例\n\n第3-4章 广州六大奶茶品牌\n第7-8章 小组作业收获感\n第8-9章 汽车油耗\n第9-10章 奶茶品牌、区位和价格\n第11章 二手房房价、区位和房龄"
-  },
-  {
-    "objectID": "case.html#实验报告要求",
-    "href": "case.html#实验报告要求",
-    "title": "案例与实验报告",
-    "section": "实验报告要求",
-    "text": "实验报告要求\n\n实验报告写作要求"
-  },
-  {
-    "objectID": "case.html#往届实验报告",
-    "href": "case.html#往届实验报告",
-    "title": "案例与实验报告",
-    "section": "往届实验报告",
-    "text": "往届实验报告\n\nSPSS与统计实验报告——B站热门视频分析\nSPSS与统计实验报告——中国电影票房TOP100分析SPSS\nR语言与统计应用实验报告——饮料特征分析"
-  },
-  {
-    "objectID": "casereq.html",
-    "href": "casereq.html",
-    "title": "小组案例作业",
-    "section": "",
-    "text": "选题要求\n运用统计方法分析现实问题。\n\n\n数据要求\n\n微观层面的截面数据\n样本容量大于100\n至少3个定量变量，至少3个定性变量，建议变量个数超过8个\n不要使用其他教材中的例题或习题数据，不要使用虚拟数据\n\n\n\n四次作业\n每个小组完成4次作业，提交4个演示文稿，按发言时间表上指定的主题的汇报一次。\n\n第1次：第3-4章 图表和描述性统计量\n第2次：第7-8章 参数估计和假设检验\n第3次：第9-10章 独立性检验、卡方检验、方差分析\n第4次：第11章 相关和回归分析\n\n\n\n演示文稿大纲\n\n研究目标\n数据概况\n\n数据来源、样本范围、样本容量\n变量含义\n描述性统计分析\n\n分析过程\n\n呈现统计分析表格、计算结果、检验结果\n\n研究结论\n心得体会\n\n收集数据、软件操作小技巧\n遇到的困难及解决方案\n收获\n\n\n\n\n演示文稿\n\n15-20页左右\n浅色底色, 深色字体, 字号&gt;28\n图表美观，清晰可读性强\n\n\n\n提交要求\n\n将演示文稿转成PDF格式，在发言日的前一天的19:00点将PDF文件提交到QQ群“第#章小组案例”文件夹中\nPDF文件命名格式：小组编号+组长名字+组长班级+章编号.pdf\n\n例如：5黄捷欣19国贸1第3-4章.pdf\n小组编号请查看QQ群中的小组发言时间表\n\n\n\n\n发言时长\n\n5-6分钟, 请演练课堂汇报的时长, 突出重点 。\n发言时有倒计时软件计时, 时间到请结束发言。"
-  },
-  {
-    "objectID": "chap6.html#spss小测验",
-    "href": "chap6.html#spss小测验",
-    "title": "第6章",
-    "section": "SPSS小测验",
-    "text": "SPSS小测验\n\n\n题目\n\n数据文件：house.xlsx (QQ群文件)\nhouse.xlsx文件下载\n\n将数据文件中的变量总价万、面积平方米的观测值四舍五入取整。\n创建新变量每平方米单价(万/平方米)，保留1位小数。\n根据变量区域，将“广州番禺区”记录为“番禺”，将“广州天河区”记录为“天河”，保存到新变量行政区域。\n绘制变量“朝向”的频数分布表，将朝向分为东、南、西、北四类，保存到新变量“主朝向”。\n根据变量建筑年份，创建新变量“楼龄”。\n根据变量“总楼层”， 创建新变量“住宅高度”。将楼层为1-6层的，记为“低层”；将楼层为7-11层的记录为小高层；将楼层为12-29层的，记为“高层”；将楼层为30层以上的，记为“超高层”。\n选取两个定性变量，绘制簇状条形图。\n选取两个定性变量，绘制堆积条形图。\n选取两个定性变量，一个定量变量，用条形图反映各个组别的定量变量的均值的大小。\n选取一个定性变量，一个定量变量，绘制分组直方图。\n选取一个定性变量，两个定量变量，绘制分组散点图。\n选取一个定性变量，将样本数据分组，报告各个组别的所有的定量变量的均值、中位数、标准差、最小值和最大值。"
-  },
-  {
-    "objectID": "chap6ex.html",
-    "href": "chap6ex.html",
-    "title": "第6章Excel习题讲评",
-    "section": "",
-    "text": "第1题 概率密度曲线\n\n\n\n卡方分布概率密度曲线\n\n\n \n\n\n第2题 直方图\n\n\n\n卡方分布和t分布直方图学生习作\n\n\n\n\n\n卡方分布、F分布直方图学生习作\n\n\n\n\n\n第2题 调整组距\n\n\n\n\n\n第2题 调整组距\n\n\n\n\n\n第4题学生习作\n\n\n\n\n\n第5题学生习作\n\n\n\n\n\n卡方分布概率密度曲线\n卡方分布和t分布直方图学生习作\n卡方分布、F分布直方图学生习作\n第2题 调整组距\n第2题 调整组距\n第4题学生习作\n第5题学生习作"
-  },
-  {
-    "objectID": "chap6.html#习题讲评视频",
-    "href": "chap6.html#习题讲评视频",
-    "title": "第6章",
-    "section": "习题讲评视频",
-    "text": "习题讲评视频\n第1题：如何用Excel绘制三大分布概率密度曲线？\n第2题 如何用Excel生成服从t分布、卡方分布、F分布的随机数？\n第3题 Excel中dist inv函数的运用\n第4题 总体分布为正态分布，样本均值的分布\n第5题 中心极限定理\n第5题 中心极限定理\n第6题 如何用Excel创建标准正态分布函数表？"
-  },
-  {
-    "objectID": "chap6.html#学生习作讲评",
-    "href": "chap6.html#学生习作讲评",
-    "title": "第6章",
-    "section": "学生习作讲评",
-    "text": "学生习作讲评\n 第6章Excel习题学生习作点评"
-  },
-  {
-    "objectID": "case1comment.html",
-    "href": "case1comment.html",
-    "title": "第3-4章小组作业讲评",
-    "section": "",
-    "text": "数据来源的说明\n\n\n\n数据采集的时点\n\n\n\n\n合并小类\n\n\n\n将小类合并为“其他”\n\n\n\n\n\n将小类合并为“其他”\n\n\n\n\n\n注意大小写\n\n\n\n\n组距的易读性\n\n\n\n简洁易读\n\n\n\n\n\n组距的可读性\n\n\n\n\n\n开口组\n\n\n\n\n表格还是图形？\n\n\n\n\n图形中的标签\n\n\n\n\n\n表格与文字\n\n\n\n\n图形标题\n\n\n\n堆栈百分比条形图\n\n\n#图形美化\n\n\n\n饼图的美化\n\n\n\n\n\n箱线图美化\n\n\n\n\n\n小数位数\n\n\n\n\n如何提出要研究的问题？\n\n\n\n\n文字堆砌\n\n\n\n\n研究结论的提炼\n\n\n\n“多”的量化\n\n\n \n\n\n\n文字与表格的对应\n\n\n\n\n\n\n数据采集的时点\n将小类合并为“其他”\n将小类合并为“其他”\n注意大小写\n简洁易读\n组距的可读性\n开口组\n表格与文字\n堆栈百分比条形图\n饼图的美化\n箱线图美化\n小数位数\n“多”的量化\n文字与表格的对应"
   },
   {
     "objectID": "chap7.html#习题1-置信水平的理解",
@@ -915,5 +901,19 @@
     "title": "第7章",
     "section": "习题1 置信水平的理解",
     "text": "习题1 置信水平的理解\n总体服从均值为80，标准差为5的正态分布。\n从总体中抽取容量为36的个体，组成一个样本，利用该样本构造总体均值的90%的置信区间。重复该过程500次，利用这500个样本构造500个总体均值的90%的置信区间。计算这500个置信区间中包含总体均值80的比例是多少？\n从总体中抽取容量为36的个体，组成一个样本，利用该样本构造总体均值的95%的置信区间。重复该过程500次，利用这500个样本构造500个总体均值的95%的置信区间。计算这500个置信区间中包含总体均值80的比例是多少？\n从总体中抽取容量为36的个体，组成一个样本，利用该样本构造总体均值的99%的置信区间。重复该过程500次，利用这500个样本构造500个总体均值的99%的置信区间。计算这500个置信区间中包含总体均值80的比例是多少？"
+  },
+  {
+    "objectID": "chap4.html",
+    "href": "chap4.html",
+    "title": "第4章",
+    "section": "",
+    "text": "讲义"
+  },
+  {
+    "objectID": "chap4.html#习题1-employee-data.sav",
+    "href": "chap4.html#习题1-employee-data.sav",
+    "title": "第4章",
+    "section": "习题1 Employee data.sav",
+    "text": "习题1 Employee data.sav\n数据文件Employee data.sav\n\nEmployee data.sav文件在SPSS安装目录下,在电脑搜索文件名找到该文件。\nWindows系统下该文件的路径：C:/ProgramFiles/IBM/SPSS/Statistics/27/Samples/English\nMac系统下该文件的路径：/Applications/IBM SPSS Statistics 27/Samples/English/\nsample files简介：https://www.ibm.com/docs/en/spss-statistics/27.0.0?topic=system-sample-files\n\n1.1 Employee data.sav文件中一共有多少个个案，多少个变量？每个变量的含义是什么？\n1.2 报告educ的均值、中位数、标准差、最小值、最大值。\n1.3 根据educ的值创建定性变量educat, 创建规则为：若educ等于8， educat等于middle school; 若educ等于12， educat等于high school; 若educ大于等于14，且小于等于16， educat等于college; 若educ大于16， educat等postgraduate。报告educat的频数分布。\n1.4 创建变量salchange, 用于衡量current salary与beginning salary的差距。\n1.5 利用Employee data.sav文件中的变量，你还可以创建哪些变量？\n1.6 绘制salary的频数分布表，采用适当的组距，概括salary的分布在哪个区间最密集？\n1.7 绘制salbegin的频数分布表，采用适当的组距，概括salbegin的分布在哪个区间最密集？。\n1.8 按照性别分组，绘制各组别的salary的频数分布表，概括两个组别salary分布的差距。\n1.9 按照minor分组，绘制各组别的salbegin的频数分布表，概括两个组别salary分布的差距。\n1.10 选取两个定性变量，绘制簇状条形图。\n1.11 选取两个定性变量，绘制堆积条形图。\n1.12 选取两个定性变量，一个定量变量，用条形图反映各个组别的定量变量的均值的大小。\n1.13 选取一个定性变量，一个定量变量，绘制分组直方图。\n1.14 选取一个定性变量，两个定量变量，绘制分组散点图。\n1.15 将1.2中报告的表格，修改为三线表。"
   }
 ]
