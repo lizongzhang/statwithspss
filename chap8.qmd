@@ -73,6 +73,11 @@ title: "第8章"
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[第8章教材习题8.9-8.15](https://www.bilibili.com/video/BV12h411L74S/) 
 
 
+# 学生习作讲评
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> [第8章教材习题学生习作点评](https://lizongzhang.github.io/statwithspss/chap8ex.html){target="_blank"}
+
+
 # 拓展资源
 
 

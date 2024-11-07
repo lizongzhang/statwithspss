@@ -1,0 +1,54 @@
+---
+title: "第8章教材习题学生习作点评"
+---
+
+# 
+
+![优秀习作](img/stuex8.1_8.3.png){.lightbox}
+
+
+![优秀习作](img/stuex8.5_8.6_8.8.png){.lightbox}
+
+![优秀习作](img/stuex8good1.png){.lightbox}
+
+
+![作答不完整](img/stuex8bad1.png){.lightbox}
+
+![过程不够详细](img/stuex8bad2.png){.lightbox}
+
+
+
+
+![第1题卡方分布调整X的取值范围](img/key6.1a.png){.lightbox}
+![第1题F分布调整X的取值范围](img/key6.1b.png){.lightbox}
+
+
+# 第2题 直方图
+
+![卡方分布和t分布直方图学生习作](img/stu6.2a.png){.lightbox}
+
+
+
+
+![卡方分布、F分布直方图学生习作](img/stu6.2b.png){.lightbox}
+
+![第2题 调整组距](img/key6.2a.png){.lightbox}
+
+
+
+![第2题 调整组距](img/key6.2b.png){.lightbox}
+
+
+
+![第4题学生习作](img/stu6.4.png){.lightbox}
+
+
+
+![第5题学生习作](img/stu6.5.png){.lightbox}
+
+
+
+
+
+
+

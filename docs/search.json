@@ -483,6 +483,41 @@
     "text": "第10章 方差分析\n\n讲义\n\n教学视频\n\nEXCEL 单因素方差分析\nEXCEL 双因素方差分析\n\n习题讲评\n\n教材第10章习题讲评\n\n拓展资源"
   },
   {
+    "objectID": "chap9.html",
+    "href": "chap9.html",
+    "title": "第9章",
+    "section": "",
+    "text": "第9章 分类数据\n\n讲义\n\n教学视频\n\nEXCEL 拟合优度检验 CHISQ.TEST函数的使用\nEXCEL 独立性检验 CHISQ.TEST函数的使用\n\n习题讲评\n\n教材第9章习题讲评\n\n拓展资源"
+  },
+  {
+    "objectID": "chap8.html",
+    "href": "chap8.html",
+    "title": "第8章",
+    "section": "",
+    "text": "讲义"
+  },
+  {
+    "objectID": "chap8.html#重点难点视频",
+    "href": "chap8.html#重点难点视频",
+    "title": "第8章",
+    "section": "重点难点视频",
+    "text": "重点难点视频\n什么是P值？\n显著性水平和P值的区别？\n总体均值的检验：Z检验还是T检验？\n单侧检验还是双侧检验？"
+  },
+  {
+    "objectID": "chap8.html#excel操作",
+    "href": "chap8.html#excel操作",
+    "title": "第8章",
+    "section": "Excel操作",
+    "text": "Excel操作\nExcel 总体均值的Z检验：Z.test函数\nExcel 总体均值的T检验\nExcel 总体均值的T检验：P值法和临界值法\nExcel 两个总体方差比的F检验\nExcel 两个总体均值是否相等的T检验\nEXCEL 配对样本的T检验"
+  },
+  {
+    "objectID": "chap8.html#spss操作",
+    "href": "chap8.html#spss操作",
+    "title": "第8章",
+    "section": "SPSS操作",
+    "text": "SPSS操作\n单个总体参数的T检验\n两个独立样本t检验\n配对样本的t检验"
+  },
+  {
     "objectID": "case2pre.html#数据和变量",
     "href": "case2pre.html#数据和变量",
     "title": "汽车性能分析",
@@ -637,39 +672,11 @@
     "text": "Thanks for your attention！\n\n\n\n\nhttps://lizongzhang.github.io/stat24"
   },
   {
-    "objectID": "chap8.html",
-    "href": "chap8.html",
-    "title": "第8章",
+    "objectID": "chap8ex.html",
+    "href": "chap8ex.html",
+    "title": "第8章教材习题学生习作点评",
     "section": "",
-    "text": "讲义"
-  },
-  {
-    "objectID": "chap8.html#重点难点视频",
-    "href": "chap8.html#重点难点视频",
-    "title": "第8章",
-    "section": "重点难点视频",
-    "text": "重点难点视频\n什么是P值？\n显著性水平和P值的区别？\n总体均值的检验：Z检验还是T检验？\n单侧检验还是双侧检验？"
-  },
-  {
-    "objectID": "chap8.html#excel操作",
-    "href": "chap8.html#excel操作",
-    "title": "第8章",
-    "section": "Excel操作",
-    "text": "Excel操作\nExcel 总体均值的Z检验：Z.test函数\nExcel 总体均值的T检验\nExcel 总体均值的T检验：P值法和临界值法\nExcel 两个总体方差比的F检验\nExcel 两个总体均值是否相等的T检验\nEXCEL 配对样本的T检验"
-  },
-  {
-    "objectID": "chap8.html#spss操作",
-    "href": "chap8.html#spss操作",
-    "title": "第8章",
-    "section": "SPSS操作",
-    "text": "SPSS操作\n单个总体参数的T检验\n两个独立样本t检验\n配对样本的t检验"
-  },
-  {
-    "objectID": "chap9.html",
-    "href": "chap9.html",
-    "title": "第9章",
-    "section": "",
-    "text": "第9章 分类数据\n\n讲义\n\n教学视频\n\nEXCEL 拟合优度检验 CHISQ.TEST函数的使用\nEXCEL 独立性检验 CHISQ.TEST函数的使用\n\n习题讲评\n\n教材第9章习题讲评\n\n拓展资源"
+    "text": "优秀习作\n\n\n\n\n\n优秀习作\n\n\n\n\n\n优秀习作\n\n\n\n\n\n作答不完整\n\n\n\n\n\n过程不够详细\n\n\n \n\n\n第2题 直方图\n\n\n\n卡方分布和t分布直方图学生习作\n\n\n\n\n\n卡方分布、F分布直方图学生习作\n\n\n\n\n\n第2题 调整组距\n\n\n\n\n\n第2题 调整组距\n\n\n\n\n\n第4题学生习作\n\n\n\n\n\n第5题学生习作\n\n\n\n\n\n优秀习作\n优秀习作\n优秀习作\n作答不完整\n过程不够详细\n卡方分布和t分布直方图学生习作\n卡方分布、F分布直方图学生习作\n第2题 调整组距\n第2题 调整组距\n第4题学生习作\n第5题学生习作"
   },
   {
     "objectID": "case1comment.html",

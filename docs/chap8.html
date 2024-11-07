@@ -172,6 +172,7 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#教材习题" id="toc-教材习题" class="nav-link" data-scroll-target="#教材习题">教材习题</a></li>
   <li><a href="#习题讲评" id="toc-习题讲评" class="nav-link" data-scroll-target="#习题讲评">习题讲评</a></li>
+  <li><a href="#学生习作讲评" id="toc-学生习作讲评" class="nav-link" data-scroll-target="#学生习作讲评">学生习作讲评</a></li>
   <li><a href="#拓展资源" id="toc-拓展资源" class="nav-link" data-scroll-target="#拓展资源">拓展资源</a></li>
   </ul>
 </nav>
@@ -246,6 +247,10 @@ ul.task-list li input[type="checkbox"] {
 <h1>习题讲评</h1>
 <p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV1dM4y1t7Xw/">第8章教材习题8.1-8.8</a></p>
 <p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV12h411L74S/">第8章教材习题8.9-8.15</a></p>
+</section>
+<section id="学生习作讲评" class="level1">
+<h1>学生习作讲评</h1>
+<p><img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> <a href="https://lizongzhang.github.io/statwithspss/chap8ex.html" target="_blank">第8章教材习题学生习作点评</a></p>
 </section>
 <section id="拓展资源" class="level1">
 <h1>拓展资源</h1>
@@ -679,7 +684,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"loop":false,"closeEffect":"zoom","openEffect":"zoom","selector":".lightbox","descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","openEffect":"zoom","selector":".lightbox","closeEffect":"zoom","loop":false});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
