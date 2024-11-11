@@ -32,7 +32,7 @@ title: "第8章"
   <summary>视频：配对样本和独立样本的区别</summary>
 
 
-{{< video img/paired_samples1080p.mp4 >}}
+{{< video img/paired_samples.mp4 >}}
     
 <details>
 
