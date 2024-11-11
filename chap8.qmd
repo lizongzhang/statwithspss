@@ -29,7 +29,9 @@ title: "第8章"
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[单侧检验还是双侧检验？](https://www.bilibili.com/video/BV1F64y1C7nq/?p=4) 
 
 <details>
-  <summary>视频：配对样本和独立样本的区别</summary>
+  <summary> 
+  <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">
+  <span style="color:blue;">配对样本和独立样本的区别</summary>
 
 
 {{< video img/paired_samples.mp4 >}}
@@ -59,6 +61,34 @@ title: "第8章"
 
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[配对样本的t检验](https://www.bilibili.com/video/BV1Fy4y167rs)
+
+# 课堂练习
+
+<details>
+  <summary>根据Excel输出结果回答问题</summary>
+  
+数据简介：随机选取36人参加打字速度（WPM， Words Per Minute）测试, 如图所示，B列下方是第1轮测试的成绩。 第1轮测试后，这36人利用打字软件TYPER MASTER进行了2小时练习，然后参加了第2轮测试。第2轮测试的成绩在C列下方，两次测试的成绩的差距在D列下方。
+
+请回答以下问题：
+
+1. 请写出如图所示的t检验的假设检验的：
+
+    - 1.1 原假设和备择假设
+    
+    - 1.2 检验统计量服从什么分布？
+    
+    - 1.3 检验统计量的值是什么？
+    
+    - 1.4 P值是多少？并解释P值的含义
+    
+    - 1.5 在0.05的显著性水平下，检验结论是什么？
+
+
+2. 请写出图中F8单元格中的数值的计算式？
+
+![](img/typing.png){.lightbox} 
+
+<details>
 
 # 教材习题
 

@@ -172,6 +172,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#excel操作" id="toc-excel操作" class="nav-link" data-scroll-target="#excel操作">Excel操作</a></li>
   <li><a href="#spss操作" id="toc-spss操作" class="nav-link" data-scroll-target="#spss操作">SPSS操作</a></li>
   </ul></li>
+  <li><a href="#课堂练习" id="toc-课堂练习" class="nav-link" data-scroll-target="#课堂练习">课堂练习</a></li>
   <li><a href="#教材习题" id="toc-教材习题" class="nav-link" data-scroll-target="#教材习题">教材习题</a></li>
   <li><a href="#习题讲评" id="toc-习题讲评" class="nav-link" data-scroll-target="#习题讲评">习题讲评</a></li>
   <li><a href="#学生习作讲评" id="toc-学生习作讲评" class="nav-link" data-scroll-target="#学生习作讲评">学生习作讲评</a></li>
@@ -221,8 +222,8 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV1F64y1C7nq/?p=4">单侧检验还是双侧检验？</a></p>
 <details>
 <summary>
-视频：配对样本和独立样本的区别
-</summary>
+<img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"> <span style="color:blue;">配对样本和独立样本的区别
+</span></summary>
 <div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="img/paired_samples.mp4"></video></div>
 <details>
 </details></details></section>
@@ -242,6 +243,28 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV1Fy4y167rs">配对样本的t检验</a></p>
 </section>
 </section>
+<section id="课堂练习" class="level1">
+<h1>课堂练习</h1>
+<details>
+<summary>
+根据Excel输出结果回答问题
+</summary>
+<p>数据简介：随机选取36人参加打字速度（WPM， Words Per Minute）测试, 如图所示，B列下方是第1轮测试的成绩。 第1轮测试后，这36人利用打字软件TYPER MASTER进行了2小时练习，然后参加了第2轮测试。第2轮测试的成绩在C列下方，两次测试的成绩的差距在D列下方。</p>
+<p>请回答以下问题：</p>
+<ol type="1">
+<li><p>请写出如图所示的t检验的假设检验的：</p>
+<ul>
+<li><p>1.1 原假设和备择假设</p></li>
+<li><p>1.2 检验统计量服从什么分布？</p></li>
+<li><p>1.3 检验统计量的值是什么？</p></li>
+<li><p>1.4 P值是多少？并解释P值的含义</p></li>
+<li><p>1.5 在0.05的显著性水平下，检验结论是什么？</p></li>
+</ul></li>
+<li><p>请写出图中F8单元格中的数值的计算式？</p></li>
+</ol>
+<p><a href="img/typing.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="img/typing.png" class="img-fluid"></a></p>
+<details>
+</details></details></section>
 <section id="教材习题" class="level1">
 <h1>教材习题</h1>
 <p>教材P163，练习题8.1和8.2任选一题, 8.3</p>
@@ -693,7 +716,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </footer>
 <script>videojs(video_shortcode_videojs_video1);</script>
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","descPosition":"bottom","selector":".lightbox","closeEffect":"zoom","loop":false});
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","selector":".lightbox","closeEffect":"zoom","loop":false,"openEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
