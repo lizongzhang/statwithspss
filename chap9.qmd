@@ -66,6 +66,10 @@ https://www.bilibili.com/video/BV1J94y1H7uv/
 
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[教材习题9.2和9.4在SPSS中的实现：卡方检验](https://www.bilibili.com/video/BV1J94y1H7uv/)
 
+# 学生习作讲评
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px"> [第9章教材习题学生习作点评](https://lizongzhang.github.io/statwithspss/chap9ex.html){target="_blank"}
+
 # 拓展资源
 
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">独立性检验计算器 <https://www.standarddeviationcalculator.io/chi-square-calculator>{target="_blank"}
