@@ -16,9 +16,18 @@ title: "第10章"
 
 # SPSS操作视频
 
-
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[SPSS 单因素方差分析ANOVA](https://www.bilibili.com/video/BV1M54y1C7EB
 )
+
+
+# 课堂练习
+
+<details>
+  <summary>根据Excel输出结果回答问题</summary>
+
+![](img/10exatclass.png){.lightbox} 
+
+<details>
 
 # 习题讲评 
 
