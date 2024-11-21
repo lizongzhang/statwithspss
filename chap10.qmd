@@ -37,11 +37,10 @@ title: "第10章"
 <img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px">[教材习题10.3在SPSS中的实现: 单因素方差分析](https://www.bilibili.com/video/BV1J94y1H7uv/)
 
 
-
-
 # 拓展资源 
 
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">方差分析数值演示 <https://www.geogebra.org/m/dTCH4EKG>{target="_blank"}
+
 
 
 
