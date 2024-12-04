@@ -101,6 +101,11 @@ title: "案例与实验报告"
 
 <img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[第7-8章小组作业点评](https://lizongzhang.github.io/statwithspss/case2comment.html)
 
+# 第9-10章小组作业点评
+
+<img src="img/link.png" style="width: 24px; height: 24px;margin-right: 10px">[第9-10章小组作业点评](https://lizongzhang.github.io/statwithspss/case3comment.html)
+
+
 # Q&A
 
 Q1：实验报告与小组案例作业需用同样的选题和数据吗？
