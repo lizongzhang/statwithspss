@@ -156,7 +156,16 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#第13章-时间序列" id="toc-第13章-时间序列" class="nav-link active" data-scroll-target="#第13章-时间序列">第13章 时间序列</a></li>
+  <li><a href="#教学视频" id="toc-教学视频" class="nav-link" data-scroll-target="#教学视频">教学视频</a></li>
+  <li><a href="#习题讲评" id="toc-习题讲评" class="nav-link" data-scroll-target="#习题讲评">习题讲评</a></li>
+  <li><a href="#课堂练习" id="toc-课堂练习" class="nav-link" data-scroll-target="#课堂练习">课堂练习</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -180,28 +189,267 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<h1 style="color: #044875;">
-第13章 时间序列
-</h1>
+<section id="第13章-时间序列" class="level1">
+<h1>第13章 时间序列</h1>
 <p><img src="img/teacher.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://lizongzhang.github.io/stat/chap13.html">讲义</a></p>
-<h3 style="color: #044875;" class="anchored">
-教学视频
-</h3>
+</section>
+<section id="教学视频" class="level1">
+<h1>教学视频</h1>
 <p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV1c5411p7ob/">Excel指数平滑法–规划求解</a></p>
 <p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV1nK411M7k6/">Excel趋势型序列的预测</a></p>
-<p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV1nv41147VE/">ExcelEXCEL 散点图添加非线性回归方程</a></p>
+<p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV1nv41147VE/">EXCEL 散点图添加非线性回归方程</a></p>
 <p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV19V411h7aV/">Excel复合型时间序列分解预测之一：季度数据</a></p>
 <p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV1Ry4y1v7Et/">复合型时间序列分解预测之二：月度数据</a></p>
-<h3 style="color: #044875;" class="anchored">
-习题讲评
-</h3>
+</section>
+<section id="习题讲评" class="level1">
+<h1>习题讲评</h1>
 <p><img src="img/video.png" alt="讲义" style="width: 24px; height: 24px;margin-right: 10px"><a href="https://www.bilibili.com/video/BV13c41137ym/">教材第13章习题讲评</a></p>
-<h3 style="color: #044875;" class="anchored">
-拓展资源
-</h3>
-<p>在线词云图工具 <a href="https://www.wordclouds.com/" class="uri">https://www.wordclouds.com/</a></p>
+</section>
+<section id="课堂练习" class="level1">
+<h1>课堂练习</h1>
+<details>
+<summary>
+移动平均数的应用
+</summary>
+<p>广州迎来63年来“最长夏季”！何时入秋？ <a href="https://news.southcn.com/node_54a44f01a2/1cd82d025e.shtml" class="uri">https://news.southcn.com/node_54a44f01a2/1cd82d025e.shtml</a></p>
+<p><strong>“气候季节划分”标准（GB/T 42074-2022）</strong></p>
+<p>连续5天的5日滑动平均气温小于22.0℃，则以对应的气温序列中第一个小于22.0℃的日期作为秋季起始日。</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>日期</th>
+<th>日平均气温(2时、8时、14时、20时四个时点的平均气温)</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2024年11月14日</td>
+<td>25.5</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024年11月15日</td>
+<td>24.0</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024年11月16日</td>
+<td>23.3</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024年11月17日</td>
+<td>24.5</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024年11月18日</td>
+<td>21.9</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024年11月19日</td>
+<td>18.1</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024年11月20日</td>
+<td>15.9</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024年11月21日</td>
+<td>16.0</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024年11月22日</td>
+<td>18.5</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024年11月23日</td>
+<td>18.5</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024年11月24日</td>
+<td>20.6</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</details>
+<details>
+<summary>
+指数平滑法
+</summary>
+<p>下图是ABC网站的日访问量数据，采用指数平滑法预测1月份每一天的访问量，用哪个平滑系数预测误差最小？</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>访问量</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2024/1/1</td>
+<td>972</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/2</td>
+<td>988</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/3</td>
+<td>1078</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/4</td>
+<td>1004</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/5</td>
+<td>1006</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/6</td>
+<td>1086</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/7</td>
+<td>1023</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/8</td>
+<td>937</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/9</td>
+<td>966</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/10</td>
+<td>978</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/11</td>
+<td>1061</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/12</td>
+<td>1018</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/13</td>
+<td>1020</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/14</td>
+<td>1006</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/15</td>
+<td>972</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/16</td>
+<td>1089</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/17</td>
+<td>1025</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/18</td>
+<td>902</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/19</td>
+<td>1035</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/20</td>
+<td>976</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/21</td>
+<td>947</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/22</td>
+<td>989</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/23</td>
+<td>949</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/24</td>
+<td>964</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/25</td>
+<td>969</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/26</td>
+<td>916</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/27</td>
+<td>1042</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/28</td>
+<td>1008</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2024/1/29</td>
+<td>943</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2024/1/30</td>
+<td>1063</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 
+</details></section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
