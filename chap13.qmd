@@ -89,3 +89,7 @@ title: "第13章"
 | 2024/1/28|1008
 | 2024/1/29|943
 | 2024/1/30|1063
+
+# 拓展资源
+
+[点击这里下载 统计学第7版13.6节PDF文件](https://lizongzhang.github.io/statwithspss/7ed13.6.pdf)
